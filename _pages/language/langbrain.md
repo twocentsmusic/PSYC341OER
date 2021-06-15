@@ -101,10 +101,9 @@ Although our understanding of the neural organization of language is still incom
 * Stahl B, Van Lancker Sidtis D (2015). Tapping into neural resources of communication: formulaic language in aphasia therapy. Frontiers in Psychology. 6 (1526): 1526. 
 {: .small}
 
-Adapted from:
-
-* [7.2 Language](https://opentext.wsu.edu/psych105/chapter/7-3-language/) by Kathryn Dumper, William Jenkins, Arlene Lacombe, Marilyn Lovett, and Marion Perimutter, licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-* Walinga & Stangor (2010). [Communicating With Others: The Development and Use of Language](https://opentextbc.ca/introductiontopsychology/chapter/9-3-communicating-with-others-the-development-and-use-of-language/). In Introduction to Psychology - 1st Canadian Edition [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+Adapted from: 
+* Dumper, K., Jenkins, W., Lacombe, A., Lovett, M., & Perimutter, M. [7.2 Language](https://opentext.wsu.edu/psych105/chapter/7-3-language/), [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+* Walinga & Stangor (2010). [Communicating With Others: The Development and Use of Language](https://opentextbc.ca/introductiontopsychology/chapter/9-3-communicating-with-others-the-development-and-use-of-language/) in Introduction to Psychology - 1st Canadian Edition, [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 * Wikipedia entries on [Aphasia](https://en.wikipedia.org/wiki/Aphasia), [Event-related potential](https://en.wikipedia.org/wiki/Event-related_potential), and [Functional magnetic resonance imaging](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) retrieved 4/2/21, CC-BY-SA 3.0
 
-Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+Slevc (2021). Language and Brain. Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>

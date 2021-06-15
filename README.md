@@ -22,7 +22,7 @@ This site material itself falls in the Public Domain - i.e., licensed under a [
 # Become a Contributor
 ## GitHub
 
-The current site--called the "repository"--is the center for editing and branching. Changes to the main branch, or the "master" branch, will be pushed to the published site: https://umdoer.github.io/PSYC341OER/.
+The current site--called the "repository"--is the center for editing and branching. Changes to the main branch, or the "master" branch, will be pushed to the published site, e.g., https://bobsthinktank.github.io/PSYC341OER/.
 
 You do not need a GitHub account to view the published site, however you do need an account to make edits or contributions.
 
@@ -47,7 +47,7 @@ For more information on how to create a pull request, click [here.](https://docs
 
 # Navigating the Repository
 
-The repository is organized into several folders on the main page:
+The repository is organized (sometimes not very well) into several folders on the main page:
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 11.49.38 AM.png" style="width:20%">

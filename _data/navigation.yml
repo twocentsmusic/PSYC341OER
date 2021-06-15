@@ -1,181 +1,181 @@
 docs:
   - title: Contents
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://bobsthinktank.github.io/PSYC341OER/
     children:
       - title: Introduction
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/intro-methods/introduction.html
       - title: Sensation and Perception
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/sensation-perception.html
       - title: Attention and Consciousness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
       - title: Memory and Learning
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/memory_stages.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/memory_stages.html
       - title: Language
-        url: https://umdoer.github.io/PSYC341OER/_pages/language.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/language.html
       - title: Problem Solving and Creativity
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity.html
       - title: Decision Making
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/decisionmaking.html
       - title: Cognitive Development and Aging
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
         
 intronav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://bobsthinktank.github.io/PSYC341OER/
   - title: Introduction, Methods, and History
     children:
       - title: What is Cognitive Psychology?
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/intro-methods/introduction.html
       - title: Statistical Thinking
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/statisticalthinking.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/intro-methods/statisticalthinking.html
       - title: Replication Crisis
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/replicationcrisis.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/intro-methods/replicationcrisis.html
       - title: Research Designs
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/researchdesigns.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/intro-methods/researchdesigns.html
       - title: Thinking Like a Psychological Scientist
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/thinkinglikeapsychscientist.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/intro-methods/thinkinglikeapsychscientist.html
 
 senpernav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://bobsthinktank.github.io/PSYC341OER/
   - title: Sensation and Perception
-    url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
+    url: https://bobsthinktank.github.io/PSYC341OER/_pages/sensation-perception.html
     children:
       - title: Sensation and Perception
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/sensation-perception.html
       - title: Pattern and object recognition
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/object_perception.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/sensation-perception/object_perception.html
   - title: Other resources
     children:
       - title: Reality is constructed by your brain
         url: https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization
       - title: 60 Minutes segment on Prosopagnosia
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/prosopag_vid.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/sensation-perception/prosopag_vid.html
       - title: Segment on Capgras Delusion
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/capgras_vid.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/sensation-perception/capgras_vid.html
 
 attconnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://bobsthinktank.github.io/PSYC341OER/
   - title: Attention and Consciousness
-    url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
+    url: https://bobsthinktank.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
     children:
       - title: Attention Processes
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
   - title: Other resources
     children:
       - title: Video on Neglect
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/neglectvid.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/attention-consciousness/neglectvid.html
 
 memorynav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://bobsthinktank.github.io/PSYC341OER/
   - title: Memory
-    url: https://umdoer.github.io/PSYC341OER/_pages/memory/memory_stages.html
+    url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/memory_stages.html
     children:
       - title: Stages of Memory
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/memory_stages.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/memory_stages.html
       - title: Encoding, Storage, and Retrieval
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory.html
       - title: Memory Biases
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/memorybiases.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/memorybiases.html
       - title: Forgetting and Amnesia
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/forgetting.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/forgetting.html
       - title: Factors influencing learning
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/learning.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/learning-expertise/learning.html
       - title: Categories and Concepts
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/categoriesandconcepts.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/categoriesandconcepts.html
   - title: Other resources
     children:
       - title: Twisted (doc on false memories)
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_twisted.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/vid_twisted.html
       - title: Elizabeth Loftus TED talk
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_loftus.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/vid_loftus.html
       - title: What happens when you remove the hippocampus? 
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_hm.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/vid_hm.html
       - title: The Man with the Seven Second Memory
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_wearing.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/vid_wearing.html
       - title: Learning styles - A complete myth
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_styles.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/vid_styles.html
       - title: Listening to music while writing
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/vid_music.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/memory/vid_music.html
 
 langnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://bobsthinktank.github.io/PSYC341OER/
   - title: Language
-    url: https://umdoer.github.io/PSYC341OER/_pages/language.html
+    url: https://bobsthinktank.github.io/PSYC341OER/_pages/language.html
     children:
       - title: Speech perception and language use
-        url: https://umdoer.github.io/PSYC341OER/_pages/language.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/language.html
       - title: Language and brain
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/langbrain.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/language/langbrain.html
   - title: Other Resources
     children:
       - title: McGurk effect
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/mcgurk.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/language/mcgurk.html
       - title: Ismo (comedian) on linguistic ambiguity
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/ismo.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/language/ismo.html
       - title: Aphasia
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/aphasia.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/language/aphasia.html
       - title: Animal Communication
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/animalcomm.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/language/animalcomm.html
 
 probnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://bobsthinktank.github.io/PSYC341OER/
   - title: Problem Solving and Creativity
-    url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity.html
+    url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity.html
     children:
       - title: Intelligence
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/intelligence.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/intelligence.html
       - title: Creativity
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity.html
   - title: Other resources
     children:
       - title: River crossing problem
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/probsolve.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/probsolve.html
       - title: Divergent thinking
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity_ex.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity_ex.html
       - title: Intelligence - Crash Course
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/iq_video.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/iq_video.html
       - title: Brain on Improv
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/improv.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/improv.html
         
 decnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://bobsthinktank.github.io/PSYC341OER/
   - title: Decision Making
-    url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
+    url: https://bobsthinktank.github.io/PSYC341OER/_pages/decisionmaking.html
     children:
       - title: Judgement and Decision Making
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/decisionmaking.html
       - title: Applied Decision Making (TBA)
         url: 
   - title: Other Resources
     children:
       - title: Wason Selection Task
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/wason.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/decisionmaking/wason.html
       - title: Monty Hall Problem
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/montyhall.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/decisionmaking/montyhall.html
       - title: Norman Doors
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/doors.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/decisionmaking/doors.html
         
 cogdevnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://bobsthinktank.github.io/PSYC341OER/
   - title: Cognitive Development and Aging
-    url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
+    url: https://bobsthinktank.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
     children:
       - title: Cognitive Development
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
   - title: Other Resources
     children:
       - title: Scale Errors
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/scaleerror.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/cogdev-aging/scaleerror.html
       - title: Piaget’s Stages
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/piaget_stages.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/cogdev-aging/piaget_stages.html
       - title: the Marshmallow Test
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/marshmallow.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/cogdev-aging/marshmallow.html
       - title: Head-Turn Procedure
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/headturn.html
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/cogdev-aging/headturn.html

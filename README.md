@@ -1,10 +1,10 @@
 # PSYC341OER
 ## Table of Contents
-* [Introduction](https://github.com/UMDOER/PSYC341OER/blob/master/README.md#introduction)
-* [Contributors](https://github.com/UMDOER/PSYC341OER/blob/master/README.md#contributors)
-* [Become a Contributor](https://github.com/UMDOER/PSYC341OER/blob/master/README.md#become-a-contributor)
-* [Navigating the Repository](https://github.com/UMDOER/PSYC341OER/blob/master/README.md#Navigating-the-Repository)
-* [Making Changes](https://github.com/UMDOER/PSYC341OER/blob/master/README.md#making-changes)
+* [Introduction](https://github.com/bobsthinktank/PSYC341OER/blob/master/README.md#introduction)
+* [Contributors](https://github.com/bobsthinktank/PSYC341OER/blob/master/README.md#contributors)
+* [Become a Contributor](https://github.com/bobsthinktank/PSYC341OER/blob/master/README.md#become-a-contributor)
+* [Navigating the Repository](https://github.com/bobsthinktank/PSYC341OER/blob/master/README.md#Navigating-the-Repository)
+* [Making Changes](https://github.com/bobsthinktank/PSYC341OER/blob/master/README.md#making-changes)
 
 # Introduction
 
@@ -12,10 +12,10 @@ The primary goal of project aims to provide an open-source, ever-expanding body 
 
 This site is hosted via Github, allowing many users to contribute to the main site or to make their own variations. Ideally/eventually, this site will provide a mix of written and multimedia information to encourage learning through several mediums. 
 
-This site material itself falls in the Public Domain - i.e., licensed under a [Creative Commons Zero v1.0 Universa licensure](https://creativecommons.org/publicdomain/zero/1.0/deed.en), however note that most sections are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US).
+This site material itself falls in the Public Domain - i.e., licensed under a [Creative Commons Zero v1.0 Universa License](https://creativecommons.org/publicdomain/zero/1.0/deed.en), however note that content in most sections is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US).
 
 # Contributors
-* [Bob Slevc](https://psyc.umd.edu/facultyprofile/slevc/l-robert)
+* [Bob Slevc](https://github.com/bobsthinktank)
 * Camille Burns
 * Sam Santomartino
 
@@ -50,7 +50,7 @@ For more information on how to create a pull request, click [here.](https://docs
 The repository is organized (sometimes not very well) into several folders on the main page:
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 11.49.38 AM.png" style="width:20%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 11.49.38 AM.png" style="width:20%">
 </figure>
 
 * **_data** holds the .nav page, which creates the sidebar of links
@@ -62,7 +62,7 @@ Additionally, there are several lone pages:
 * **.gitignore and Gemfile** have information about the current theme
 * **LICENSE** has more information about Creative Commons Zero v1.0 Universa
 * **README.md** is this!
-* **_congig.yml** has information on the theme and layout
+* **_config.yml** has information on the theme and layout
 * **index.md** is the main page of the website
 
 # Making Changes
@@ -78,7 +78,7 @@ If you want to add or delete a page from the sidebar, follow these steps:
 **1)** Add a page to the **_pages** folder, or delete the selected page by clicking the trashcan icon in the top right corner:
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.23.31 PM.png" style="width:20%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.23.31 PM.png" style="width:20%">
 </figure>
 
 **2)** In **_data**, go to navigation.yml. 
@@ -86,19 +86,19 @@ If you want to add or delete a page from the sidebar, follow these steps:
 Each sidebar is organized in the same format:
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/sidebarreadme.png" style="width:20%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/sidebarreadme.png" style="width:20%">
 </figure>
 
 For example, here is the beginning of the sidebar for the Sensation and Perception pages:
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.30.39 PM.png" style="width:20%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.30.39 PM.png" style="width:20%">
 </figure>
 
 Which, when published, leads to this:
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.31.19 PM.png" style="width:20%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.31.19 PM.png" style="width:20%">
 </figure>
 
 Therefore, when adding or deleting a page, you must also add or delete the code for that page in the sidebar. 
@@ -114,7 +114,7 @@ To add images to your .md page, follow these steps:
 **2)** Insert your image using the following format:
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.41.50 PM.png" style="width:20%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 12.41.50 PM.png" style="width:20%">
 </figure>
 
 * The **figure style** can be edited to change the alignment, margins, and size of the photo

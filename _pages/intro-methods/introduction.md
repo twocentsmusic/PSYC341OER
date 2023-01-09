@@ -4,17 +4,17 @@ sidebar:
   nav: "docs"
 ---
 # What is Cognitive Psychology?
-<cite>Adapted in part from Zhong-Lin Lu and Barbara Anne Dosher (2007), Scholarpedia, 2(8):2769. http://dx.doi.org/10.4249/scholarpedia.2769 and from Matthew J. C. Crump (2021), Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications. https://crumplab.com/cognition/textbook</cite>
+<cite>Adapted from multiple sources (see below)</cite>
 {: .small}
 
 **Cognitive psychology** is the scientific investigation of human cognition, that is, all our mental abilities – perceiving, learning, remembering, thinking, reasoning, and understanding. The term "cognition" stems from the Latin word " cognoscere" or "to know". Fundamentally, cognitive psychology studies how people acquire and apply knowledge or information. It is closely related to the highly interdisciplinary field of cognitive science and influenced by artificial intelligence, computer science, philosophy, anthropology, linguistics, biology, physics, and neuroscience.   
+
+##  History
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:45%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/intro-man-inside-note-head.jpg" alt="Drawing of a Homunculus kind of guy inside a head, looking at papers. Illustration by Frits Ahlefeldt.">
     <figcaption> If you have ever wondered about your mind, then you probably asked a question that cognitive psychology is interested in answering. [1]</figcaption>
 </figure>
-
-##  History
 
 Cognitive psychology in its modern form incorporates a remarkable set of new technologies in psychological science. Although published inquiries of human cognition can be traced back at least as far as the ancient Greeks (e.g., [Aristotle's *De Memoria*](http://classics.mit.edu/Aristotle/memory.html) in 350 B.C.E; Hothersall, 1984), the intellectual origins of cognitive psychology began with cognitive approaches to psychological problems at the end of the 1800s and early 1900s in the works of Wundt, Cattell, and William James (Boring, 1950). 
 
@@ -147,5 +147,6 @@ However, it is important to realize that cognitive research has not always had u
 * Zhang, J. (1997) The nature of external: Representations in problem solving. Cognitive Science 21: 179-217. 
 {: .small}
 
-Adapted from Zhong-Lin Lu and Barbara Anne Dosher (2007), Scholarpedia, 2(8):2769.
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+Adapted from 
+* Zhong-Lin Lu and Barbara Anne Dosher (2007), Scholarpedia, 2(8):2769. [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
+* Matthew J. C. Crump. (2021). What is Cognition? In Matthew J. C. Crump (Ed.), [Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications](https://crumplab.com/cognition/textbook). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

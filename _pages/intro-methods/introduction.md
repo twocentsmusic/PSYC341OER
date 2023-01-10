@@ -11,12 +11,12 @@ sidebar:
 
 ##  History
 
-Cognitive psychology in its modern form incorporates a remarkable set of new technologies in psychological science. Although published inquiries of human cognition can be traced back at least as far as the ancient Greeks (e.g., [Aristotle's *De Memoria*](http://classics.mit.edu/Aristotle/memory.html) in 350 B.C.E; Hothersall, 1984), the intellectual origins of cognitive psychology began with cognitive approaches to psychological problems at the end of the 1800s and early 1900s in the works of Wundt, Cattell, and William James (Boring, 1950). 
-
 <figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/boring.jpg" alt="Photo of Boring's book on the History of Psychology.">
-    <figcaption> That citation to Boring is legit - there really was a prominant psychologist named [Edwin "Gary" Boring](https://psychology.fas.harvard.edu/people/edwin-g-boring) who wrote a classic book on the history of psychology. [1]</figcaption>
+    <figcaption> That citation to Boring is legit: a prominant psychologist named Edwin Boring wrote a classic book on the history of psychology. [1]</figcaption>
 </figure>
+
+Cognitive psychology in its modern form incorporates a remarkable set of new technologies in psychological science. Although published inquiries of human cognition can be traced back at least as far as the ancient Greeks (e.g., [Aristotle's *De Memoria*](http://classics.mit.edu/Aristotle/memory.html) in 350 B.C.E; Hothersall, 1984), the intellectual origins of cognitive psychology began with cognitive approaches to psychological problems at the end of the 1800s and early 1900s in the works of Wundt, Cattell, and William James (Boring, 1950). 
 
 Cognitive psychology declined in the first half of the 20th century with the rise of "behaviorism" –- the study of laws relating observable behavior to objective, observable stimulus conditions without any recourse to internal mental processes (Watson, 1913; Boring, 1950; Skinner, 1950). The refusal to consider internal mental processes was one of behaviorism's undoings. For example, lack of understanding of the internal mental processes led to no distinction between memory and performance and failed to account for complex learning (Tinklepaugh, 1928; Chomsky, 1959). These issue led to the decline of behaviorism as the dominant branch of scientific psychology and to the "Cognitive Revolution". 
 

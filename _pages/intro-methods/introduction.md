@@ -61,6 +61,7 @@ However, it is important to realize that cognitive research has not always had u
 
 ## Image credits
 1. Frits Ahlefeldt, https://commons.wikimedia.org/wiki/File:Man-inside-note-head.jpg, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+{: .small}
 
 ##  References
 

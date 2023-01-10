@@ -26,3 +26,4 @@ If you are an instructor of a class related to cognitive psychology, these mater
 ### Notes
 The materials here are adapted from multiple different sources, so please refer to each page for specific licence that applies. The content on this page is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> except the header image: <a href="https://www.flickr.com/photos/39416639@N02/19281482595">"Thinking Please Wait"</a><span> by <a href="https://www.flickr.com/photos/39416639@N02">TheBullethead</a></span> is licensed under <a href="https://creativecommons.org/publicdomain/mark/1.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC PDM 1.0</a>
 <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+{: .small}

@@ -11,15 +11,19 @@ sidebar:
 
 ##  History
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:45%">
-    <img src="https://bobsthinktank.github.io/PSYC341OER/images/intro-man-inside-note-head.jpg" alt="Drawing of a Homunculus kind of guy inside a head, looking at papers. Illustration by Frits Ahlefeldt.">
-    <figcaption> If you have ever wondered about your mind, then you probably asked a question that cognitive psychology is interested in answering. [1]</figcaption>
-</figure>
-
 Cognitive psychology in its modern form incorporates a remarkable set of new technologies in psychological science. Although published inquiries of human cognition can be traced back at least as far as the ancient Greeks (e.g., [Aristotle's *De Memoria*](http://classics.mit.edu/Aristotle/memory.html) in 350 B.C.E; Hothersall, 1984), the intellectual origins of cognitive psychology began with cognitive approaches to psychological problems at the end of the 1800s and early 1900s in the works of Wundt, Cattell, and William James (Boring, 1950). 
+
+<figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/boring.jpg" alt="Photo of Boring's book on the History of Psychology.">
+    <figcaption> That citation to Boring is legit - there really was a prominant psychologist named [Edwin "Gary" Boring](https://psychology.fas.harvard.edu/people/edwin-g-boring) who wrote a classic book on the history of psychology. [1]</figcaption>
+</figure>
 
 Cognitive psychology declined in the first half of the 20th century with the rise of "behaviorism" –- the study of laws relating observable behavior to objective, observable stimulus conditions without any recourse to internal mental processes (Watson, 1913; Boring, 1950; Skinner, 1950). The refusal to consider internal mental processes was one of behaviorism's undoings. For example, lack of understanding of the internal mental processes led to no distinction between memory and performance and failed to account for complex learning (Tinklepaugh, 1928; Chomsky, 1959). These issue led to the decline of behaviorism as the dominant branch of scientific psychology and to the "Cognitive Revolution". 
 
+<figure style="float:left;margin-right:10px;margin-top:7px;width:45%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/intro-man-inside-note-head.jpg" alt="Drawing of a Homunculus kind of guy inside a head, looking at papers. Illustration by Frits Ahlefeldt.">
+    <figcaption> If you have ever wondered about your mind, then you probably asked a question that cognitive psychology is interested in answering. [2]</figcaption>
+</figure>
 The Cognitive Revolution began in the mid-1950s when researchers in several fields began to develop theories of mind based on complex representations and computational procedures (Miller, 1956; Broadbent, 1958; Chomsky, 1959; Newell, Shaw, & Simon, 1958). Cognitive psychology became predominant in the 1960s (Tulving, 1962; Sperling, 1960). Ulric Neisser (1967) is tyipcally credited with popularizing the term “Cognitive Psychology” in his 1967 textbook. Neisser defined cognition as:
 
 > "…all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used."
@@ -60,7 +64,8 @@ Cognitive psychology research has produced an extensive body of principles, repr
 However, it is important to realize that cognitive research has not always had uniformly positive implications for society and there are examples where research applications negatively impacted specific groups of people (Prather et al., 2022). For example, research on mental imagery and the early development of intelligence testing were influenced by the widespread eugenics movement of the time. This era of psychology made a deep impression on subsequent cognitive research, and raises important questions about how psychological research should be conducted and applied in society.
 
 ## Image credits
-1. Frits Ahlefeldt, https://commons.wikimedia.org/wiki/File:Man-inside-note-head.jpg, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+1. Bob Slevc, [CC BY 4.0)(https://creativecommons.org/licenses/by/4.0/)
+2. Frits Ahlefeldt, https://commons.wikimedia.org/wiki/File:Man-inside-note-head.jpg, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 {: .small}
 
 ##  References
@@ -149,5 +154,6 @@ However, it is important to realize that cognitive research has not always had u
 {: .small}
 
 Adapted from 
-* Zhong-Lin Lu and Barbara Anne Dosher (2007), Scholarpedia, 2(8):2769. [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
-* Matthew J. C. Crump. (2021). What is Cognition? In Matthew J. C. Crump (Ed.), [Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications](https://crumplab.com/cognition/textbook). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+* Zhong-Lin Lu and Barbara Anne Dosher (2007). [Cognitive psychology](http://www.scholarpedia.org/article/Cognitive_psychology). *Scholarpedia, 2*(8):2769. [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
+* Matthew J. C. Crump. (2021). [What is Cognition?](https://crumplab.com/cognition/textbook/C1_What_is_Cognition.html) In Matthew J. C. Crump (Ed.), *Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications.* [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+{: .small}

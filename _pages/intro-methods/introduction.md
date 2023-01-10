@@ -24,8 +24,9 @@ Cognitive psychology declined in the first half of the 20th century with the ris
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/intro-man-inside-note-head.jpg" alt="Drawing of a Homunculus kind of guy inside a head, looking at papers. Illustration by Frits Ahlefeldt.">
     <figcaption> If you have ever wondered about your mind, then you probably asked a question that cognitive psychology is interested in answering. [2]</figcaption>
 </figure>
-The Cognitive Revolution began in the mid-1950s when researchers in several fields began to develop theories of mind based on complex representations and computational procedures (Miller, 1956; Broadbent, 1958; Chomsky, 1959; Newell, Shaw, & Simon, 1958). Cognitive psychology became predominant in the 1960s (Tulving, 1962; Sperling, 1960). Ulric Neisser (1967) is tyipcally credited with popularizing the term “Cognitive Psychology” in his 1967 textbook. Neisser defined cognition as:
+The Cognitive Revolution began in the mid-1950s when researchers in several fields began to develop theories of mind based on complex representations and computational procedures (Miller, 1956; Broadbent, 1958; Chomsky, 1959; Newell, Shaw, & Simon, 1958). Cognitive psychology became predominant in the 1960s (Tulving, 1962; Sperling, 1960). Ulric Neisser (1967) is tyipcally credited with popularizing the term “Cognitive Psychology” in his 1967 textbook. 
 
+Neisser defined cognition as:
 > "…all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used."
 
 Neisser’s definition of cognition remains current in many respects, but is also somewhat limited to a particular information processing view of cognition (discussed later). Neisser also had an expansive view of what cognitive research could accomplish. Here is another Neisser quote:
@@ -64,7 +65,7 @@ Cognitive psychology research has produced an extensive body of principles, repr
 However, it is important to realize that cognitive research has not always had uniformly positive implications for society and there are examples where research applications negatively impacted specific groups of people (Prather et al., 2022). For example, research on mental imagery and the early development of intelligence testing were influenced by the widespread eugenics movement of the time. This era of psychology made a deep impression on subsequent cognitive research, and raises important questions about how psychological research should be conducted and applied in society.
 
 ## Image credits
-1. Bob Slevc, [CC BY 4.0)(https://creativecommons.org/licenses/by/4.0/)
+1. Bob Slevc, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 2. Frits Ahlefeldt, https://commons.wikimedia.org/wiki/File:Man-inside-note-head.jpg, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 {: .small}
 

@@ -182,14 +182,12 @@ The analog and propositional ideas about cognitive representation are two very d
 
 In 1978, Stephen Kosslyn and colleagues (Kosslyn et al., 1978) reported some clever experiments on scanning of mental images. Here’s the quick and dirty version. Imagine a map of the USA, now zoom in on New York City and imagine a little black dot hovering over the city. Whenever you are ready, zoom that little black dot all the way over to Los Angeles. How long it did it take you to mentally scan across your mental image of the map? Mental chronometry refers to measuring how long it takes to perform mental operations like scanning a mental image.
 
-Instead of a map of the USA, participants were shown the map, sort of like that in the Figure to the left, and given practice mentally imaging the map and drawing it from memory until they could reproduce it to a high degree of accuracy. Kosslyn's map showed an island with a hut, tree, rock, well, lake, sand, and grass, all spread about the island.
-
-<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/treasuremap.jpg" alt="Schematic map of an island.">
     <figcaption>  Kosslyn used cartoon maps sort of like this in his mental scanning experiments. [2] </figcaption>
 </figure>
 
-The map was taken away and participants were asked to mentally image the map in their mind’s eye. Then, the main task began. The task was split up into individual trials where the participant was asked to focus on one of the depicted locations on their mental image of the map (by imagining a black dot on top of it), and then mentally scan to a different location by moving their imagined black dot to the new location. For example, you might focus on the shark in the water and the scan to the pirate ship (a longer distance); or focus on the mountains and scan to the treasure chest (a shorter distance). Importantly, the researchers measured the time taken to make each scan. The empirical question was whether or not the amount of time to mentally scan from one imagined location to another would depend on the distance between the imagined locations.
+Instead of a map of the USA, participants were shown a map sort of like that in the Figure to the right, and given practice mentally imaging the map and drawing it from memory until they could reproduce it very accurately. The map was taken away and participants were asked to mentally image the map in their mind’s eye. Then, the main task began. On each trial, the participant was asked to focus on one of the depicted locations on their mental image of the map (by imagining a black dot on top of it) and then mentally scan to a different location by moving their imagined black dot to the new location. For example, you might focus on the shark in the water and then scan to the pirate ship (a longer distance); or focus on the mountains and scan to the treasure chest (a shorter distance). Importantly, the researchers measured the time taken to make each scan. The empirical question was whether or not the amount of time to mentally scan from one imagined location to another would depend on the distance between the imagined locations.
 
 Before we look at the actual data, let’s consider three ways the experiment could have turned out. First, let’s assume that people can scan between different locations immediately without taking any time at all, I will call this the “no-time” hypothesis. Second, let’s assume that people will take some random amount of time to scan between the locations, the “random-time” hypothesis. And third, let’s assume that people’s scanning times will increase with the distance between the imagined locations, the “distance-time” hypothesis. Each of the these hypotheses makes a different prediction about how the results might turn out. Consider the three graphs below, showing how the results could have turned out according to each hypothesis: 
 
@@ -305,8 +303,11 @@ Mental Imagery
 
 ### Image Credits
 [1] from [Wikipedia](https://en.wikipedia.org/wiki/Francis_Galton#/media/File:Francis_Galton_1850s.jpg ). Public Domain.
+
 [2] From [publicdomainvectors.org](https://publicdomainvectors.org/en/free-clipart/Vector-image-of-old-treasure-paper-map/21145.html). Public Domain. 
+
 [3] Matthew Crump, [Instances of Cognition Ch. 2](https://crumplab.com/cognition/textbook/C2_Mental_Imagery.html). CC BY-SA 4.0
+
 [4] Kosslyn (1978). Probably copyrighted and I should re-make this image, but omg what a pain.
 {: .small}
 

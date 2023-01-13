@@ -11,8 +11,8 @@ sidebar:
 The world that we perceive is complex. For example, a visual scene typically has many overlapping sufaces that vary in shape, color, depth, and change based on the viewer's perspective. Despite this, we perceive our visual world as composed of multiple distinct objects with particular shapes that we infer from incomplete information. The processes of **pattern recognition** and **object recognition** refer to our ability to take sensory input and turn it into a meaningful perceptual interpretation. 
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Terrapins_Lagos_Zoo_The_Algarve_Portugal.jpg" >
-    <figcaption> How do you know these terrapins on the log are three separate objects? [Image credit: Glen Bowman, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons]</figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Terrapins_Lagos_Zoo_The_Algarve_Portugal.jpg" >
+    <figcaption> How do you know these terrapins on the log are three separate objects? [1] </figcaption>
 </figure>
 
 Psychologists often distinguish between **top-down** and **bottom-up** approaches to information-processing. In top-down approaches, knowledge or expectations are used to guide processing. That is, these accounts suggest perception results from hypotheses about sensory information based on prior knowledge (e.g., Gregory, 1970). Bottom-up (or *data driven*) approaches, however, are more like the structuralist approach, piecing together data to reach the bigger picture. For example, Gibson's (1966) theory of *direct perception* claims that the real world provides sufficient contextual information for our visual systems to directly perceive what is there, unmediated by the influence of higher cognitive processes. Gibson developed the notion of *affordances*, referring to those aspects of objects or environments that allow an individual to perform an action. Gibson's emphasis on the match between individual and environment led him to refer to his approach as ecological. Most psychologists now would argue that both bottom-up and top-down processes are involved in perception.
@@ -23,7 +23,7 @@ Psychologists often distinguish between **top-down** and **bottom-up** approache
 One way for people to recognize objects in their environment would be for them to compare their representations of those objects with templates stored in memory. For example, if I can achieve a match between the large red object I see in the street and my stored representation of a [London bus](https://commons.wikimedia.org/wiki/File:London_Bus_route_328_hybrid_bus_A.jpg), then I recognize a London bus. However, one difficulty for this theory is illustrated in the figure to the right.
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/TheCat.png" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/TheCat.png" >
     <figcaption> What do you read above? </figcaption>
 </figure>
 
@@ -35,8 +35,8 @@ Feature-matching theories propose that we decompose visual patterns into a set o
 The best known model of this kind is Selfridge's (1959) **Pandemonium model**, where information is processed through various stages by what Selfridge described as "mental demons," who shout out loud as they attempt to identify patterns in the stimuli. These pattern demons are at the lowest level of perception so after they are able to identify patterns, computational demons further analyze features to match to templates such as straight or curved lines. Finally at the highest level of discrimination, cognitive demons which allow stimuli to be categorized in terms of context and other higher order classifications, and the decisions demon decides among all the demons shouting about what the stimuli is which while be selected for interpretation.
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Pandemonium.jpg" >
-    <figcaption> Selfridge’s pandemonium model showing the various levels of demons which make estimations and pass the information on to the next level before the decision demon makes the best estimation to what the stimuli is. Adapted from Lindsay and Norman (1972). </figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Pandemonium.jpg" >
+    <figcaption> Selfridge’s pandemonium model showing the various levels of demons which make estimations and pass the information on to the next level before the decision demon makes the best estimation to what the stimuli is. [2] </figcaption>
 </figure>
 
 Although layers of shouting demons may seem a bit unscientific, the model actually incorporates several ideas that are important for pattern recognition. First, this model is a feature detection model that incorporates higher levels of processing as the information is processed in time. Second, the model incorporates ideas of parallel processing suggesting many different levels of analysis can happen to some extent at the same time. Third, the model suggests that perception is essentially a series of problem solving procedures, where we take bits of information and piece it all together to create something we are able to recognize and classify as something meaningful.
@@ -54,22 +54,22 @@ In the early part of the 20th century, Max Wertheimer (1912) published a paper d
 Gestalt perspectives in psychology represent investigations into ambiguous stimuli to determine where and how these ambiguities are being resolved by the brain. They also aim to understanding sensory and perception as processing information as *groups* or *wholes* instead of constructed wholes from many small parts. 
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/FacesVase.jpg" >
-    <figcaption>The concept of figure-ground relationship explains why this image can be perceived either as a vase or as a pair of faces. </figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/FacesVase.jpg" >
+    <figcaption>The concept of figure-ground relationship explains why this image can be perceived either as a vase or as a pair of faces. [3] </figcaption>
 </figure>
 One Gestalt principle is the figure-ground relationship. According to this principle, we tend to segment our visual world into figure and ground. Figure is the object or person that is the focus of the visual field, while the ground is the background. As the figure to the right shows, our perception can vary tremendously, depending on what is perceived as figure and what is perceived as ground. Presumably, our ability to interpret sensory information depends on what we label as figure and what we label as ground in any particular case. 
 
 Another Gestalt principle for organizing sensory stimuli into meaningful perception is proximity. This principle asserts that things that are close to one another tend to be grouped together, as the figure below illustrates.
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Proximity.jpg" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Proximity.jpg" >
     <figcaption>The Gestalt principle of proximity suggests that you see (a) one block of dots on the left side and (b) three columns on the right side. </figcaption>
 </figure>
 
 How we read something provides another illustration of the proximity concept. For example, we read this sentence like this, notl iket hiso rt hat. We group the letters of a given word together because there are no spaces between the letters, and we perceive words because there are spaces between each word. Here are some more examples: Cany oum akes enseo ft hiss entence? What doth es e wor dsmea n?
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:40%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Similarity.jpg" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Similarity.jpg" >
     <figcaption>When looking at this array of dots, we likely perceive alternating rows of colors according to the principle of similarity. </figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ We might also use the principle of similarity to group things in our visual fiel
 Two additional Gestalt principles are the law of continuity (or good continuation) and closure. The law of continuity suggests that we are more likely to perceive continuous, smooth flowing lines rather than jagged, broken lines (figure to right). The principle of closure states that we organize our perceptions into complete objects rather than as a series of parts (figure below).
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/ContinuityAndClosure.jpg" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/ContinuityAndClosure.jpg" >
     <figcaption>Left: Good continuation / continuity would suggest that we are more likely to perceive this as two overlapping lines, rather than four lines meeting in the center. 
         Right: Closure suggests that we will perceive a complete circle and rectangle rather than a series of segments. </figcaption>
 </figure>
@@ -92,8 +92,8 @@ One criticsm of the Gestalt approach to perception is that it is largely *descri
 The recognition-by-components theory (Biderman, 1987) is a top-down process proposed by Biederman (1987) to explain object recognition. According to this theory, we are able to recognize objects by separating them into **geons** (the object’s main component parts). Biederman suggested that geons are based on basic 3-dimensional shapes (cylinders, cones, etc.) that can be assembled in various arrangements to form a virtually unlimited number of objects.
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Breakdown_of_objects_into_Geons.png" >
-    <figcaption> Geons making up a mug and a suitcase. [Image credit: UserLdaisy at English Wikipedia, Public domain, via Wikimedia Commons]</figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Breakdown_of_objects_into_Geons.png" >
+    <figcaption> Geons making up a mug and a suitcase. [4] </figcaption>
 </figure>
 
 The recognition-by-components theory suggests that there are a small set of geons which are combined to create the objects we see in day-to-day life. For example, when looking at a mug we break it down into two components – "cylinder" and "handle", and an ice cream cone could be broken down into a sphere located above a cone. This also works for more complex objects, which in turn are made up of a larger number of geons. Perceived geons are then compared with objects in our stored memory to identify what it is we are looking at. The theory proposes that when we view objects we look for two important components.
@@ -134,6 +134,13 @@ We somehow generate a perception of a world full of distinct objects despite typ
 * Solso, R., and McCarthy, J.E. (1981). Prototype formation of faces: A case of pseudomemory. British Journal of Psychology, 72, 499-503.
 * Wagemans, J., Elder, J. H., Kubovy, M., Palmer, S. E., Peterson, M. A., Singh, M., & von der Heydt, R. (2012). A century of Gestalt psychology in visual perception: I. Perceptual grouping and figure–ground organization. Psychological bulletin, 138(6), 1172.
 * Wertheimer M. (1912). Experimentelle Studien über das Sehen von Bewegung. Zeitschrift für Psychologie, 61:161–265. (Translated extract reprinted as “Experimental studies on the seeing of motion”. In T. Shipley (Ed.), (1961). Classics in psychology (pp. 1032–1089). New York, NY: Philosophical Library.)
+{: .small}
+
+### Image Credits
+1. Glen Bowman, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons
+2. Adapted from Lindsay and Norman (1972)
+3. [Ataturk.svg: NevitNevit Dilmen]https://commons.wikimedia.org/wiki/File:Face_or_vase_ata_01.svg), <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+4. [UserLdaisy](https://commons.wikimedia.org/wiki/File:Breakdown_of_objects_into_Geons.png), Public domain, via Wikimedia Commons
 {: .small}
 
 Adapted from the Wikipedia article on [Recognition by components](https://en.wikipedia.org/wiki/Recognition-by-components_theory) and the cognitivepsychology.wikidot.com section on [Top-down and bottom-up theories of perception](http://cognitivepsychology.wikidot.com/cognition:topdown) under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> and from [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/) by Kathryn Dumper, William Jenkins, Arlene Lacombe, Marilyn Lovett, and Marion Perimutter under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

@@ -163,10 +163,13 @@ Agnosia
 
 Anosmia
 : Loss of the ability to smell.
+
 Audition
 : Ability to process auditory stimuli. Also called hearing.
+
 Auditory canal
 : Tube running from the outer ear to the middle ear.
+
 Auditory hair cells
 : Receptors in the cochlea that transduce sound into electrical potentials.
 

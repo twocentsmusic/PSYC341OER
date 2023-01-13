@@ -155,110 +155,158 @@ Our impressive sensory abilities allow us to experience the most enjoyable and m
 * What issues would exist with visual recognition of an object if a research participant had his/her corpus callosum severed? What would you need to do in order to observe these deficits? 
 
 ## Vocabulary
-### Absolute threshold
-The smallest amount of stimulation needed for detection by a sense.
-### Agnosia
-Loss of the ability to perceive stimuli.
-### Anosmia
-Loss of the ability to smell.
-### Audition
-Ability to process auditory stimuli. Also called hearing.
-### Auditory canal
-Tube running from the outer ear to the middle ear.
-### Auditory hair cells
-Receptors in the cochlea that transduce sound into electrical potentials.
-### Binocular disparity
-Difference is images processed by the left and right eyes.
-### Binocular vision
-Our ability to perceive 3D and depth because of the difference between the images on each of our retinas.
-### Bottom-up processing
-Building up to perceptual experience from individual pieces.
-### Chemical senses
-Our ability to process the environmental stimuli of smell and taste.
-### Cochlea
-Spiral bone structure in the inner ear containing auditory hair cells.
-### Cones
-Photoreceptors of the retina sensitive to color. Located primarily in the fovea.
-### Dark adaptation
-Adjustment of eye to low levels of light.
-### Difference threshold (or differential threshold)
-The smallest difference needed in order to differentiate two stimuli. (See Just Noticeable Difference (JND))
-### Dorsal pathway
-Pathway of visual processing. The “where” pathway.
-### Flavor
-The combination of smell and taste.
-### Gustation
-Ability to process gustatory stimuli. Also called taste.
-### Just noticeable difference (JND)
-The smallest difference needed in order to differentiate two stimuli. (see Differential Threshold)
-### Light adaptation
-Adjustment of eye to high levels of light.
-### Mechanoreceptors
-Mechanical sensory receptors in the skin that response to tactile stimulation.
-### Multimodal perception
-The effects that concurrent stimulation in more than one sensory modality has on the perception of events and objects in the world.
-### Nociception
-Our ability to sense pain.
-### Odorants
-Chemicals transduced by olfactory receptors.
-### Olfaction
-Ability to process olfactory stimuli. Also called smell.
-### Olfactory epithelium
-Organ containing olfactory receptors.
-### Opponent-process theory
-Theory proposing color vision as influenced by cells responsive to pairs of colors.
-### Ossicles
-A collection of three small bones in the middle ear that vibrate against the tympanic membrane.
-### Perception
-The psychological process of interpreting sensory information.
-### Pinna
-Outermost portion of the ear.
-### Primary auditory cortex
-Area of the cortex involved in processing auditory stimuli.
-### Primary somatosensory cortex
-Area of the cortex involved in processing somatosensory stimuli.
-### Primary visual cortex
-Area of the cortex involved in processing visual stimuli.
-### Principle of inverse effectiveness
-The finding that, in general, for a multimodal stimulus, if the response to each unimodal component (on its own) is weak, then the opportunity for multisensory enhancement is very large. However, if one component—by itself—is sufficient to evoke a strong response, then the effect on the response gained by simultaneously processing the other components of the stimulus will be relatively small.
-### Retina
-Cell layer in the back of the eye containing photoreceptors.
-### Rods
-Photoreceptors of the retina sensitive to low levels of light. Located around the fovea.
-### Sensation
-The physical processing of environmental stimuli by the sense organs.
-### Sensory adaptation
-Decrease in sensitivity of a receptor to a stimulus after constant stimulation.
-### Shape theory of olfaction
-Theory proposing that odorants of different size and shape correspond to different smells.
-### Signal detection
-Method for studying the ability to correctly identify sensory stimuli.
-### Somatosensation
-Ability to sense touch, pain and temperature.
-### Somatotopic map
-Organization of the primary somatosensory cortex maintaining a representation of the arrangement of the body.
-### Sound waves
-Changes in air pressure. The physical stimulus for audition.
-### Superadditive effect of multisensory integration
-The finding that responses to multimodal stimuli are typically greater than the sum of the independent responses to each unimodal component if it were presented on its own.
-### Tastants
-Chemicals transduced by taste receptor cells.
-### Taste receptor cells
-Receptors that transduce gustatory information.
-### Top-down processing
-Experience influencing the perception of stimuli.
-### Transduction
-The conversion of one form of energy into another.
-### Trichromatic theory
-Theory proposing color vision as influenced by three different cones responding preferentially to red, green and blue.
-### Tympanic membrane
-Thin, stretched membrane in the middle ear that vibrates in response to sound. Also called the eardrum.
-### Ventral pathway
-Pathway of visual processing. The “what” pathway.
-### Vestibular system
-Parts of the inner ear involved in balance.
-### Weber’s law
-States that just noticeable difference is proportional to the magnitude of the initial stimulus.
+Absolute threshold
+: The smallest amount of stimulation needed for detection by a sense.
+
+Agnosia
+: Loss of the ability to perceive stimuli.
+
+Anosmia
+: Loss of the ability to smell.
+Audition
+: Ability to process auditory stimuli. Also called hearing.
+Auditory canal
+: Tube running from the outer ear to the middle ear.
+Auditory hair cells
+: Receptors in the cochlea that transduce sound into electrical potentials.
+
+Binocular disparity
+: Difference is images processed by the left and right eyes.
+
+Binocular vision
+: Our ability to perceive 3D and depth because of the difference between the images on each of our retinas.
+
+Bottom-up processing
+: Building up to perceptual experience from individual pieces.
+
+Chemical senses
+: Our ability to process the environmental stimuli of smell and taste.
+
+Cochlea
+: Spiral bone structure in the inner ear containing auditory hair cells.
+
+Cones
+: Photoreceptors of the retina sensitive to color. Located primarily in the fovea.
+
+Dark adaptation
+: Adjustment of eye to low levels of light.
+
+Difference threshold (or differential threshold)
+: The smallest difference needed in order to differentiate two stimuli. (See Just Noticeable Difference (JND))
+
+Dorsal pathway
+: Pathway of visual processing. The “where” pathway.
+
+Flavor
+: The combination of smell and taste.
+
+Gustation
+: Ability to process gustatory stimuli. Also called taste.
+
+Just noticeable difference (JND)
+: The smallest difference needed in order to differentiate two stimuli. (see Differential Threshold)
+
+Light adaptation
+: Adjustment of eye to high levels of light.
+
+Mechanoreceptors
+: Mechanical sensory receptors in the skin that response to tactile stimulation.
+
+Multimodal perception
+: The effects that concurrent stimulation in more than one sensory modality has on the perception of events and objects in the world.
+
+Nociception
+: Our ability to sense pain.
+
+Odorants
+: Chemicals transduced by olfactory receptors.
+
+Olfaction
+: Ability to process olfactory stimuli. Also called smell.
+
+Olfactory epithelium
+: Organ containing olfactory receptors.
+
+Opponent-process theory
+: Theory proposing color vision as influenced by cells responsive to pairs of colors.
+
+Ossicles
+: A collection of three small bones in the middle ear that vibrate against the tympanic membrane.
+
+Perception
+: The psychological process of interpreting sensory information.
+
+Pinna
+: Outermost portion of the ear.
+
+Primary auditory cortex
+: Area of the cortex involved in processing auditory stimuli.
+
+Primary somatosensory cortex
+: Area of the cortex involved in processing somatosensory stimuli.
+
+Primary visual cortex
+: Area of the cortex involved in processing visual stimuli.
+
+Principle of inverse effectiveness
+: The finding that, in general, for a multimodal stimulus, if the response to each unimodal component (on its own) is weak, then the opportunity for multisensory enhancement is very large. However, if one component—by itself—is sufficient to evoke a strong response, then the effect on the response gained by simultaneously processing the other components of the stimulus will be relatively small.
+
+Retina
+: Cell layer in the back of the eye containing photoreceptors.
+
+Rods
+: Photoreceptors of the retina sensitive to low levels of light. Located around the fovea.
+
+Sensation
+: The physical processing of environmental stimuli by the sense organs.
+
+Sensory adaptation
+: Decrease in sensitivity of a receptor to a stimulus after constant stimulation.
+
+Shape theory of olfaction
+: Theory proposing that odorants of different size and shape correspond to different smells.
+
+Signal detection
+: Method for studying the ability to correctly identify sensory stimuli.
+
+Somatosensation
+: Ability to sense touch, pain and temperature.
+
+Somatotopic map
+: Organization of the primary somatosensory cortex maintaining a representation of the arrangement of the body.
+
+Sound waves
+: Changes in air pressure. The physical stimulus for audition.
+
+Superadditive effect of multisensory integration
+: The finding that responses to multimodal stimuli are typically greater than the sum of the independent responses to each unimodal component if it were presented on its own.
+
+Tastants
+: Chemicals transduced by taste receptor cells.
+
+Taste receptor cells
+: Receptors that transduce gustatory information.
+
+Top-down processing
+: Experience influencing the perception of stimuli.
+
+Transduction
+: The conversion of one form of energy into another.
+
+Trichromatic theory
+: Theory proposing color vision as influenced by three different cones responding preferentially to red, green and blue.
+
+Tympanic membrane
+: Thin, stretched membrane in the middle ear that vibrates in response to sound. Also called the eardrum.
+
+Ventral pathway
+: Pathway of visual processing. The “what” pathway.
+
+Vestibular system
+: Parts of the inner ear involved in balance.
+
+Weber’s law
+: States that just noticeable difference is proportional to the magnitude of the initial stimulus.
 
 ## References
 * Calvert, G. A., Hansen, P. C., Iversen, S. D., & Brammer, M. J. (2001). Detection of audio-visual integration sites in humans by application of electrophysiological criteria to the BOLD effect. Neuroimage, 14(2), 427-438.

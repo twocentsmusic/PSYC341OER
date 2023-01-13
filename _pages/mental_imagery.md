@@ -10,8 +10,8 @@ sidebar:
 
 Mental imagery is about the subjective experience of being in your own mind, especially while you are in the process of using your imagination. What can you _see_ in your “mind’s eye” when you use your imagination? Can you visualize a picture, scene, or movie in your mind? Can you hear a song in your head? If so, how would you describe the quality of the mental image? Is it vivid and life-like? If not, how would you describe your experience of using your imagination?
 
-> **Mental imagery:** 
-Imagined sensations of any type, including seeing pictures in your mind’s eye, hearing a song in your head, using your inner voice, and others like imagined smell, touch, or sense of space.
+**Mental imagery:** Imagined sensations of any type, including seeing pictures in your mind’s eye, hearing a song in your head, using your inner voice, and others like imagined smell, touch, or sense of space.
+{: .notice}
 
 Mental imagery is a paradigm example of research in cognitive psychology because it involves experiences that are entirely internal to your own mental processes. Behaviorists like Watson were strongly opposed to research on mental imagery because it could not be directly observed. However mental imagery was considered an important topic early in the history of psychology and is again a significant part of contemporary cognitive psychology. 
 
@@ -28,8 +28,8 @@ The method of introspection involves self-reflecting upon or scrutinizing aspect
 ##### Galton’s Statistics of mental imagery
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
-    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Francis_Galton_1850s.jpg" alt="Photo Francis of Galton.">
-    <figcaption>  A picture of [Sir Francis Galton](https://en.wikipedia.org/wiki/Francis_Galton) in the 1850s. [1]</figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Francis_Galton_1850s.jpg" alt="Photo of Francis Galton.">
+    <figcaption> Sir Francis Galton in the 1850s. [1]</figcaption>
 </figure>
 
 [Sir Francis Galton](https://en.wikipedia.org/wiki/Francis_Galton) (1822-1911) was a British psychologist who was one of the first to systematically study mental imagery. To quote from his 1880 paper titled, _Statistics of mental imagery_ (Galton, 1880), Galton set out to:
@@ -42,10 +42,9 @@ The next section reviews Galton’s methods and major findings. His original man
 
 Galton devised the “Breakfast table task” involving a series of structured questions about mental imagery, and sent letters to 100 people asking them to reply with answers to his questions. The questions are reprinted below:
 
-| **Galton’s Breakfast table task questions:** 
+| **Galton’s Breakfast table task questions:** |
 | :----------- | 
-| “Before addressing yourself to any of the Questions on the opposite page, think of some definite object – suppose it is your breakfast-table as you sat down to it this morning – and consider carefully the picture that rises before your mind’s eye. \[p. 302\] |
-|  1.  *Illumination*. – Is the image dim or fairly clear? Is its brightness comparable to that of the actual scene? <br> 2.  *Definition*. – Are all the objects pretty well defined at the same time, or is the place of sharpest definition at any one moment more contracted than it is in a real scene? <br> 3.  *Colouring*. – Are the colours of the china, of the toast, bread-crust, mustard, meat, parsley, or whatever may have been on the table, quite distinct and natural?” |
+| “Before addressing yourself to any of the Questions on the opposite page, think of some definite object – suppose it is your breakfast-table as you sat down to it this morning – and consider carefully the picture that rises before your mind’s eye. <br> 1.  *Illumination* – Is the image dim or fairly clear? Is its brightness comparable to that of the actual scene? <br> 2.  *Definition* – Are all the objects pretty well defined at the same time, or is the place of sharpest definition at any one moment more contracted than it is in a real scene? <br> 3.  *Colouring* – Are the colours of the china, of the toast, bread-crust, mustard, meat, parsley, or whatever may have been on the table, quite distinct and natural?” |
 
 ##### Galton’s results
 
@@ -302,13 +301,12 @@ Mental Imagery
 {: .small}
 
 ### Image Credits
-[1] from [Wikipedia](https://en.wikipedia.org/wiki/Francis_Galton#/media/File:Francis_Galton_1850s.jpg ). Public Domain.
-
-[2] From [publicdomainvectors.org](https://publicdomainvectors.org/en/free-clipart/Vector-image-of-old-treasure-paper-map/21145.html). Public Domain. 
-
-[3] Matthew Crump, [Instances of Cognition Ch. 2](https://crumplab.com/cognition/textbook/C2_Mental_Imagery.html). CC BY-SA 4.0
-
-[4] Kosslyn (1978). Probably copyrighted and I should re-make this image, but omg what a pain.
+1. [Wikipedia](https://en.wikipedia.org/wiki/Francis_Galton#/media/File:Francis_Galton_1850s.jpg ). Public Domain.
+2. [publicdomainvectors.org](https://publicdomainvectors.org/en/free-clipart/Vector-image-of-old-treasure-paper-map/21145.html). Public Domain. 
+3. [Crump, 2021](https://crumplab.com/cognition/textbook/C2_Mental_Imagery.html). CC BY-SA 4.0
+4. Kosslyn (1978). Probably copyrighted and I should re-make this image, but omg what a pain.
 {: .small}
 
 Adapted from Matthew J. C. Crump. (2021). [Mental Imagery](https://crumplab.com/cognition/textbook/C2_Mental_Imagery.html) In Matthew J. C. Crump (Ed.), *Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications.* [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

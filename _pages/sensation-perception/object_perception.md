@@ -139,7 +139,7 @@ We somehow generate a perception of a world full of distinct objects despite typ
 ### Image Credits
 1. Glen Bowman, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons
 2. Adapted from Lindsay and Norman (1972)
-3. [Ataturk.svg: NevitNevit Dilmen]https://commons.wikimedia.org/wiki/File:Face_or_vase_ata_01.svg), <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+3. [Ataturk.svg: NevitNevit Dilmen](https://commons.wikimedia.org/wiki/File:Face_or_vase_ata_01.svg), <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
 4. [UserLdaisy](https://commons.wikimedia.org/wiki/File:Breakdown_of_objects_into_Geons.png), Public domain, via Wikimedia Commons
 {: .small}
 

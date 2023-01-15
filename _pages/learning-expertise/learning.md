@@ -91,36 +91,51 @@ To wrap things up, let’s think back to the questions we began the module with.
 * In what kinds of situations not discussed here might you find a benefit of forgetting on learning?
 
 ## Vocabulary
-### Chunk
-The process of grouping information together using our knowledge.
-### Classical conditioning
-Describes stimulus-stimulus associative learning.
-### Encoding
-The pact of putting information into memory.
-### Habituation
-Occurs when the response to a stimulus decreases with exposure.
-### Implicit learning
-Occurs when we acquire information without intent that we cannot easily express.
-### Implicit memory
-A type of long-term memory that does not require conscious thought to encode. It's the type of memory one makes without intent.
-### Incidental learning
-Any type of learning that happens without the intention to learn.
-### Intentional learning
-Any type of learning that happens when motivated by intention.
-### Metacognition
-Describes the knowledge and skills people have in monitoring and controlling their own learning and memory.
-### Nonassociative learning
-Occurs when a single repeated exposure leads to a change in behavior.
-### Operant conditioning
-Describes stimulus-response associative learning.
-### Perceptual learning
-Occurs when aspects of our perception changes as a function of experience.
-### Sensitization
-Occurs when the response to a stimulus increases with exposure
-### Transfer-appropriate processing
-A principle that states that memory performance is superior when a test taps the same cognitive processes as the original encoding activity.
-### Working memory
-The form of memory we use to hold onto information temporarily, usually for the purposes of manipulation.
+
+Chunk
+: The process of grouping information together using our knowledge.
+
+Classical conditioning
+: Describes stimulus-stimulus associative learning.
+
+Encoding
+: The pact of putting information into memory.
+
+Habituation
+: Occurs when the response to a stimulus decreases with exposure.
+
+Implicit learning
+: Occurs when we acquire information without intent that we cannot easily express.
+
+Implicit memory
+: A type of long-term memory that does not require conscious thought to encode. It's the type of memory one makes without intent.
+
+Incidental learning
+: Any type of learning that happens without the intention to learn.
+
+Intentional learning
+: Any type of learning that happens when motivated by intention.
+
+Metacognition
+: Describes the knowledge and skills people have in monitoring and controlling their own learning and memory.
+
+Nonassociative learning
+: Occurs when a single repeated exposure leads to a change in behavior.
+
+Operant conditioning
+: Describes stimulus-response associative learning.
+
+Perceptual learning
+: Occurs when aspects of our perception changes as a function of experience.
+
+Sensitization
+: Occurs when the response to a stimulus increases with exposure
+
+Transfer-appropriate processing
+: A principle that states that memory performance is superior when a test taps the same cognitive processes as the original encoding activity.
+
+Working memory
+: The form of memory we use to hold onto information temporarily, usually for the purposes of manipulation.
 
 ## References
 * Ashcraft, M. H., & Kirk, E. P. (2001). The relationships among working memory, math anxiety, and performance. Journal of Experimental Psychology: General, 130, 224–237.

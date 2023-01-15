@@ -115,48 +115,69 @@ Research into cognitive development has shown us that minds don’t just form ac
 * Memory declines during adulthood. Is this statement correct? What does research show?
 
 ## Vocabulary
-### Concrete operations stage
-Piagetian stage between ages 7 and 12 when children can think logically about concrete situations but not engage in systematic scientific reasoning.
-### Conservation problems
-Problems pioneered by Piaget in which physical transformation of an object or set of objects changes a perceptually salient dimension but not the quantity that is being asked about.
-### Continuous development
-Ways in which development occurs in a gradual incremental manner, rather than through sudden jumps.
-### Crystallized intelligence
-Type of intellectual ability that relies on the application of knowledge, experience, and learned information.
-### Depth perception
-The ability to actively perceive the distance from oneself of objects in the environment.
-### Fluid intelligence
-Type of intelligence that relies on the ability to use information processing resources to reason logically and solve novel problems.
-### Formal operations stage
-Piagetian stage starting at age 12 years and continuing for the rest of life, in which adolescents may gain the reasoning powers of educated adults.
-### Information processing theories
-Theories that focus on describing the cognitive processes that underlie thinking at any one age and cognitive growth over time.
-### Inhibitory functioning
-Ability to focus on a subset of information while suppressing attention to less relevant information.
-### Nature
-The genes that children bring with them to life and that influence all aspects of their development.
-### Nurture
-The environments, starting with the womb, that influence all aspects of children’s development.
-### Object permanence task
-The Piagetian task in which infants below about 9 months of age fail to search for an object that is removed from their sight and, if not allowed to search immediately for the object, act as if they do not know that it continues to exist.
-### Phonemic awareness
-Awareness of the component sounds within words.
-### Piaget’s theory
-Theory that development occurs through a sequence of discontinuous stages: the sensorimotor, preoperational, concrete operational, and formal operational stages.
-### Preoperational reasoning stage
-Period within Piagetian theory from age 2 to 7 years, in which children can represent objects through drawing and language but cannot solve logical reasoning problems, such as the conservation problems.
-### Processing speed
-The time it takes individuals to perform cognitive operations (e.g., process information, react to a signal, switch attention from one task to another, find a specific target object in a complex picture).
-### Psychometric approach
-Approach to studying intelligence that examines performance on tests of intellectual functioning.
-### Qualitative changes
-Large, fundamental change, as when a caterpillar changes into a butterfly; stage theories such as Piaget’s posit that each stage reflects qualitative change relative to previous stages.
-### Quantitative changes
-Gradual, incremental change, as in the growth of a pine tree’s girth.
-### Sensorimotor stage
-Period within Piagetian theory from birth to age 2 years, during which children come to represent the enduring reality of objects.
-### Sociocultural theories
-Theory founded in large part by Lev Vygotsky that emphasizes how other people and the attitudes, values, and beliefs of the surrounding culture influence children’s development.
+
+Concrete operations stage
+: Piagetian stage between ages 7 and 12 when children can think logically about concrete situations but not engage in systematic scientific reasoning.
+
+Conservation problems
+: Problems pioneered by Piaget in which physical transformation of an object or set of objects changes a perceptually salient dimension but not the quantity that is being asked about.
+
+Continuous development
+: Ways in which development occurs in a gradual incremental manner, rather than through sudden jumps.
+
+Crystallized intelligence
+: Type of intellectual ability that relies on the application of knowledge, experience, and learned information.
+
+Depth perception
+: The ability to actively perceive the distance from oneself of objects in the environment.
+
+Fluid intelligence
+: Type of intelligence that relies on the ability to use information processing resources to reason logically and solve novel problems.
+
+Formal operations stage
+: Piagetian stage starting at age 12 years and continuing for the rest of life, in which adolescents may gain the reasoning powers of educated adults.
+
+Information processing theories
+: Theories that focus on describing the cognitive processes that underlie thinking at any one age and cognitive growth over time.
+
+Inhibitory functioning
+: Ability to focus on a subset of information while suppressing attention to less relevant information.
+
+Nature
+: The genes that children bring with them to life and that influence all aspects of their development.
+
+Nurture
+: The environments, starting with the womb, that influence all aspects of children’s development.
+
+Object permanence task
+: The Piagetian task in which infants below about 9 months of age fail to search for an object that is removed from their sight and, if not allowed to search immediately for the object, act as if they do not know that it continues to exist.
+
+Phonemic awareness
+: Awareness of the component sounds within words.
+
+Piaget’s theory
+: Theory that development occurs through a sequence of discontinuous stages: the sensorimotor, preoperational, concrete operational, and formal operational stages.
+
+Preoperational reasoning stage
+: Period within Piagetian theory from age 2 to 7 years, in which children can represent objects through drawing and language but cannot solve logical reasoning problems, such as the conservation problems.
+
+Processing speed
+: The time it takes individuals to perform cognitive operations (e.g., process information, react to a signal, switch attention from one task to another, find a specific target object in a complex picture).
+
+Psychometric approach
+: Approach to studying intelligence that examines performance on tests of intellectual functioning.
+
+Qualitative changes
+: Large, fundamental change, as when a caterpillar changes into a butterfly; stage theories such as Piaget’s posit that each stage reflects qualitative change relative to previous stages.
+
+Quantitative changes
+: Gradual, incremental change, as in the growth of a pine tree’s girth.
+
+Sensorimotor stage
+: Period within Piagetian theory from birth to age 2 years, during which children come to represent the enduring reality of objects.
+
+Sociocultural theories
+: Theory founded in large part by Lev Vygotsky that emphasizes how other people and the attitudes, values, and beliefs of the surrounding culture influence children’s development.
 
 ## References
 * Baillargeon, R. (1987). Object permanence in 3 1/2- and 4 1/2-month-old infants. Developmental Psychology, 23, 655–664.

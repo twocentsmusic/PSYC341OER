@@ -20,7 +20,7 @@ Eyewitness testimony is what happens when a person witnesses a crime (or acciden
 
 <figure>
     <img src="https://UMDOER.github.io/PSYC341OER/images/memb1.jpg" style="width:75%">
-    <figcaption> What can happen to our memory from the time we witness an event to the retelling of that event later? What can influence how we remember, or misremember, highly significant events like a crime or accident? [Image: Robert Couse-Baker, https://goo.gl/OiPUmz, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+    <figcaption> What can happen to our memory from the time we witness an event to the retelling of that event later? What can influence how we remember, or misremember, highly significant events like a crime or accident? [1]</figcaption>
 </figure>
 
 ## Why Is Eyewitness Testimony an Important Area of Psychological Research?
@@ -71,7 +71,7 @@ Memory is also susceptible to a wide variety of other biases and errors. People 
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://UMDOER.github.io/PSYC341OER/images/memb4.jpg">
-    <figcaption>For most of our experiences schematas are a benefit and help with information overload. However, they may make it difficult or impossible to recall certain details of a situation later. Do you recall the library as it actually was or the library as approximated by your library schemata? [Dan Kleinman, https://goo.gl/07xyDD, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+    <figcaption>For most of our experiences schematas are a benefit and help with information overload. However, they may make it difficult or impossible to recall certain details of a situation later. Do you recall the library as it actually was or the library as approximated by your library schemata? [2]</figcaption>
 </figure>
 
 Some small memory errors are commonplace, and you have no doubt experienced many of them. You set down your keys without paying attention, and then cannot find them later when you go to look for them. You try to come up with a person’s name but cannot find it, even though you have the sense that it is right at the tip of your tongue (psychologists actually call this the *tip-of-the-tongue effect*, or *TOT*) (Brown, 1991).
@@ -104,18 +104,24 @@ Eureka Foong's *The Misinformation Effect*. This student-made video illustrating
 * Many jurisdictions in the United States use “show-ups,” where an eyewitness is brought to a suspect (who may be standing on the street or in handcuffs in the back of a police car) and asked, “Is this the perpetrator?” Is this a good or bad idea, from a psychological perspective? Why?
 
 ## Vocabulary
-### False memories
-Memory for an event that never actually occurred, implanted by experimental manipulation or other means.
-### Foils
-Any member of a lineup (whether live or photograph) other than the suspect.
-### Misinformation effect
-A memory error caused by exposure to incorrect information between the original event (e.g., a crime) and later memory test (e.g., an interview, lineup, or day in court).
-### Mock witnesses
-A research subject who plays the part of a witness in a study.
-### Photo spreads
-A selection of normally small photographs of faces given to a witness for the purpose of identifying a perpetrator.
-### Schema (plural: schemata)
-A memory template, created through repeated exposure to a particular class of objects or events.
+
+False memories
+: Memory for an event that never actually occurred, implanted by experimental manipulation or other means.
+
+Foils
+" Any member of a lineup (whether live or photograph) other than the suspect.
+
+Misinformation effect
+: A memory error caused by exposure to incorrect information between the original event (e.g., a crime) and later memory test (e.g., an interview, lineup, or day in court).
+
+Mock witnesses
+: A research subject who plays the part of a witness in a study.
+
+Photo spreads
+: A selection of normally small photographs of faces given to a witness for the purpose of identifying a perpetrator.
+
+Schema (plural: schemata)
+: A memory template, created through repeated exposure to a particular class of objects or events.
 
 ## References
 * Alba, J. W., & Hasher, L. (1983). Is memory schematic? Psychological Bulletin, 93, 203–231.
@@ -160,6 +166,10 @@ A memory template, created through repeated exposure to a particular class of ob
 * Wells, G. L., Memon, A., & Penrod, S. D. (2006). Eyewitness evidence: Improving its probative value. Psychological Science in the Public Interest, 7(2), 45-75.
 * Wells, G. L., Small, M., Penrod, S., Malpass, R. S., Fulero, S. M., & Brimacombe, C. A. E. (1998). Eyewitness identification procedures: Recommendations for lineups and photospreads. Law and Human Behavior, 22, 603–647.
 {: .small}
+
+## Image credits
+1. Robert Couse-Baker, https://goo.gl/OiPUmz, [CC BY 2.0](https://goo.gl/BRvSA7)
+2. Dan Kleinman, https://goo.gl/07xyDD, [CC BY 2.0](https://goo.gl/BRvSA7)
 
 Adapted from Laney, C. & Loftus, E. F. (2020). Eyewitness testimony and memory biases. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uy49tm37
 

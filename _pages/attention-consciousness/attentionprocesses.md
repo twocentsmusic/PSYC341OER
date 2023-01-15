@@ -120,20 +120,27 @@ It may be useful to think of attention as a mental resource, one that is needed 
 * What are the public policy implications of current evidence of inattentional blindness as a result of distracted driving? Should this evidence influence traffic safety laws? What additional studies of distracted driving would you propose?
 
 ## Vocabulary
-### Dichotic listening
-An experimental task in which two messages are presented to different ears.
-### Divided attention
-The ability to flexibly allocate attentional resources between two or more concurrent tasks.
-### Inattentional blindness
-The failure to notice a fully visible object when attention is devoted to something else.
-### Limited capacity
-The notion that humans have limited mental resources that can be used at a given time.
-### Selective attention
-The ability to select certain stimuli in the environment to process, while ignoring distracting information.
-### Shadowing
-A task in which the individual is asked to repeat an auditory message as it is presented.
-### Subliminal perception
-The ability to process information for meaning when the individual is not consciously aware of that information.
+
+Dichotic listening
+: An experimental task in which two messages are presented to different ears.
+
+Divided attention
+: The ability to flexibly allocate attentional resources between two or more concurrent tasks.
+
+Inattentional blindness
+: The failure to notice a fully visible object when attention is devoted to something else.
+
+Limited capacity
+: The notion that humans have limited mental resources that can be used at a given time.
+
+Selective attention
+: The ability to select certain stimuli in the environment to process, while ignoring distracting information.
+
+Shadowing
+: A task in which the individual is asked to repeat an auditory message as it is presented.
+
+Subliminal perception
+: The ability to process information for meaning when the individual is not consciously aware of that information.
 
 ## Image credits:
 1. Left: [beyrouth](https://www.flickr.com/photos/28279678@N08/2839432886), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Right: [found_drama](https://www.flickr.com/photos/28555778@N00/49792720688), [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)

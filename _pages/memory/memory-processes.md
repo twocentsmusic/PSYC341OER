@@ -156,40 +156,57 @@ Many books exist on how to improve memory using mnemonic devices, but all involv
 Think about what you’ve learned in this module and about how you study for tests. On the basis of what you have learned, is there something  you want to try that might help your study habits?
 
 ## Vocabulary
-### Autobiographical memory
-Memory for the events of one’s life.
-### Consolidation
-The process occurring after encoding that is believed to stabilize memory traces.
-### Cue overload principle
-The principle stating that the more memories that are associated to a particular retrieval cue, the less effective the cue will be in prompting retrieval of any one memory.
-### Distinctiveness
-The principle that unusual events (in a context of similar events) will be recalled and recognized better than uniform (nondistinctive) events.
-### Encoding
-The initial experience of perceiving and learning events.
-### Encoding specificity principle
-The hypothesis that a retrieval cue will be effective to the extent that information encoded from the cue overlaps or matches information in the engram or memory trace.
-### Engrams
-A term indicating the change in the nervous system representing an event; also, memory trace.
-### Episodic memory
-Memory for events in a particular time and place.
-### Flashbulb memory
-Vivid personal memories of receiving the news of some momentous (and usually emotional) event.
-### Memory traces
-A term indicating the change in the nervous system representing an event.
-### Misinformation effect
-When erroneous information occurring after an event is remembered as having been part of the original event.
-### Mnemonic devices
-A strategy for remembering large amounts of information, usually involving imaging events occurring on a journey or with some other set of memorized cues.
-### Recoding
-The ubiquitous process during learning of taking information in one form and converting it to another form, usually one more easily remembered.
-### Retrieval
-The process of accessing stored information.
-### Retroactive interference
-The phenomenon whereby events that occur after some particular event of interest will usually cause forgetting of the original event.
-### Semantic memory
-The more or less permanent store of knowledge that people have.
-### Storage
-The stage in the learning/memory process that bridges encoding and retrieval; the persistence of memory over time.
+
+Autobiographical memory
+: Memory for the events of one’s life.
+
+Consolidation
+: The process occurring after encoding that is believed to stabilize memory traces.
+
+Cue overload principle
+: The principle stating that the more memories that are associated to a particular retrieval cue, the less effective the cue will be in prompting retrieval of any one memory.
+
+Distinctiveness
+: The principle that unusual events (in a context of similar events) will be recalled and recognized better than uniform (nondistinctive) events.
+
+Encoding
+: The initial experience of perceiving and learning events.
+
+Encoding specificity principle
+: The hypothesis that a retrieval cue will be effective to the extent that information encoded from the cue overlaps or matches information in the engram or memory trace.
+
+Engrams
+: A term indicating the change in the nervous system representing an event; also, memory trace.
+
+Episodic memory
+: Memory for events in a particular time and place.
+
+Flashbulb memory
+: Vivid personal memories of receiving the news of some momentous (and usually emotional) event.
+
+Memory traces
+: A term indicating the change in the nervous system representing an event.
+
+Misinformation effect
+: When erroneous information occurring after an event is remembered as having been part of the original event.
+
+Mnemonic devices
+: A strategy for remembering large amounts of information, usually involving imaging events occurring on a journey or with some other set of memorized cues.
+
+Recoding
+: The ubiquitous process during learning of taking information in one form and converting it to another form, usually one more easily remembered.
+
+Retrieval
+: The process of accessing stored information.
+
+Retroactive interference
+: The phenomenon whereby events that occur after some particular event of interest will usually cause forgetting of the original event.
+
+Semantic memory
+: The more or less permanent store of knowledge that people have.
+
+Storage
+: The stage in the learning/memory process that bridges encoding and retrieval; the persistence of memory over time.
 
 ## References
 * Anderson, M. C., Bjork, R., & Bjork, E. L. (1994). Remembering can cause forgetting: Retrieval dynamics in long-term memory. Journal of Experimental Psychology-Learning Memory and Cognition, 20, 1063–1087.

@@ -167,19 +167,26 @@ Another interesting topic is how concepts differ across cultures. As different c
 * Going around the room, point to some common objects (including things people are wearing or brought with them) and identify what the basic-level category is for that item. What are superordinate and subordinate categories for the same items?
 * List some features of a common category such as tables. The knowledge view suggests that you know reasons for why these particular features occur together. Can you articulate some of those reasons? Do the same thing for an animal category.
 * Choose three common categories: a natural kind, a human artifact, and a social event. Discuss with class members from other countries or cultures whether the corresponding categories in their cultures differ. Can you make a hypothesis about when such categories are likely to differ and when they are not?
+
 ## Vocabulary
-### Basic-level category
-The neutral, preferred category for a given object, at an intermediate level of specificity.
-### Category
-A set of entities that are equivalent in some way. Usually the items are similar to one another.
-### Concept
-The mental representation of a category.
-### Exemplar
-An example in memory that is labeled as being in a particular category.
-### Psychological essentialism
-The belief that members of a category have an unseen property that causes them to be in the category and to have the properties associated with it.
-### Typicality
-The difference in “goodness” of category members, ranging from the most typical (the prototype) to borderline members.
+
+Basic-level category
+: The neutral, preferred category for a given object, at an intermediate level of specificity.
+
+Category
+: A set of entities that are equivalent in some way. Usually the items are similar to one another.
+
+Concept
+: The mental representation of a category.
+
+Exemplar
+: An example in memory that is labeled as being in a particular category.
+
+Psychological essentialism
+: The belief that members of a category have an unseen property that causes them to be in the category and to have the properties associated with it.
+
+Typicality
+: The difference in “goodness” of category members, ranging from the most typical (the prototype) to borderline members.
 
 ## Image credits
 1. [CC0 Public Domain](https://goo.gl/m25gce)

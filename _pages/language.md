@@ -173,44 +173,63 @@ Language and language use constitute a central ingredient of human psychology. L
 * What sorts of unintended consequences can language use bring to your psychological processes?
 
 ## Vocabulary
-### Audience design
-Constructing utterances to suit the audience’s knowledge.
-### Categorical perception 
-Perception of acoustic characteristics that vary continuously as distinct phoneme categories
-### Coarticulation effects
-How speech sounds are influenced by neighboring speech sounds
-### Common ground
-Information that is shared by people who engage in a conversation.
-### Ingroup
-Group to which a person belongs.
-### Lack of invariance problem
-Lack of acoustic invariants in the speech signal that corresponding to linguistic components
-### Lexicon
-Words and expressions.
-### Linguistic intergroup bias
-A tendency for people to characterize positive things about their ingroup using more abstract expressions, but negative things about their outgroups using more abstract expressions.
-### Morpheme 
-The smallest units of meaning in a language
-### Outgroup
-Group to which a person does not belong.
-### Phoneme
-The smallest unit of sound that makes a meaningful difference in a language
-### Priming
-A stimulus presented to a person reminds him or her about other ideas associated with the stimulus.
-### Linguistic relativity
-The hypothesis that the language that people use influences the way they think.
-### Segmentation problem
-How to dissect a continuous speech signal into linguistically relevant units
-### Situation model
-A mental representation of an event, object, or situation constructed at the time of comprehending a linguistic description.
-### Social brain hypothesis
-The hypothesis that the human brain has evolved, so that humans can maintain larger ingroups.
-### Social networks
-Networks of social relationships among individuals through which information can travel.
-### Speech perception 
-The process by which the sounds of language are heard, interpreted, and understood.
-### Syntax
-Combinatorial "rules" of a language
+
+Audience design
+: Constructing utterances to suit the audience’s knowledge.
+
+Categorical perception 
+: Perception of acoustic characteristics that vary continuously as distinct phoneme categories
+
+Coarticulation effects
+: How speech sounds are influenced by neighboring speech sounds
+
+Common ground
+: Information that is shared by people who engage in a conversation.
+
+Ingroup
+: Group to which a person belongs.
+
+Lack of invariance problem
+: Lack of acoustic invariants in the speech signal that corresponding to linguistic components
+
+Lexicon
+: Words and expressions.
+
+Linguistic intergroup bias
+: A tendency for people to characterize positive things about their ingroup using more abstract expressions, but negative things about their outgroups using more abstract expressions.
+
+Morpheme 
+: The smallest units of meaning in a language
+
+Outgroup
+: Group to which a person does not belong.
+
+Phoneme
+: The smallest unit of sound that makes a meaningful difference in a language
+
+Priming
+: A stimulus presented to a person reminds him or her about other ideas associated with the stimulus.
+
+Linguistic relativity
+: The hypothesis that the language that people use influences the way they think.
+
+Segmentation problem
+: How to dissect a continuous speech signal into linguistically relevant units
+
+Situation model
+: A mental representation of an event, object, or situation constructed at the time of comprehending a linguistic description.
+
+Social brain hypothesis
+: The hypothesis that the human brain has evolved, so that humans can maintain larger ingroups.
+
+Social networks
+: Networks of social relationships among individuals through which information can travel.
+
+Speech perception 
+: The process by which the sounds of language are heard, interpreted, and understood.
+
+Syntax
+: Combinatorial "rules" of a language
 
 ## Image credits
 1. Marc Wathieu, https://goo.gl/jNSzTC, CC BY-NC 2.0, https://goo.gl/VnKlK8

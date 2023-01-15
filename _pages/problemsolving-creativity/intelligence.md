@@ -106,18 +106,24 @@ Although you might not be able to spell “esquamulose” or “staphylococci”
 * Which of Howard Gardner’s 8 types of intelligence do you think describes the way you learn best?
 
 ## Vocabulary
-### g
-Short for “general factor” and is often used to be synonymous with intelligence itself.
-### Intelligence
-An individual’s cognitive capability. This includes the ability to acquire, process, recall and apply information.
-### IQ
-Short for “intelligence quotient.” This is a score, typically obtained from a widely used measure of intelligence that is meant to rank a person’s intellectual ability against that of others.
-### Norm
-Assessments are given to a representative sample of a population to determine the range of scores for that population. These “norms” are then used to place an individual who takes that assessment on a range of scores in which he or she is compared to the population at large.
-### Standardize
-Assessments that are given in the exact same manner to all people . With regards to intelligence tests standardized scores are individual scores that are computed to be referenced against normative scores for a population (see “norm”).
-### Stereotype threat
-The phenomenon in which people are concerned that they will conform to a stereotype or that their performance does conform to that stereotype, especially in instances in which the stereotype is brought to their conscious awareness.
+
+g
+: Short for “general factor” and is often used to be synonymous with intelligence itself.
+
+Intelligence
+: An individual’s cognitive capability. This includes the ability to acquire, process, recall and apply information.
+
+IQ
+: Short for “intelligence quotient.” This is a score, typically obtained from a widely used measure of intelligence that is meant to rank a person’s intellectual ability against that of others.
+
+Norm
+: Assessments are given to a representative sample of a population to determine the range of scores for that population. These “norms” are then used to place an individual who takes that assessment on a range of scores in which he or she is compared to the population at large.
+
+Standardize
+: Assessments that are given in the exact same manner to all people . With regards to intelligence tests standardized scores are individual scores that are computed to be referenced against normative scores for a population (see “norm”).
+
+Stereotype threat
+: The phenomenon in which people are concerned that they will conform to a stereotype or that their performance does conform to that stereotype, especially in instances in which the stereotype is brought to their conscious awareness.
 
 ## Image credits
 1. Scripps National Spelling Bee, https://goo.gl/94Hgbm, [CC BY-NC 2.0](https://goo.gl/VnKlK8)

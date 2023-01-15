@@ -99,26 +99,36 @@ Creativity certainly must be considered a crucial human behavior. Indeed, like l
 * Highly creative people believe that they possess certain personality traits. If you make yourself have the same traits, will that make you more creative? For example, will you become more creative if you become more egotistical, individualistic, informal, reflective, self-confident, sexy, and unconventional? Or, how about widening your interests and becoming more open to experience? Which comes first, the personality or the capacity?
 
 ## Vocabulary
-### Big-C Creativity
-Creative ideas that have an impact well beyond the everyday life of home or work. At the highest level, this kind of creativity is that of the creative genius.
-### Convergent thinking
-The opposite of divergent thinking, the capacity to narrow in on the single “correct” answer or solution to a given question or problem (e.g., giving the right response on an intelligence tests).
-### Divergent thinking
-The opposite of convergent thinking, the capacity for exploring multiple potential answers or solutions to a given question or problem (e.g., coming up with many different uses for a common object).
-### Latent inhibition
-The ability to filter out extraneous stimuli, concentrating only on the information that is deemed relevant. Reduced latent inhibition is associated with higher creativity.
-### Little-c creativity
-Creative ideas that appear at the personal level, whether the home or the workplace. Such creativity needs not have a larger impact to be considered creative.
-### Multicultural experiences
-Individual exposure to two or more cultures, such as obtained by living abroad, emigrating to another country, or working or going to school in a culturally diverse setting.
-### Openness to experience
-One of the factors of the Big Five Model of personality, the factor assesses the degree that a person is open to different or new values, interests, and activities.
-### Originality
-When an idea or solution has a low probability of occurrence.
-### Remote associations
-Associations between words or concepts that are semantically distant and thus relatively unusual or original.
-### Unusual uses
-A test of divergent thinking that asks participants to find many uses for commonplace objects, such as a brick or paperclip.
+
+Big-C Creativity
+: Creative ideas that have an impact well beyond the everyday life of home or work. At the highest level, this kind of creativity is that of the creative genius.
+
+Convergent thinking
+: The opposite of divergent thinking, the capacity to narrow in on the single “correct” answer or solution to a given question or problem (e.g., giving the right response on an intelligence tests).
+
+Divergent thinking
+: The opposite of convergent thinking, the capacity for exploring multiple potential answers or solutions to a given question or problem (e.g., coming up with many different uses for a common object).
+
+Latent inhibition
+: The ability to filter out extraneous stimuli, concentrating only on the information that is deemed relevant. Reduced latent inhibition is associated with higher creativity.
+
+Little-c creativity
+: Creative ideas that appear at the personal level, whether the home or the workplace. Such creativity needs not have a larger impact to be considered creative.
+
+Multicultural experiences
+: Individual exposure to two or more cultures, such as obtained by living abroad, emigrating to another country, or working or going to school in a culturally diverse setting.
+
+Openness to experience
+: One of the factors of the Big Five Model of personality, the factor assesses the degree that a person is open to different or new values, interests, and activities.
+
+Originality
+: When an idea or solution has a low probability of occurrence.
+
+Remote associations
+: Associations between words or concepts that are semantically distant and thus relatively unusual or original.
+
+Unusual uses
+: A test of divergent thinking that asks participants to find many uses for commonplace objects, such as a brick or paperclip.
 
 ## Image credits
 1. [CC0 Public Domain](https://goo.gl/m25gce)

@@ -12,7 +12,7 @@ The primary goal of project aims to provide an open-source, ever-expanding body 
 
 This site is hosted via Github, allowing many users to contribute to the main site or to make their own variations. Ideally/eventually, this site will provide a mix of written and multimedia information to encourage learning through several mediums. 
 
-This site material itself falls in the Public Domain - i.e., licensed under a [Creative Commons Zero v1.0 Universa License](https://creativecommons.org/publicdomain/zero/1.0/deed.en), however note that content in most sections is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US).
+This site material itself falls in the Public Domain - i.e., licensed under a [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/deed.en), however note that content in most sections is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US).
 
 # Contributors
 * [Bob Slevc](https://github.com/bobsthinktank)

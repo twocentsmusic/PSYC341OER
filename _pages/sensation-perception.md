@@ -109,8 +109,8 @@ Who doesn’t love the softness of an old t-shirt or the smoothness of a clean s
 Tactile stimuli—those that are associated with texture—are transduced by special receptors in the skin called **mechanoreceptors**. Just like photoreceptors in the eye and auditory hair cells in the ear, these allow for the conversion of one kind of energy into a form the brain can understand.
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
-    <img src="https://nobaproject.com/images/shared/images/000/002/887/original.png" >
-    <figcaption> Figure 5. A drawing of the somatosensory cortex in the brain and the areas in the human body that correspond to it - they are drawn in proportion to the most sensitive or the most innervated parts of the body. </figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Sensory_Homunculus.jpg" >
+    <figcaption> Figure 5. A drawing of the somatosensory cortex in the brain and the areas in the human body that correspond to it - they are drawn in proportion to the most sensitive or the most innervated parts of the body. Img: OpenStax College, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons </figcaption>
 </figure>
 
 After tactile stimuli are converted by mechanoreceptors, information is sent through the thalamus to the **primary somatosensory cortex** for further processing. This region of the cortex is organized in a **somatotopic map** where different regions are sized based on the sensitivity of specific parts on the opposite side of the body (Penfield & Rasmussen, 1950). Put simply, various areas of the skin, such as lips and fingertips, are more sensitive than others, such as shoulders or ankles. This sensitivity can be represented with the distorted proportions of the human body shown in Figure 5.  

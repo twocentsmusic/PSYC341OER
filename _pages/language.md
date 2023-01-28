@@ -18,7 +18,7 @@ Human language is arguably the most complex behavior on the planet. Language inv
 ## Introduction
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:45%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/lang1.jpg" alt="An artwork titled 'Graphic Conversation' made up of speech balloons like those often used in cartoons.">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/lang1.jpg" alt="An artwork titled 'Graphic Conversation' made up of speech balloons like those often used in cartoons.">
     <figcaption> Language is an essential tool that enables us to live the kind of lives we do. Much of contemporary human civilization wouldn’t have been possible without it. [1]</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ This lack of acoustic invariants in the speech signal is often referred to as th
 The surrounding linguistic context influences the realization of a given speech sound, such that speech sounds are influenced by (and become more like) preceding and/or following speech sounds. This is termed **coarticulation** effects (i.e., because aspects of different sounds are being articulated concurrently). 
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/spectograms.png" alt="Spectrograms of syllables dee (top), dah (middle), and doo (bottom)">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/spectograms.png" alt="Spectrograms of syllables dee (top), dah (middle), and doo (bottom)">
     <figcaption>Example of coarticulation effects: These spectrograms of the syllables "dee" (top), "dah" (middle), and "doo" (bottom) show how the onset formant transitions that characterize the consonant /d/ differ depending on the identity of the following vowel. (Formants are highlighted by red dotted lines; transitions are the bending beginnings of the formant trajectories.) [2]</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ The resulting acoustic structure of concrete speech productions depends on the p
 On top of the lack of invariance of individual speech sounds, we somehow must be able to parse a continuous speech signal into discrete units like phonemes and words. However, although listeners perceive speech as a stream of discrete units (phonemes, syllables, and words), this linearity is difficult to see in the physical speech signal (see Figure below for an example). Speech sounds do not strictly follow one another, rather, they overlap (Fowler, 1995). That is, a speech sound is influenced by the ones that precede and the ones that follow. This influence can even be exerted at a distance of two or more segments (and across syllable- and word-boundaries). 
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Spectrogram_of_I_owe_you.png" alt="A spectrogram of the phrase I owe you.">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Spectrogram_of_I_owe_you.png" alt="A spectrogram of the phrase I owe you.">
     <figcaption>A spectrogram of the phrase *I owe you*. There are no clearly distinguishable boundaries between speech sounds. [3]</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Although we still do not know exactly how we overcome the lack of invariance and
 Put another way, speakers of a given language treat some categories of sounds alike (as belonging to the same phoneme category - thus *categorical perception*). One consequence of this is that speakers of different languages notice the difference between some phonemes but not others. English speakers can easily differentiate the /r/ phoneme from the /l/ phoneme, and thus *rake* and *lake* are heard as different words. In Japanese, however, /r/ and /l/ are variants of the same phoneme, and thus speakers of that language do not automatically categorize the words *rake* and *lake* as different words. Try saying the words *cool* and *keep* out loud. Can you hear the difference between the two /k/ sounds? To English speakers they both sound the same, but to speakers of Arabic these represent two different phonemes.
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Categorization-and-discrimination-curves.png" alt="A graph of example identification and discrimination functions.">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Categorization-and-discrimination-curves.png" alt="A graph of example identification and discrimination functions.">
     <figcaption>Example identification (red) and discrimination (blue) functions [4]</figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ If you are watching this scene and hearing their conversation, what can you gues
 Just like Adam and Ben, we exchange words and utterances to communicate with each other. Let’s consider the simplest case of two people, Adam and Ben, talking with each other. According to Clark (1996), in order for them to carry out a conversation, they must keep track of **common ground**. Common ground is a set of knowledge that the speaker and listener share and they think, assume, or otherwise take for granted that they share. So, when Adam says, “Gary bought a ring,” he takes for granted that Ben knows the meaning of the words he is using, whom Gary is, and what buying a ring means. When Ben says, “For Mary, isn’t it?” he takes for granted that Adam knows the meaning of these words, who Mary is, and what buying a ring for someone means. All these are part of their common ground.
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/lang2.jpg" alt="A pair of female students stand on the steps in front of a building engaged in conversation.">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/lang2.jpg" alt="A pair of female students stand on the steps in front of a building engaged in conversation.">
     <figcaption>The "common ground" in a conversation helps people coordinate their language use. And as conversations progress common ground shifts and changes as the participants add new information and cooperate to help one another understand. [5]</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ Note that, when Adam presents the information about Gary’s purchase of a ring,
 Common ground helps people coordinate their language use. For instance, when a speaker says something to a listener, he or she takes into account their common ground, that is, what the speaker thinks the listener knows. Adam said what he did because he knew Ben would know who Gary was. He’d have said, “A friend of mine is getting married,” to another colleague who wouldn’t know Gary. This is called **audience design** (Fussell & Krauss, 1992); speakers design their utterances for their audiences by taking into account the audiences’ knowledge. If their audiences are seen to be knowledgeable about an object (such as Ben about Gary), they tend to use a brief label of the object (i.e., Gary); for a less knowledgeable audience, they use more descriptive words (e.g., “a friend of mine”) to help the audience understand their utterances (Box 1).
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/lang3.jpg" alt="Coordinating language use by audience design.">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/lang3.jpg" alt="Coordinating language use by audience design.">
 </figure>
 
 So, language use is a cooperative activity, but how do we coordinate our language use in a conversational setting? To be sure, we have a conversation in small groups. The number of people engaging in a conversation at a time is rarely more than four. By some counts (e.g., Dunbar, Duncan, & Nettle, 1995; James, 1953), more than 90 percent of conversations happen in a group of four individuals or less. Certainly, coordinating conversation among four is not as difficult as coordinating conversation among 10. But, even among only four people, if you think about it, everyday conversation is an almost miraculous achievement. We typically have a conversation by rapidly exchanging words and utterances in real time in a noisy environment. Think about your conversation at home in the morning, at a bus stop, in a shopping mall. How can we keep track of our common ground under such circumstances?
@@ -143,7 +143,7 @@ Pickering and Garrod (2004) suggest that these interpersonal alignments at diffe
 ## What Do We Talk About?
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/lang4.jpg" alt="Two people gossiping">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/lang4.jpg" alt="Two people gossiping">
     <figcaption>Studies show that people love to gossip. By gossiping, humans can communicate and share their representations about their social world—who their friends and enemies are, what the right thing to do is under what circumstances, and so on. [6]</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ Gossip may sound trivial and seem to belittle our noble ability for language—s
 Dunbar’s hypothesis is controversial. Nonetheless, whether or not he is right, our everyday language use often *ends up* maintaining the existing structure of intergroup relationships. Language use can have implications for how we construe our social world. For one thing, there are subtle cues that people use to convey the extent to which someone’s action is just a special case in a particular context or a pattern that occurs across many contexts and more like a character trait of the person. According to Semin and Fiedler (1988), someone’s action can be described by an action verb that describes a concrete action (e.g., he runs), a state verb that describes the actor’s psychological state (e.g., he likes running), an adjective that describes the actor’s personality (e.g., he is athletic), or a noun that describes the actor’s role (e.g., he is an athlete). Depending on whether a verb or an adjective (or noun) is used, speakers can convey the permanency and stability of an actor’s tendency to act in a certain way—verbs convey particularity, whereas adjectives convey permanency. Intriguingly, people tend to describe positive actions of their ingroup members using adjectives (e.g., he is generous) rather than verbs (e.g., he gave a blind man some change), and negative actions of outgroup members using adjectives (e.g., he is cruel) rather than verbs (e.g., he kicked a dog). Maass, Salvi, Arcuri, and Semin (1989) called this a **linguistic intergroup bias**, which can produce and reproduce the representation of intergroup relationships by painting a picture favoring the ingroup. That is, ingroup members are typically good, and if they do anything bad, that’s more an exception in special circumstances; in contrast, outgroup members are typically bad, and if they do anything good, that’s more an exception.
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/lang5.jpg" alt="Emotion and Talk.">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/lang5.jpg" alt="Emotion and Talk.">
 </figure>
 
 In addition, when people exchange their gossip, it can spread through broader **social networks**. If gossip is transmitted from one person to another, the second person can transmit it to a third person, who then in turn transmits it to a fourth, and so on through a chain of communication. This often happens for emotive stories (Box 2). If gossip is repeatedly transmitted and spread, it can reach a large number of people. When stories travel through communication chains, they tend to become conventionalized (Bartlett, 1932). A Native American tale of the “War of the Ghosts” recounts a warrior’s encounter with ghosts traveling in canoes and his involvement with their ghostly battle. He is shot by an arrow but doesn’t die, returning home to tell the tale. After his narration, however, he becomes still, a black thing comes out of his mouth, and he eventually dies. When it was told to a student in England in the 1920s and retold from memory to another person, who, in turn, retold it to another and so on in a communication chain, the mythic tale became a story of a young warrior going to a battlefield, in which canoes became boats, and the black thing that came out of his mouth became simply his spirit (Bartlett, 1932). In other words, information transmitted multiple times was transformed to something that was easily understood by many, that is, information was assimilated into the common ground shared by most people in the linguistic community. More recently, Kashima (2000) conducted a similar experiment using a story that contained a sequence of events that described a young couple’s interaction that included both stereotypical and counter-stereotypical actions (e.g., a man watching sports on TV on Sunday vs. a man vacuuming the house). After the retelling of this story, much of the counter-stereotypical information was dropped, and stereotypical information was more likely to be retained. Because stereotypes are part of the common ground shared by the community, this finding too suggests that conversational retellings are likely to reproduce conventional content.

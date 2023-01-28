@@ -25,7 +25,7 @@ The topics of sensation and perception are among the oldest and most important i
 "Once I was hiking at Cape Lookout State Park in Tillamook, Oregon. After passing through a vibrantly colored, pleasantly scented, temperate rainforest, I arrived at a cliff overlooking the Pacific Ocean. I grabbed the cold metal railing near the edge and looked out at the sea. Below me, I could see a pod of sea lions swimming in the deep blue water. All around me I could smell the salt from the sea and the scent of wet, fallen leaves." 
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://nobaproject.com/images/shared/images/000/002/167/original.jpg" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Tillamook.jpg" >
     <figcaption> A view of the Pacific Ocean from high above seen through a group of fir trees. Our senses combine to create our perceptions of the world. Image: Adam John Privitera, CC BY-NC-SA 4.0 </figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ A similar principle to the absolute threshold discussed above underlies our abil
 
 Crossing into the world of perception, it is clear that our experience influences how our brain processes things. You have tasted food that you like and food that you don’t like. There are some bands you enjoy and others you can’t stand. However, during the time you first eat something or hear a band, you process those stimuli using **bottom-up processing**. This is when we build up to perception from the individual pieces. Sometimes, though, stimuli we’ve experienced in our past will influence how we process new ones. This is called **top-down processing**. A good way to illustrate these two concepts is with our ability to read. Read the following quote out loud:
 <figure>
-    <img src="https://nobaproject.com/images/shared/images/000/001/789/original.jpg" style="width:100%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/thethe.jpg" style="width:100%">
     <figcaption> Figure 1. An example of stimuli processing. The words in the triangle read, "I love Paris in the the spring." The repeated word "the" appears on two separate lines within the triangle. </figcaption>
 </figure>
 
@@ -62,8 +62,8 @@ Vision is a tricky matter. When we see a pizza, a feather, or a hammer, we are a
 Because we have two eyes in different locations, the image focused on each retina is from a slightly different angle (**binocular disparity**), providing some of the cues leading to our perception of 3D space (**binocular vision**). You can appreciate this by holding a pen in your hand, extending your arm in front of your face, and looking at the pen while closing each eye in turn. Pay attention to the apparent position of the pen relative to objects in the background. Depending on which eye is open, the pen appears to jump back and forth! This is how video game manufacturers create the perception of 3D without special glasses; two slightly different images are presented on top of one another.
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
-    <img src="https://nobaproject.com/images/shared/images/000/002/361/original.png" >
-    <figcaption> Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. [Image: Holly Fischer, CC BY 3.0] </figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/eye.png" >
+    <figcaption> Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. Image: Holly Fischer, [CC BY 3.0](https://goo.gl/TSIsIq) </figcaption>
 </figure>
 
 It is in the retina that light is transduced, or converted into electrical signals, by specialized cells called photoreceptors. The retina contains two main kinds of photoreceptors: **rods** and **cones**. Rods are primarily responsible for our ability to see in dim light conditions, such as during the night. Cones, on the other hand, provide us with the ability to see color and fine detail when the light is brighter. Rods and cones differ in their distribution across the retina, with the highest concentration of cones found in the fovea (the central region of focus), and rods dominating the periphery (see Figure 2). The difference in distribution can explain why looking directly at a dim star in the sky makes it seem to disappear; there aren’t enough rods to process the dim light!
@@ -77,8 +77,8 @@ Humans have the ability to adapt to changes in light conditions. As mentioned be
 This image is an illustration of the opponent process theory of vision. The image depicts the Canadian flag. Where the familiar Canadian flag is a red maple leaf on a white background bordered by two white columns this image is different. It shows a green maple leaf on a black background bordered by green columns. If a person stares at the green and black flag and then diverts their eyes to a blank surface such as a wall an "after image" of the Canadian flag will appear to hover there, only it will appear in red and white! Exactly the opposite colors the person was just staring at. 
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://nobaproject.com/images/shared/images/000/001/791/original.jpg" >
-    <figcaption> Figure 3. Stare at the center of the Canadian flag for fifteen seconds. Then, shift your eyes away to a white wall or blank piece of paper. You should see an "after image" in a different color scheme. </figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/afterimage.jpg" >
+    <figcaption> Figure 3. Stare at the center of the Canadian flag for fifteen seconds. Then, shift your eyes away to a white wall or blank piece of paper. You should see an "after image" in a different color scheme. Image: Adam Privitera, CC-BY-NC-SA 4.0</figcaption>
 </figure>
 
 Our cones allow us to see details in normal light conditions, as well as color. We have cones that respond *preferentially*, not exclusively, for red, green and blue (Svaetichin, 1955). This **trichromatic theory** is not new; it dates back to the early 19th century (Young, 1802; Von Helmholtz, 1867). This theory, however, does not explain the odd effect that occurs when we look at a white wall after staring at a picture for around 30 seconds. Try this: stare at the image of the flag in Figure 3 for 30 seconds and then immediately look at a sheet of white paper or a wall. According to the trichromatic theory of color vision, you should see white when you do that. Is that what you experienced? As you can see, the trichromatic theory doesn’t explain the *afterimage* you just witnessed. This is where the **opponent-process theory** comes in (Hering, 1920). This theory states that our cones send information to *retinal ganglion cells* that respond to *pairs* of colors (red-green, blue-yellow, black-white). These specialized cells take information from the cones and compute the difference between the two colors—a process that explains why we cannot see reddish-green or bluish-yellow, as well as why we see afterimages. Color deficient vision can result from issues with the cones or retinal ganglion cells involved in color vision.
@@ -89,8 +89,8 @@ Speech and music are just two examples of ways we vibrate the air a certain way 
 People are capable of getting a large amount of information from the basic qualities of sound waves. The *amplitude* (or intensity) of a sound wave codes for the loudness of a stimulus; higher amplitude sound waves result in louder sounds. The *pitch* of a stimulus is coded in the frequency of a sound wave; higher frequency sounds are higher pitched. We can also gauge the quality, or *timbre*, of a sound by the complexity of the sound wave. This allows us to tell the difference between bright and dull sounds as well as natural and synthesized instruments (Välimäki & Takala, 1996).
 
 <figure>
-    <img src="https://nobaproject.com/images/shared/images/000/001/792/original.png" alt="diagram of the human ear, labeling various pieces of anatomy associated with hearing including the ear drum, cochlea, and auditory nerve." style="width:100%">
-    <figcaption> Figure 4. Diagram of the human ear. Notice the Cochlea labeled here: it is the location of the auditory Hair Cells that are tonotopically organized. </figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/ear.png" alt="diagram of the human ear, labeling various pieces of anatomy associated with hearing including the ear drum, cochlea, and auditory nerve." style="width:100%">
+    <figcaption> Figure 4. Diagram of the human ear. Notice the Cochlea labeled here: it is the location of the auditory Hair Cells that are tonotopically organized. Image: Adam Privitera, CC-BY-NC-SA 4.0</figcaption>
 </figure>
 
 In order for us to sense sound waves from our environment they must reach our inner ear. Lucky for us, we have evolved tools that allow those waves to be funneled and amplified during this journey. Initially, sound waves are funneled by your **pinna** (the external part of your ear that you can actually see) into your **auditory canal** (the hole you stick Q-tips into despite the box advising against it). During their journey, sound waves eventually reach a thin, stretched membrane called the **tympanic membrane** (eardrum), which vibrates against the three smallest bones in the body—the malleus (hammer), the incus (anvil), and the stapes (stirrup)—collectively called the **ossicles**. Both the tympanic membrane and the ossicles amplify the sound waves before they enter the fluid-filled **cochlea**, a snail-shell-like bone structure containing auditory hair cells arranged on the basilar membrane (see Figure 4) according to the frequency they respond to (called *tonotopic organization*). Depending on age, humans can normally detect sounds between 20 Hz and 20 kHz. It is inside the cochlea that sound waves are converted into an electrical message.
@@ -127,7 +127,7 @@ Unlike any of the other senses discussed so far, the receptors involved in our p
 ## Gustation (taste)
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://nobaproject.com/images/shared/images/000/002/363/original.jpg" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/ghostpepper.jpg" >
     <figcaption> Ghost Pepper, also known as Bhut Jolokia is one of the hottest peppers in the world, it’s 10 times hotter than a habanero, and 400 times hotter than tabasco sauce. What do you think would happen to your taste receptor cells if you took a bite out of this little guy? [Image: Richard Elzey, https://goo.gl/suJHNg, CC BY 2.0, https://goo.gl/9uSnqN] </figcaption>
 </figure>
 

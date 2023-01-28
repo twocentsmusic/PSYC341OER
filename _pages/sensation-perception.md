@@ -63,7 +63,7 @@ Because we have two eyes in different locations, the image focused on each retin
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/eye.png" >
-    <figcaption> Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. Image: Holly Fischer, [CC BY 3.0](https://goo.gl/TSIsIq) </figcaption>
+    <figcaption> Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. Image: Holly Fischer, CC BY 3.0 </figcaption>
 </figure>
 
 It is in the retina that light is transduced, or converted into electrical signals, by specialized cells called photoreceptors. The retina contains two main kinds of photoreceptors: **rods** and **cones**. Rods are primarily responsible for our ability to see in dim light conditions, such as during the night. Cones, on the other hand, provide us with the ability to see color and fine detail when the light is brighter. Rods and cones differ in their distribution across the retina, with the highest concentration of cones found in the fovea (the central region of focus), and rods dominating the periphery (see Figure 2). The difference in distribution can explain why looking directly at a dim star in the sky makes it seem to disappear; there aren’t enough rods to process the dim light!
@@ -110,7 +110,7 @@ Tactile stimuli—those that are associated with texture—are transduced by spe
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/Sensory_Homunculus.jpg" >
-    <figcaption> Figure 5. A drawing of the somatosensory cortex in the brain and the areas in the human body that correspond to it - they are drawn in proportion to the most sensitive or the most innervated parts of the body. Img: OpenStax College, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons </figcaption>
+    <figcaption> Figure 5. A drawing of the somatosensory cortex in the brain and the areas in the human body that correspond to it - they are drawn in proportion to the most sensitive or the most innervated parts of the body. Img: OpenStax College, CC BY 3.0, via Wikimedia Commons </figcaption>
 </figure>
 
 After tactile stimuli are converted by mechanoreceptors, information is sent through the thalamus to the **primary somatosensory cortex** for further processing. This region of the cortex is organized in a **somatotopic map** where different regions are sized based on the sensitivity of specific parts on the opposite side of the body (Penfield & Rasmussen, 1950). Put simply, various areas of the skin, such as lips and fingertips, are more sensitive than others, such as shoulders or ankles. This sensitivity can be represented with the distorted proportions of the human body shown in Figure 5.  
@@ -338,5 +338,6 @@ Weber’s law
 {: .small}
 
 Adapted from Privitera, A. J. (2021). Sensation and perception. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/xgk3ajhy
+{: .small}
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

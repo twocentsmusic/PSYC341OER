@@ -335,18 +335,19 @@ Weber’s law
 * Walker, K. M., Bizley, J. K., King, A. J., & Schnupp, J. W. (2011). Multiplexed and robust representations of sound features in auditory cortex. The Journal of Neuroscience, 31(41), 14565-14576.
 * Weinstein, S. M. (1998). Phantom limb pain and related disorders. Neurologic Clinics, 16(4), 919-935.
 * Young, T. (1802). The Bakerian lecture: On the theory of light and colours. Philosophical transactions of the Royal Society of London, 12-48.
-
-
-## Image Credits
-[1] Adam Privitera, CC BY-NC-SA 4.0
-[2] Holly Fischer, CC BY 3.0
-[3] Adam Privitera, CC-BY-NC-SA 4.0
-[4] Adam Privitera, CC-BY-NC-SA 4.0
-[5] OpenStax College, CC BY 3.0, via Wikimedia Commons
-[6] [Richard Elzey](https://goo.gl/suJHNg), CC-BY 2.0
 {: .small}
 
-Adapted from Privitera, A. J. (2021). Sensation and perception. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/xgk3ajhy
+## Image Credits
+1. Adam Privitera, CC BY-NC-SA 4.0
+2. Holly Fischer, CC BY 3.0
+3. Adam Privitera, CC-BY-NC-SA 4.0
+4. Adam Privitera, CC-BY-NC-SA 4.0
+5. OpenStax College, CC BY 3.0, via Wikimedia Commons
+6. [Richard Elzey](https://goo.gl/suJHNg), CC-BY 2.0
+{: .small}
+
+## Adapted from 
+* Privitera, A. J. (2021). Sensation and perception. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/xgk3ajhy
 {: .small}
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

@@ -14,8 +14,11 @@ Stages of Memory
 
 One way of understanding memory is to think about it in terms of stages that describe the length of time that information remains available to us. According to this approach (see Figure 9.4, "Memory Duration"), information begins in *sensory memory*, moves to *short-term memory* or *working memory*, and eventually moves to *long-term memory*. But not all information makes it through all three stages; most of it is forgotten. Whether the information moves from shorter-duration memory into longer-duration memory or whether it is lost from memory entirely depends on how the information is attended to and processed.
 
-[![""](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/a74de49aa1281b2a68a59837b882d879-1024x371.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/a74de49aa1281b2a68a59837b882d879.jpg)
-Figure: Memory characterized in terms of stages.
+<figure>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/memory_stages.jpg" alt="box diagram of three stages of memory (sensory, short-term, and long-term memory)">
+    <figcaption> Figure: Memory characterized in terms of stages [1] </figcaption>
+</figure>
+
 
 Sensory Memory
 --------------
@@ -24,8 +27,11 @@ Sensory memory refers to *the brief storage of sensory information*. Sensory m
 
 *Visual sensory memory* is known as iconic memory. Iconic memory was first studied by the psychologist George Sperling (1960). In his research, Sperling showed participants a display of letters in rows, similar to that shown in the figure below. However, the display lasted only about 50 milliseconds (1/20 of a second). Then, Sperling gave his participants a recall test in which they were asked to name all the letters that they could remember. On average, the participants could remember only three or four of the letters that they had seen.
 
-[![12 random upper case letters in three rows.](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/23359e544fec0dbb7d2c8413ab5e834a.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/23359e544fec0dbb7d2c8413ab5e834a.jpg)
-Figure: Measuring Iconic Memory. Sperling showed his participants displays such as this one for only 1/20th of a second. He found that when he cued the participants to report one of the three rows of letters, they could do it, even if the cue was given shortly after the display had been removed. The research demonstrated the existence of iconic memory.
+<figure>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/sperling_task.jpg", alt="random upper case letters in three rows" >
+    <figcaption> Measuring Iconic Memory. Sperling showed his participants displays such as this one for only 1/20th of a second. He found that when he cued the participants to report one of the three rows of letters, they could do it, even if the cue was given shortly after the display had been removed. The research demonstrated the existence of iconic memory. [2] </figcaption>
+</figure>
+
 
 Sperling reasoned that the participants had seen all the letters but could remember them only very briefly, making it impossible for them to report them all. To test this idea, in his next experiment, he first showed the same letters, but then after the display had been removed, he signaled to the participants to report only the letters from either the first, second, or third row. In this condition, the participants now reported almost all the letters in that row. This finding confirmed Sperling's hunch: participants had access to all of the letters in their iconic memories, and if the task was short enough, they were able to report on the part of the display he asked them to. The "short enough" is the length of iconic memory, which turns out to be only a fraction of a second. 
 
@@ -53,8 +59,10 @@ To accomplish this difficult task you need to use a variety of skills. You clear
 
 Short-term memory is limited in both the length and the amount of information it can hold. Peterson and Peterson (1959) found that when people were asked to remember a list of three-letter strings and then were immediately asked to perform a distracting task (counting backward by threes), the material was quickly forgotten (see figure below), such that by 18 seconds it was virtually gone.
 
-[![""](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/00d3ae65e7804e9b2673885af32b2d93-1024x916.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/00d3ae65e7804e9b2673885af32b2d93.jpg)
-Figure: STM Decay. Information that is not rehearsed decays quickly from memory.
+<figure>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/STM_decay.jpg", alt="plot showing short-term memory decay over 18 seconds" >
+    <figcaption> STM Decay. Information that is not rehearsed decays quickly from memory [3] </figcaption>
+</figure>
 
 One way to prevent the decay of information from short-term memory is to rehearse it. *Maintenance rehearsal* is the process of repeating information mentally or out loud with the goal of keeping it in memory. We engage in maintenance rehearsal to keep something that we want to remember (e.g., a person's name, email address, or phone number) in mind long enough to write it down, use it, or potentially transfer it to long-term memory.
 
@@ -94,8 +102,10 @@ Would it help you if I pointed out that the material in this string could be chu
 
 Experts rely on chunking to help them process complex information. Herbert Simon and William Chase (1973) showed chess masters and chess novices various positions of pieces on a chessboard for a few seconds each. The experts did a lot better than the novices in remembering the positions because they were able to see the "big picture." They didn't have to remember the position of each of the pieces individually, but chunked the pieces into several larger layouts. But when the researchers showed both groups random chess positions --- positions that would be very unlikely to occur in real games --- both groups did equally poorly, because in this situation the experts lost their ability to organize the layouts (see figure below). The same occurs for basketball: basketball players recall actual basketball positions much better than do nonplayers, but only when the positions make sense in terms of what is happening on the court, or what is likely to happen in the near future, and thus can be chunked into bigger units (Didierjean & Marmèche, 2005).
 
-[![""](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/6d584c94bce2365ab842b6088970c50c-1024x502.jpg)](http://opentextbc.ca/introductiontopsychology/wp-content/uploads/sites/9/2013/11/6d584c94bce2365ab842b6088970c50c.jpg)
-Figure: Possible and Impossible Chess Positions. Experience matters: Experienced chess players are able to recall the positions of the game on the right much better than are those who are chess novices. But the experts do no better than the novices in remembering the positions on the left, which cannot occur in a real game.
+<figure>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/chessboards.jpg", alt="chessboards showing a impossible (in a real game) layout and a possible one." >
+    <figcaption> Possible and Impossible Chess Positions. Experienced chess players are able to recall the positions of the game on the right much better than are those who are chess novices. But the experts do no better than the novices in remembering the positions on the left, which cannot occur in a real game. [4] </figcaption>
+</figure>
 
 If information makes it past short term-memory it may enter *long-term memory (LTM)*, memory storage that can hold information for days, months, and years. The capacity of long-term memory is large, and there is no known limit to what we can remember (Wang, Liu, & Wang, 2003). Although we may forget at least some information after we learn it, other things will stay with us forever. In the next section we will discuss the principles of long-term memory.
 
@@ -112,8 +122,7 @@ If information makes it past short term-memory it may enter *long-term memory (
 1.  List some situations in which sensory memory is useful for you. What do you think your experience of the stimuli would be like if you had no sensory memory?
 2.  Describe a situation in which you need to use working memory to perform a task or solve a problem. How do your working memory skills help you?
 
-References
-----------
+## References
 * Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. Spence (Ed.), *The psychology of learning and motivation* (Vol. 2). Oxford, England: Academic Press.
 * Baddeley, A. D., Vallar, G., & Shallice, T. (1990). The development of the concept of working memory: Implications and contributions of neuropsychology. In G. Vallar & T. Shallice (Eds.), *Neuropsychological impairments of short-term memory* (pp. 54--73). New York, NY: Cambridge University Press.
 * Bargh, J. A., Chen, M., & Burrows, L. (1996). Automaticity of social behavior: Direct effects of trait construct and stereotype activation on action. *Journal of Personality & Social Psychology, 71*, 230--244.
@@ -131,13 +140,14 @@ References
 * Wang, Y., Liu, D., & Wang, Y. (2003). Discovering the capacity of human memory. *Brain & Mind, 4*(2), 189--198.
 {: .small}
 
-Image Attributions
-------------------
-* Figure 9.4: Adapted from Atkinson & Shiffrin (1968).
-* Figure 9.5: Adapted from Sperling (1960).
-* Figure 9.6: Adapted from Peterson & Peterson (1959).
+## Image Attributions
+1. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), adapted from Atkinson & Shiffrin (1968)
+2. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), adapted from Sperling (1960).
+3. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), adapted from Peterson & Peterson (1959).
+4. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 {: .small}
 
-Adapted from [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor. 
+## Adapted from
+* [Introduction to Psychology - 1st Canadian Edition](https://opentextbc.ca/introductiontopsychology) by Jennifer Walinga and Charles Stangor. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

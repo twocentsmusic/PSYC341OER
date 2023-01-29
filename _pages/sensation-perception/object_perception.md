@@ -143,6 +143,8 @@ We somehow generate a perception of a world full of distinct objects despite typ
 4. [UserLdaisy](https://commons.wikimedia.org/wiki/File:Breakdown_of_objects_into_Geons.png), Public domain, via Wikimedia Commons
 {: .small}
 
-Adapted from the Wikipedia article on [Recognition by components](https://en.wikipedia.org/wiki/Recognition-by-components_theory) and the cognitivepsychology.wikidot.com section on [Top-down and bottom-up theories of perception](http://cognitivepsychology.wikidot.com/cognition:topdown) under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> and from [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/) by Kathryn Dumper, William Jenkins, Arlene Lacombe, Marilyn Lovett, and Marion Perimutter under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-Slevc (2021). Pattern and object recognition. Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+### Adapted from
+* Wikipedia article on [Recognition by components](https://en.wikipedia.org/wiki/Recognition-by-components_theory), <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA 3.0</a>
+* cognitivepsychology.wikidot.com section on [Top-down and bottom-up theories of perception](http://cognitivepsychology.wikidot.com/cognition:topdown), <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA 3.0</a>
+* [The Gestalt Principles of Perception](https://opentext.wsu.edu/psych105/chapter/5-7-the-gestalt-principles-of-perception/) by Kathryn Dumper, William Jenkins, Arlene Lacombe, Marilyn Lovett, and Marion Perimutter, <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</a>.
+{: .small}

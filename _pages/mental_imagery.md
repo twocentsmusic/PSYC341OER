@@ -307,6 +307,7 @@ Mental Imagery
 4. Kosslyn (1978). Probably copyrighted and I should re-make this image, but omg what a pain.
 {: .small}
 
-Adapted from Matthew J. C. Crump. (2021). [Mental Imagery](https://crumplab.com/cognition/textbook/C2_Mental_Imagery.html) In Matthew J. C. Crump (Ed.), *Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications.* [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+### Adapted from 
+* Matthew J. C. Crump. (2021). [Mental Imagery](https://crumplab.com/cognition/textbook/C2_Mental_Imagery.html) In Matthew J. C. Crump (Ed.), *Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications.* [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

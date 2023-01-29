@@ -155,7 +155,7 @@ However, it is important to realize that cognitive research has not always had u
 * Zhang, J. (1997) The nature of external: Representations in problem solving. Cognitive Science 21: 179-217. 
 {: .small}
 
-Adapted from 
+## Adapted from 
 * Zhong-Lin Lu and Barbara Anne Dosher (2007). [Cognitive psychology](http://www.scholarpedia.org/article/Cognitive_psychology). *Scholarpedia, 2*(8):2769. [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
 * Matthew J. C. Crump. (2021). [What is Cognition?](https://crumplab.com/cognition/textbook/C1_What_is_Cognition.html) In Matthew J. C. Crump (Ed.), *Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications.* [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 {: .small}

@@ -26,7 +26,7 @@ The topics of sensation and perception are among the oldest and most important i
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/Tillamook.jpg" >
-    <figcaption> A view of the Pacific Ocean from high above seen through a group of fir trees. Our senses combine to create our perceptions of the world. Image: Adam John Privitera, CC BY-NC-SA 4.0 </figcaption>
+    <figcaption> A view of the Pacific Ocean from high above seen through a group of fir trees. Our senses combine to create our perceptions of the world. [1] </figcaption>
 </figure>
 
 This description of a single memory highlights the way a person’s senses are so important to our experience of the world around us.
@@ -63,7 +63,7 @@ Because we have two eyes in different locations, the image focused on each retin
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/eye.png" >
-    <figcaption> Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. Image: Holly Fischer, CC BY 3.0 </figcaption>
+    <figcaption> Figure 2. Diagram of the human eye. Notice the Retina, labeled here: this is the location of the Cones and Rods in the eye. [2] </figcaption>
 </figure>
 
 It is in the retina that light is transduced, or converted into electrical signals, by specialized cells called photoreceptors. The retina contains two main kinds of photoreceptors: **rods** and **cones**. Rods are primarily responsible for our ability to see in dim light conditions, such as during the night. Cones, on the other hand, provide us with the ability to see color and fine detail when the light is brighter. Rods and cones differ in their distribution across the retina, with the highest concentration of cones found in the fovea (the central region of focus), and rods dominating the periphery (see Figure 2). The difference in distribution can explain why looking directly at a dim star in the sky makes it seem to disappear; there aren’t enough rods to process the dim light!
@@ -78,7 +78,7 @@ This image is an illustration of the opponent process theory of vision. The imag
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/afterimage.jpg" >
-    <figcaption> Figure 3. Stare at the center of the Canadian flag for fifteen seconds. Then, shift your eyes away to a white wall or blank piece of paper. You should see an "after image" in a different color scheme. Image: Adam Privitera, CC-BY-NC-SA 4.0</figcaption>
+    <figcaption> Figure 3. Stare at the center of the Canadian flag for fifteen seconds. Then, shift your eyes away to a white wall or blank piece of paper. You should see an "after image" in a different color scheme. [3] </figcaption>
 </figure>
 
 Our cones allow us to see details in normal light conditions, as well as color. We have cones that respond *preferentially*, not exclusively, for red, green and blue (Svaetichin, 1955). This **trichromatic theory** is not new; it dates back to the early 19th century (Young, 1802; Von Helmholtz, 1867). This theory, however, does not explain the odd effect that occurs when we look at a white wall after staring at a picture for around 30 seconds. Try this: stare at the image of the flag in Figure 3 for 30 seconds and then immediately look at a sheet of white paper or a wall. According to the trichromatic theory of color vision, you should see white when you do that. Is that what you experienced? As you can see, the trichromatic theory doesn’t explain the *afterimage* you just witnessed. This is where the **opponent-process theory** comes in (Hering, 1920). This theory states that our cones send information to *retinal ganglion cells* that respond to *pairs* of colors (red-green, blue-yellow, black-white). These specialized cells take information from the cones and compute the difference between the two colors—a process that explains why we cannot see reddish-green or bluish-yellow, as well as why we see afterimages. Color deficient vision can result from issues with the cones or retinal ganglion cells involved in color vision.
@@ -90,7 +90,7 @@ People are capable of getting a large amount of information from the basic quali
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/ear.png" alt="diagram of the human ear, labeling various pieces of anatomy associated with hearing including the ear drum, cochlea, and auditory nerve." style="width:100%">
-    <figcaption> Figure 4. Diagram of the human ear. Notice the Cochlea labeled here: it is the location of the auditory Hair Cells that are tonotopically organized. Image: Adam Privitera, CC-BY-NC-SA 4.0</figcaption>
+    <figcaption> Figure 4. Diagram of the human ear. Notice the Cochlea labeled here: it is the location of the auditory Hair Cells that are tonotopically organized. [4] </figcaption>
 </figure>
 
 In order for us to sense sound waves from our environment they must reach our inner ear. Lucky for us, we have evolved tools that allow those waves to be funneled and amplified during this journey. Initially, sound waves are funneled by your **pinna** (the external part of your ear that you can actually see) into your **auditory canal** (the hole you stick Q-tips into despite the box advising against it). During their journey, sound waves eventually reach a thin, stretched membrane called the **tympanic membrane** (eardrum), which vibrates against the three smallest bones in the body—the malleus (hammer), the incus (anvil), and the stapes (stirrup)—collectively called the **ossicles**. Both the tympanic membrane and the ossicles amplify the sound waves before they enter the fluid-filled **cochlea**, a snail-shell-like bone structure containing auditory hair cells arranged on the basilar membrane (see Figure 4) according to the frequency they respond to (called *tonotopic organization*). Depending on age, humans can normally detect sounds between 20 Hz and 20 kHz. It is inside the cochlea that sound waves are converted into an electrical message.
@@ -108,9 +108,9 @@ Who doesn’t love the softness of an old t-shirt or the smoothness of a clean s
 ## Tactile sensation
 Tactile stimuli—those that are associated with texture—are transduced by special receptors in the skin called **mechanoreceptors**. Just like photoreceptors in the eye and auditory hair cells in the ear, these allow for the conversion of one kind of energy into a form the brain can understand.
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+<figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/Sensory_Homunculus.jpg" >
-    <figcaption> Figure 5. A drawing of the somatosensory cortex in the brain and the areas in the human body that correspond to it - they are drawn in proportion to the most sensitive or the most innervated parts of the body. Img: OpenStax College, CC BY 3.0, via Wikimedia Commons </figcaption>
+    <figcaption> Figure 5. A drawing of the somatosensory cortex in the brain and the areas in the human body that correspond to it - they are drawn in proportion to the most sensitive or the most innervated parts of the body. [5] </figcaption>
 </figure>
 
 After tactile stimuli are converted by mechanoreceptors, information is sent through the thalamus to the **primary somatosensory cortex** for further processing. This region of the cortex is organized in a **somatotopic map** where different regions are sized based on the sensitivity of specific parts on the opposite side of the body (Penfield & Rasmussen, 1950). Put simply, various areas of the skin, such as lips and fingertips, are more sensitive than others, such as shoulders or ankles. This sensitivity can be represented with the distorted proportions of the human body shown in Figure 5.  
@@ -128,7 +128,7 @@ Unlike any of the other senses discussed so far, the receptors involved in our p
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/ghostpepper.jpg" >
-    <figcaption> Ghost Pepper, also known as Bhut Jolokia is one of the hottest peppers in the world, it’s 10 times hotter than a habanero, and 400 times hotter than tabasco sauce. What do you think would happen to your taste receptor cells if you took a bite out of this little guy? [Image: Richard Elzey, https://goo.gl/suJHNg, CC BY 2.0, https://goo.gl/9uSnqN] </figcaption>
+    <figcaption> Ghost Pepper, also known as Bhut Jolokia is one of the hottest peppers in the world, it’s 10 times hotter than a habanero, and 400 times hotter than tabasco sauce. What do you think would happen to your taste receptor cells if you took a bite out of this little guy? [6] </figcaption>
 </figure>
 
 Taste works in a similar fashion to smell, only with receptors found in the taste buds of the tongue, called **taste receptor cells**. To clarify a common misconception, taste buds are not the bumps on your tongue (papillae), but are located in small divots around these bumps. These receptors also respond to chemicals from the outside environment, except these chemicals, called **tastants**, are contained in the foods we eat. The binding of these chemicals with taste receptor cells results in our perception of the five basic tastes: sweet, sour, bitter, salty and umami (savory)—although some scientists argue that there are more (Stewart et al., 2010). Researchers used to think these tastes formed the basis for a map-like organization of the tongue; there was even a clever rationale for the concept, about how the back of the tongue sensed bitter so we would know to spit out poisons, and the front of the tongue sensed sweet so we could identify high-energy foods. However, we now know that all areas of the tongue with taste receptor cells are capable of responding to every taste (Chandrashekar, Hoon, Ryba, & Zuker, 2006).
@@ -335,6 +335,15 @@ Weber’s law
 * Walker, K. M., Bizley, J. K., King, A. J., & Schnupp, J. W. (2011). Multiplexed and robust representations of sound features in auditory cortex. The Journal of Neuroscience, 31(41), 14565-14576.
 * Weinstein, S. M. (1998). Phantom limb pain and related disorders. Neurologic Clinics, 16(4), 919-935.
 * Young, T. (1802). The Bakerian lecture: On the theory of light and colours. Philosophical transactions of the Royal Society of London, 12-48.
+
+
+## Image Credits
+[1] Adam Privitera, CC BY-NC-SA 4.0
+[2] Holly Fischer, CC BY 3.0
+[3] Adam Privitera, CC-BY-NC-SA 4.0
+[4] Adam Privitera, CC-BY-NC-SA 4.0
+[5] OpenStax College, CC BY 3.0, via Wikimedia Commons
+[6] [Richard Elzey](https://goo.gl/suJHNg), CC-BY 2.0
 {: .small}
 
 Adapted from Privitera, A. J. (2021). Sensation and perception. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/xgk3ajhy

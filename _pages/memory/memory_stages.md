@@ -60,7 +60,7 @@ To accomplish this difficult task you need to use a variety of skills. You clear
 Short-term memory is limited in both the length and the amount of information it can hold. Peterson and Peterson (1959) found that when people were asked to remember a list of three-letter strings and then were immediately asked to perform a distracting task (counting backward by threes), the material was quickly forgotten (see figure below), such that by 18 seconds it was virtually gone.
 
 <figure>
-    <img src="https://bobsthinktank.github.io/PSYC341OER/images/STMDecay.jpg", alt="plot showing short-term memory decay over 18 seconds" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/STMDecay.jpg" alt="plot showing short-term memory decay over 18 seconds">
     <figcaption> STM Decay. Information that is not rehearsed decays quickly from memory [3] </figcaption>
 </figure>
 
@@ -101,13 +101,13 @@ CBSNBCABCHBO
 
 Would it help you if I pointed out that the material in this string could be chunked into four sets of three letters each? I think it would, because then rather than remembering 12 letters, you would only have to remember the names of four television stations. In this case, chunking changes the number of items you have to remember from 12 to only four.
 
-Experts rely on chunking to help them process complex information. Herbert Simon and William Chase (1973) showed chess masters and chess novices various positions of pieces on a chessboard for a few seconds each. The experts did a lot better than the novices in remembering the positions because they were able to see the "big picture." They didn't have to remember the position of each of the pieces individually, but chunked the pieces into several larger layouts. But when the researchers showed both groups random chess positions --- positions that would be very unlikely to occur in real games --- both groups did equally poorly, because in this situation the experts lost their ability to organize the layouts (see figure below). The same occurs for basketball: basketball players recall actual basketball positions much better than do nonplayers, but only when the positions make sense in terms of what is happening on the court, or what is likely to happen in the near future, and thus can be chunked into bigger units (Didierjean & Marmèche, 2005).
-
-<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/Chess_simulation.jpg" alt="box diagram of three stages of memory (sensory, short-term, and long-term memory)">
     <figcaption> Experienced chess players can recall the positions in the top game much better than chess novices can. But experts do no better than novices in remembering the positions on the bottom, which cannot occur in a real game. [4] </figcaption>
 </figure>
 
+
+Experts rely on chunking to help them process complex information. Herbert Simon and William Chase (1973) showed chess masters and chess novices various positions of pieces on a chessboard for a few seconds each. The experts did a lot better than the novices in remembering the positions because they were able to see the "big picture." They didn't have to remember the position of each of the pieces individually, but chunked the pieces into several larger layouts. But when the researchers showed both groups random chess positions --- positions that would be very unlikely to occur in real games --- both groups did equally poorly, because in this situation the experts lost their ability to organize the layouts (see figure below). The same occurs for basketball: basketball players recall actual basketball positions much better than do nonplayers, but only when the positions make sense in terms of what is happening on the court, or what is likely to happen in the near future, and thus can be chunked into bigger units (Didierjean & Marmèche, 2005).
 
 If information makes it past short term-memory it may enter *long-term memory (LTM)*, memory storage that can hold information for days, months, and years. The capacity of long-term memory is large, and there is no known limit to what we can remember (Wang, Liu, & Wang, 2003). Although we may forget at least some information after we learn it, other things will stay with us forever. In the next section we will discuss the principles of long-term memory.
 

@@ -28,7 +28,7 @@ Sensory memory refers to *the brief storage of sensory information*. Sensory m
 *Visual sensory memory* is known as iconic memory. Iconic memory was first studied by the psychologist George Sperling (1960). In his research, Sperling showed participants a display of letters in rows, similar to that shown in the figure below. However, the display lasted only about 50 milliseconds (1/20 of a second). Then, Sperling gave his participants a recall test in which they were asked to name all the letters that they could remember. On average, the participants could remember only three or four of the letters that they had seen.
 
 <figure>
-    <img src="https://bobsthinktank.github.io/PSYC341OER/images/sperling_task.jpg", alt="random upper case letters in three rows" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/sperlingTask.jpg" alt="three rows of random upper case letters">
     <figcaption> Measuring Iconic Memory. Sperling showed his participants displays such as this one for only 1/20th of a second. He found that when he cued the participants to report one of the three rows of letters, they could do it, even if the cue was given shortly after the display had been removed. The research demonstrated the existence of iconic memory. [2] </figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ To accomplish this difficult task you need to use a variety of skills. You clear
 Short-term memory is limited in both the length and the amount of information it can hold. Peterson and Peterson (1959) found that when people were asked to remember a list of three-letter strings and then were immediately asked to perform a distracting task (counting backward by threes), the material was quickly forgotten (see figure below), such that by 18 seconds it was virtually gone.
 
 <figure>
-    <img src="https://bobsthinktank.github.io/PSYC341OER/images/STM_decay.jpg", alt="plot showing short-term memory decay over 18 seconds" >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/STMDecay.jpg", alt="plot showing short-term memory decay over 18 seconds" >
     <figcaption> STM Decay. Information that is not rehearsed decays quickly from memory [3] </figcaption>
 </figure>
 

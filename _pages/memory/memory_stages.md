@@ -15,7 +15,7 @@ Stages of Memory
 One way of understanding memory is to think about it in terms of stages that describe the length of time that information remains available to us. According to this approach (see Figure 9.4, "Memory Duration"), information begins in *sensory memory*, moves to *short-term memory* or *working memory*, and eventually moves to *long-term memory*. But not all information makes it through all three stages; most of it is forgotten. Whether the information moves from shorter-duration memory into longer-duration memory or whether it is lost from memory entirely depends on how the information is attended to and processed.
 
 <figure>
-    <img src="https://bobsthinktank.github.io/PSYC341OER/images/memory_stages.jpg" alt="box diagram of three stages of memory (sensory, short-term, and long-term memory)">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/ModalModelMemory.png" alt="box diagram of three stages of memory (sensory, short-term, and long-term memory)">
     <figcaption> Figure: Memory characterized in terms of stages [1] </figcaption>
 </figure>
 
@@ -141,8 +141,8 @@ If information makes it past short term-memory it may enter *long-term memory (
 {: .small}
 
 ## Image Attributions
-1. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), adapted from Atkinson & Shiffrin (1968)
-2. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), adapted from Sperling (1960).
+1. Bob Slevc, [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), adapted from Atkinson & Shiffrin (1968)
+2. Bob Slevc, [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), adapted from Sperling (1960).
 3. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), adapted from Peterson & Peterson (1959).
 4. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 {: .small}

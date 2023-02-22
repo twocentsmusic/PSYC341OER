@@ -64,6 +64,7 @@ Short-term memory is limited in both the length and the amount of information it
     <figcaption> STM Decay. Information that is not rehearsed decays quickly from memory [3] </figcaption>
 </figure>
 
+
 One way to prevent the decay of information from short-term memory is to rehearse it. *Maintenance rehearsal* is the process of repeating information mentally or out loud with the goal of keeping it in memory. We engage in maintenance rehearsal to keep something that we want to remember (e.g., a person's name, email address, or phone number) in mind long enough to write it down, use it, or potentially transfer it to long-term memory.
 
 If we continue to rehearse information, it will stay in STM until we stop rehearsing it, but there is also a capacity limit to STM. Try reading each of the following rows of numbers, one row at a time, at a rate of about one number each second. Then when you have finished each row, close your eyes and write down as many of the numbers as you can remember.
@@ -103,9 +104,10 @@ Would it help you if I pointed out that the material in this string could be chu
 Experts rely on chunking to help them process complex information. Herbert Simon and William Chase (1973) showed chess masters and chess novices various positions of pieces on a chessboard for a few seconds each. The experts did a lot better than the novices in remembering the positions because they were able to see the "big picture." They didn't have to remember the position of each of the pieces individually, but chunked the pieces into several larger layouts. But when the researchers showed both groups random chess positions --- positions that would be very unlikely to occur in real games --- both groups did equally poorly, because in this situation the experts lost their ability to organize the layouts (see figure below). The same occurs for basketball: basketball players recall actual basketball positions much better than do nonplayers, but only when the positions make sense in terms of what is happening on the court, or what is likely to happen in the near future, and thus can be chunked into bigger units (Didierjean & Marmèche, 2005).
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
-    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Chess_simulation.jpg", alt="chessboards showing impossible (in a real game) layouts and a possible ones." >
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Chess_simulation.jpg" alt="box diagram of three stages of memory (sensory, short-term, and long-term memory)">
     <figcaption> Experienced chess players can recall the positions in the top game much better than chess novices can. But experts do no better than novices in remembering the positions on the bottom, which cannot occur in a real game. [4] </figcaption>
 </figure>
+
 
 If information makes it past short term-memory it may enter *long-term memory (LTM)*, memory storage that can hold information for days, months, and years. The capacity of long-term memory is large, and there is no known limit to what we can remember (Wang, Liu, & Wang, 2003). Although we may forget at least some information after we learn it, other things will stay with us forever. In the next section we will discuss the principles of long-term memory.
 

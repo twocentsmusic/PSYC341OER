@@ -102,9 +102,9 @@ Would it help you if I pointed out that the material in this string could be chu
 
 Experts rely on chunking to help them process complex information. Herbert Simon and William Chase (1973) showed chess masters and chess novices various positions of pieces on a chessboard for a few seconds each. The experts did a lot better than the novices in remembering the positions because they were able to see the "big picture." They didn't have to remember the position of each of the pieces individually, but chunked the pieces into several larger layouts. But when the researchers showed both groups random chess positions --- positions that would be very unlikely to occur in real games --- both groups did equally poorly, because in this situation the experts lost their ability to organize the layouts (see figure below). The same occurs for basketball: basketball players recall actual basketball positions much better than do nonplayers, but only when the positions make sense in terms of what is happening on the court, or what is likely to happen in the near future, and thus can be chunked into bigger units (Didierjean & Marmèche, 2005).
 
-<figure>
-    <img src="https://bobsthinktank.github.io/PSYC341OER/images/chessboards.jpg", alt="chessboards showing a impossible (in a real game) layout and a possible one." >
-    <figcaption> Possible and Impossible Chess Positions. Experienced chess players are able to recall the positions of the game on the right much better than are those who are chess novices. But the experts do no better than the novices in remembering the positions on the left, which cannot occur in a real game. [4] </figcaption>
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/Chess_simulation.jpg", alt="chessboards showing impossible (in a real game) layouts and a possible ones." >
+    <figcaption> Experienced chess players can recall the positions in the top game much better than chess novices can. But experts do no better than novices in remembering the positions on the bottom, which cannot occur in a real game. [4] </figcaption>
 </figure>
 
 If information makes it past short term-memory it may enter *long-term memory (LTM)*, memory storage that can hold information for days, months, and years. The capacity of long-term memory is large, and there is no known limit to what we can remember (Wang, Liu, & Wang, 2003). Although we may forget at least some information after we learn it, other things will stay with us forever. In the next section we will discuss the principles of long-term memory.
@@ -144,7 +144,7 @@ If information makes it past short term-memory it may enter *long-term memory (
 1. Bob Slevc, [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), adapted from Atkinson & Shiffrin (1968)
 2. Bob Slevc, [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), adapted from Sperling (1960).
 3. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), adapted from Peterson & Peterson (1959).
-4. [Walinga & Stangor (2014)](https://opentextbc.ca/introductiontopsychology/), [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+4. Giovannihbartlett, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 {: .small}
 
 ## Adapted from

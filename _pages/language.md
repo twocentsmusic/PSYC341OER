@@ -277,6 +277,11 @@ Syntax
 * Whorf, B. L. (1956). Language, thought, and reality (J. B. Carroll, Ed.). Cambridge, MA: MIT Press.
 {: .small}
 
-Adapted from: Kashima, Y. (2021). [Language and language use](http://noba.to/gq62cpam). In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology, Rose, M. Spielman, R.M., Jenkins, W.J., & Lovett, M.D. (2020). [7.2 Language](https://openstax.org/books/psychology-2e/pages/7-2-language). In OpenStax:Psychology 2e, and Walinga & Stangor (2010). [Communicating With Others: The Development and Use of Language](https://opentextbc.ca/introductiontopsychology/chapter/9-3-communicating-with-others-the-development-and-use-of-language/). In Introduction to Psychology - 1st Canadian Edition – all [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/), as well as the Wikipedia entry on [Speech Perception](https://en.wikipedia.org/wiki/Speech_perception) retrieved 3/25/21, [CC-BY-SA 3.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).
+## Adapted from
+* Kashima, Y. (2021). [Language and language use](http://noba.to/gq62cpam). In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology, Rose, M. Spielman, R.M., Jenkins, W.J., & Lovett, M.D. (2020). 
+* [7.2 Language](https://openstax.org/books/psychology-2e/pages/7-2-language). In OpenStax:Psychology 2e, and Walinga & Stangor (2010). 
+* [Communicating With Others: The Development and Use of Language](https://opentextbc.ca/introductiontopsychology/chapter/9-3-communicating-with-others-the-development-and-use-of-language/). In Introduction to Psychology - 1st Canadian Edition – all [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* [Speech Perception](https://en.wikipedia.org/wiki/Speech_perception) retrieved 3/25/21, [CC-BY-SA 3.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License).
+{: .small}
 
 Slevc (2021). Speech perception and language use. Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>

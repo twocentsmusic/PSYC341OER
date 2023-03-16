@@ -48,8 +48,8 @@ Various other subtypes exist as well; see, for example, the National Aphasia Ass
 Localizationist approaches aim to classify the aphasias according to their major presenting characteristics and the regions of the brain that most probably gave rise to them (Goodglass, et al., 2001; Kertesz, 2006). Inspired by the early work of nineteenth-century neurologists Paul Broca and Carl Wernicke, these approaches identify two major subtypes of aphasia and several more minor subtypes. 
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BrocasAreaSmall.png/800px-BrocasAreaSmall.png" alt="Schematic of the location of Broca's and Wernicke's areas.">
-    <figcaption> Schematic of the location of Broca's and Wernicke's areas[1].</figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/BrocasAreaSmall.png" alt="Schematic of the location of Broca's and Wernicke's areas.">
+    <figcaption> Schematic of the location of Broca's and Wernicke's areas [1].</figcaption>
 </figure>
 
 Broca's, or expressive aphasia is typically associated with damage to the anterior portion of the left hemisphere, including Broca's area. Individuals with Broca's aphasia often have right-sided weakness or paralysis of the arm and leg, because the left frontal lobe is also important for body movement, particularly on the right side.
@@ -78,10 +78,6 @@ Typically within ERP analysis, the electrical activity of the brain in response 
 
 Although our understanding of the neural organization of language is still incomplete, it has been significantly informed by evidence from acquired language deficits (especially Aphasia) and from neuroimaging work. These findings implicate largely (but not exclusively) left lateralized functions and also suggest multiple distinct underlying processes (e.g., for semantic and syntactic processing). 
 
-## Figures
-1. Figure from [NIH publication 97-4257](https://www.nidcd.nih.gov/health/aphasia).
-{: .small}
-
 ## References
 * American Speech-Language-Hearing Association (ASHA):- Aphasia. asha.org.
 * Berthier, Marcelo L. (2005). Poststroke Aphasia. Drugs & Aging. 22 (2): 163–182.
@@ -101,9 +97,14 @@ Although our understanding of the neural organization of language is still incom
 * Stahl B, Van Lancker Sidtis D (2015). Tapping into neural resources of communication: formulaic language in aphasia therapy. Frontiers in Psychology. 6 (1526): 1526. 
 {: .small}
 
-Adapted from: 
+## Figures
+1. Figure from [NIH publication 97-4257](https://www.nidcd.nih.gov/health/aphasia).
+{: .small}
+
+## Adapted from: 
 * Dumper, K., Jenkins, W., Lacombe, A., Lovett, M., & Perimutter, M. [7.2 Language](https://opentext.wsu.edu/psych105/chapter/7-3-language/), [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
 * Walinga & Stangor (2010). [Communicating With Others: The Development and Use of Language](https://opentextbc.ca/introductiontopsychology/chapter/9-3-communicating-with-others-the-development-and-use-of-language/) in Introduction to Psychology - 1st Canadian Edition, [CC-BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 * Wikipedia entries on [Aphasia](https://en.wikipedia.org/wiki/Aphasia), [Event-related potential](https://en.wikipedia.org/wiki/Event-related_potential), and [Functional magnetic resonance imaging](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) retrieved 4/2/21, CC-BY-SA 3.0
+{: .small}
 
 Slevc (2021). Language and Brain. Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>

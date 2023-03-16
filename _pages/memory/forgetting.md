@@ -4,7 +4,7 @@ sidebar:
   nav: "memorynav"
 ---
 
-# Forgetting and Amneisa
+# Forgetting and Amnesia
 <cite>Adapted from Dudukovic, N. & Kuhl, B. (2020). Forgetting and amnesia. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/m38qbftg </cite>
 {: .small}
 
@@ -19,8 +19,8 @@ This module explores the causes of everyday forgetting and considers pathologica
 Chances are that you have experienced memory lapses and been frustrated by them. You may have had trouble remembering the definition of a key term on an exam or found yourself unable to recall the name of an actor from one of your favorite TV shows. Maybe you forgot to call your aunt on her birthday or you routinely forget where you put your cell phone. Oftentimes, the bit of information we are searching for comes back to us, but sometimes it does not. Clearly, forgetting seems to be a natural part of life. Why do we forget? And is forgetting always a bad thing?
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/forget1.jpg" style="width:75%">
-    <figcaption> Forgetting can often be obnoxious or even embarrassing. But as we explore this module, you’ll learn that forgetting is important and necessary for everyday functionality. [Image: jazbeck, https://goo.gl/nkRrJy, CC BY 2.0, https://goo.gl/BRvSA7]</figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/forget1.jpg" style="width:75%">
+    <figcaption> Forgetting can often be obnoxious or even embarrassing. But as we explore this module, you’ll learn that forgetting is important and necessary for everyday functionality. [1]</figcaption>
 </figure>
 
 
@@ -30,8 +30,8 @@ One very common and obvious reason why you cannot remember a piece of informatio
 Another proposed reason why we forget is that memories fade, or **decay**, over time. It has been known since the pioneering work of Hermann Ebbinghaus (1885/1913) that as time passes, memories get harder to recall. Ebbinghaus created more than 2,000 nonsense syllables, such as *dax*, *bap*, and *rif*, and studied his own memory for them, learning as many as 420 lists of 16 nonsense syllables for one experiment. He found that his memories diminished as time passed, with the most forgetting happening early on after learning. His observations and subsequent research suggested that if we do not rehearse a memory and the neural representation of that memory is not reactivated over a long period of time, the memory representation may disappear entirely or fade to the point where it can no longer be accessed. As you might imagine, it is hard to definitively prove that a memory has decayed as opposed to it being inaccessible for another reason. Critics argued that forgetting must be due to processes other than simply the passage of time, since disuse of a memory does not always guarantee forgetting (McGeoch, 1932). More recently, some memory theorists have proposed that recent memory traces may be degraded or disrupted by new experiences (Wixted, 2004). Memory traces need to be **consolidated**, or transferred from the hippocampus to more durable representations in the cortex, in order for them to last (McGaugh, 2000). When the consolidation process is interrupted by the encoding of other experiences, the memory trace for the original experience does not get fully developed and thus is forgotten.
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/forget2.jpg">
-    <figcaption> At times, we will completely blank on something we’re certain we’ve learned - people we went to school with years ago for example. However, once we get the right retrieval cue (a name perhaps), the memory (faces or experiences) rushes back to us like it was there all along. [Image: sbhsclass84, https://goo.gl/sHZyQI, CC BY-SA 2.0, https://goo.gl/rxiUsF] </figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/forget2.jpg">
+    <figcaption> At times, we will completely blank on something we’re certain we’ve learned - people we went to school with years ago for example. However, once we get the right retrieval cue (a name perhaps), the memory (faces or experiences) rushes back to us like it was there all along. [2] </figcaption>
 </figure>
 
 Both encoding failures and decay account for more permanent forms of forgetting, in which the memory trace does not exist, but forgetting may also occur when a memory exists yet we temporarily cannot access it. This type of forgetting may occur when we lack the appropriate **retrieval** cues for bringing the memory to mind. You have probably had the frustrating experience of forgetting your password for an online site. Usually, the password has not been permanently forgotten; instead, you just need the right reminder to remember what it is. For example, if your password was “pizza0525,” and you received the password hints “favorite food” and “Mom’s birthday,” you would easily be able to retrieve it. Retrieval hints can bring back to mind seemingly forgotten memories (Tulving & Pearlstone, 1966). One real-life illustration of the importance of retrieval cues comes from a study showing that whereas people have difficulty recalling the names of high school classmates years after graduation, they are easily able to recognize the names and match them to the appropriate faces (Bahrick, Bahrick, & Wittinger, 1975). The names are powerful enough retrieval cues that they bring back the memories of the faces that went with them. The fact that the presence of the right retrieval cues is critical for remembering adds to the difficulty in proving that a memory is permanently forgotten as opposed to temporarily unavailable.
@@ -39,7 +39,7 @@ Both encoding failures and decay account for more permanent forms of forgetting,
 Retrieval failures can also occur because other memories are blocking or getting in the way of recalling the desired memory. This blocking is referred to as **interference**. For example, you may fail to remember the name of a town you visited with your family on summer vacation because the names of other towns you visited on that trip or on other trips come to mind instead. Those memories then prevent the desired memory from being retrieved. Interference is also relevant to the example of forgetting a password: passwords that we have used for other websites may come to mind and interfere with our ability to retrieve the desired password. Interference can be either proactive, in which old memories block the learning of new related memories, or retroactive, in which new memories block the retrieval of old related memories. For both types of interference, competition between memories seems to be key (Mensink & Raaijmakers, 1988). Your memory for a town you visited on vacation is unlikely to interfere with your ability to remember an Internet password, but it is likely to interfere with your ability to remember a different town’s name. Competition between memories can also lead to forgetting in a different way. Recalling a desired memory in the face of competition may result in the inhibition of related, competing memories (Levy & Anderson, 2002). You may have difficulty recalling the name of Kennebunkport, Maine, because other Maine towns, such as Bar Harbor, Winterport, and Camden, come to mind instead. However, if you are able to recall Kennebunkport despite strong competition from the other towns, this may actually change the competitive landscape, weakening memory for those other towns’ names, leading to forgetting of them instead.
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/forget3.jpg">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/forget3.jpg">
 </figure>
 
 Finally, some memories may be forgotten because we *deliberately attempt to keep them out of mind*. Over time, by actively trying not to remember an event, we can sometimes successfully keep the undesirable memory from being retrieved either by inhibiting the undesirable memory or generating diversionary thoughts (Anderson & Green, 2001). Imagine that you slipped and fell in your high school cafeteria during lunch time, and everyone at the surrounding tables laughed at you. You would likely wish to avoid thinking about that event and might try to prevent it from coming to mind. One way that you could accomplish this is by thinking of other, more positive, events that are associated with the cafeteria. Eventually, this memory may be suppressed to the point that it would only be retrieved with great difficulty (Hertel & Calcaterra, 2005).
@@ -50,8 +50,8 @@ We have explored five different causes of forgetting. Together they can account 
 
 ## Amnesia
 <figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/forget5.png">
-    <figcaption> Patients with damage to the temporal lobes may experience anterograde amnesia and/or retrograde amnesia. [Image: en:Anatomography, https://goo.gl/ALPAu6, CC BY-SA 2.1 JP, https://goo.gl/BDF2Z4] </figcaption>
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/forget5.png">
+    <figcaption> Patients with damage to the temporal lobes may experience anterograde amnesia and/or retrograde amnesia. [3] </figcaption>
 </figure>
 
 Clearly, remembering everything would be maladaptive, but what would it be like to remember nothing? We will now consider a profound form of forgetting called amnesia that is distinct from more ordinary forms of forgetting. Most of us have had exposure to the concept of amnesia through popular movies and television. Typically, in these fictionalized portrayals of amnesia, a character suffers some type of blow to the head and suddenly has no idea who they are and can no longer recognize their family or remember any events from their past. After some period of time (or another blow to the head), their memories come flooding back to them. Unfortunately, this portrayal of amnesia is not very accurate. What does amnesia typically look like?
@@ -74,28 +74,38 @@ Just as the case study of the mnemonist Shereshevsky illustrates what a life wit
 * How is real-life amnesia different than amnesia that is portrayed on TV and in film?
 
 ## Vocabulary
-### Anterograde amnesia
-Inability to form new memories for facts and events after the onset of amnesia.
-### Consolidation
-Process by which a memory trace is stabilized and transformed into a more durable form.
-### Decay
-The fading of memories with the passage of time.
-### Declarative memory
-Conscious memories for facts and events.
-### Dissociative amnesia
-Loss of autobiographical memories from a period in the past in the absence of brain injury or disease.
-### Encoding
-Process by which information gets into memory.
-### Interference
-Other memories get in the way of retrieving a desired memory
-### Medial temporal lobes
-Inner region of the temporal lobes that includes the hippocampus.
-### Retrieval
-Process by which information is accessed from memory and utilized.
-### Retrograde amnesia
-Inability to retrieve memories for facts and events acquired before the onset of amnesia.
-### Temporally graded retrograde amnesia
-Inability to retrieve memories from just prior to the onset of amnesia with intact memory for more remote events.
+Anterograde amnesia
+: Inability to form new memories for facts and events after the onset of amnesia.
+
+Consolidation
+: Process by which a memory trace is stabilized and transformed into a more durable form.
+
+Decay
+: The fading of memories with the passage of time.
+
+Declarative memory
+: Conscious memories for facts and events.
+
+Dissociative amnesia
+: Loss of autobiographical memories from a period in the past in the absence of brain injury or disease.
+
+Encoding
+: Process by which information gets into memory.
+
+Interference
+: Other memories get in the way of retrieving a desired memory
+
+Medial temporal lobes
+: Inner region of the temporal lobes that includes the hippocampus.
+
+Retrieval
+: Process by which information is accessed from memory and utilized.
+
+Retrograde amnesia
+: Inability to retrieve memories for facts and events acquired before the onset of amnesia.
+
+Temporally graded retrograde amnesia
+: Inability to retrieve memories from just prior to the onset of amnesia with intact memory for more remote events.
 
 ## References
 * Anderson, J. R., & Milson, R. (1989). Human memory: An adaptive perspective. *Psychological Review*, 96, 703–719.
@@ -123,6 +133,14 @@ Inability to retrieve memories from just prior to the onset of amnesia with inta
 * Wixted, J. T. (2004). The psychology and neuroscience of forgetting. *Annual Reviews of Psychology*, 55, 235–269.
 {: .small}
 
-Adapted from Dudukovic, N. & Kuhl, B. (2020). Forgetting and amnesia. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/m38qbftg
+## Image Attributions
+1. jazbeck, https://goo.gl/nkRrJy, CC BY 2.0, https://goo.gl/BRvSA7
+2. sbhsclass84, https://goo.gl/sHZyQI, CC BY-SA 2.0, https://goo.gl/rxiUsF
+3. en:Anatomography, https://goo.gl/ALPAu6, CC BY-SA 2.1 JP, https://goo.gl/BDF2Z4
+{: .small}
+
+## Adapted from
+* Dudukovic, N. & Kuhl, B. (2020). Forgetting and amnesia. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/m38qbftg
+{: .small}
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

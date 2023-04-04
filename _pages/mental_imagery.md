@@ -106,13 +106,13 @@ What facts about mental imagery can we say have been established by this researc
 
 Some takeaways from this slice of the literature: 
 
-1. asking people about their own experience is a useful thing to do, especially when you want to learn something about their subjective experience. 
+1. Asking people about their own experience is a useful thing to do, especially when you want to learn something about their subjective experience. 
 2. People make consistent claims about mental imagery, and provide preliminary forms of subjective evidence about features of their own mental imagery. 
 3. There are limitations due to subjective report, and it would be useful to develop alternative tools to measure different aspects of mental imagery in a more objective way.
 
 ### Theories, explanation and mental imagery
 
-The cognitive sciences is not only concerned with discovering the facts about cognitive abilities like mental imagery, it is also interested in explaining how the abilities work. Explanations can take different forms, and across the textbook we will encounter relatively simple claims about how something might work, to well-developed verbal theories, to highly specified computer simulations that propose working algorithms for specific cognitive abilities. And, throughout, I will encourage us to keep wondering about what kind of explanation would be satisfying to you, to explain how different cognitive abilities work.
+The cognitive sciences is not only concerned with discovering the facts about cognitive abilities like mental imagery, it is also interested in explaining how the abilities work. Explanations can take different forms, and across the textbook we will encounter explanations ranging from (a) relatively simple claims about how something might work to (b) well-developed verbal theories to (c) highly specified computer simulations that propose working algorithms for specific cognitive abilities. Throughout, I encourage you to think about what kind of account would be a satisfying explanation of how a cognitive ability works.
 
 I think I can safely say that as of right now, there is no broadly accepted theory or explanation about how mental imagery works. As we already discussed, there isn’t really great consensus on the features of mental imagery itself, so the absence of a theory isn’t too surprising. However, there has been a great deal of theoretical debate about mental imagery, and this debate provides a really nice example to discuss how theories and explanations are used in cognitive research.
 

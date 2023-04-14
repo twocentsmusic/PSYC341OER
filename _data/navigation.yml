@@ -129,6 +129,8 @@ probnav:
   - title: Problem Solving and Creativity
     url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity.html
     children:
+      - title: Problem Solving
+        url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/probsolve.html
       - title: Intelligence
         url: https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/intelligence.html
       - title: Creativity

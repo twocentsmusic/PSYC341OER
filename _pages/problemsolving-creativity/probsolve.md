@@ -56,7 +56,7 @@ There are at least two ways to break problems into smaller parts. One is to take
 | :----------- | 
 | Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, being in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time. |
 
-You can try an interactive version of this problem [here]((https://www.transum.org/software/River_Crossing/Level3.asp). 
+You can try an interactive version of this problem [here](https://www.transum.org/software/River_Crossing/Level3.asp). 
 
 | **Tower of Hanoi Problem** |
 | :----------- | 

@@ -79,11 +79,11 @@ If you figured out the Missionary-Cannibal problem by using the solution suggest
 
 Problem-solving abilities can improve with practice. Many people challenge themselves every day with puzzles and other mental exercises to sharpen their problem-solving skills. For example, sudoku puzzles appear daily in most newspapers. Typically, a sudoku puzzle is a 9×9 grid, but the simple sudoku to the right is a 4×4 grid. To solve the puzzle, fill in the empty boxes with a single digit: 1, 2, 3, or 4. Here are the rules: The numbers must total 10 in each bolded box, each row, and each column; however, each digit can only appear once in a bolded box, row, and column. Try the one to the left if you like! 
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:22%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:30%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/DotsAndLines.jpg" alt="A square shaped outline contains three rows and three columns of dots with equal space between them.">
 </figure>
 
-On the left is is another type of puzzle that challenges your spatial reasoning skills. Can you connect all nine dots with four connecting straight lines without lifting your pencil from the paper? 
+On the right is is another type of puzzle that challenges your spatial reasoning skills. Can you connect all nine dots with four connecting straight lines without lifting your pencil from the paper? 
 
 Now take a look at the “Puzzling Scales” logic puzzle below. (This one is by Sam Loyd, a well-known puzzle master, who created and refined countless puzzles throughout his lifetime; Loyd, 1914).
 

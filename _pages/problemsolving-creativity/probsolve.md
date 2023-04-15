@@ -72,14 +72,14 @@ If you figured out the Missionary-Cannibal problem by using the solution suggest
 
 ## Solving puzzles
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:35%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:30%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/sudoku.jpg" alt="A four column by four row Sudoku puzzle is shown. The top left cell contains the number 3. The top right cell contains the number 2. The bottom right cell contains the number 1. The bottom left cell contains the number 4. The cell at the intersection of the second row and the second column contains the number 4. The cell to the right of that contains the number 1. The cell below the cell containing the number 1 contains the number 2. The cell to the left of the cell containing the number 2 contains the number 3.">
     <figcaption> How long did it take you to solve this sudoku puzzle? </figcaption>
 </figure>
 
 Problem-solving abilities can improve with practice. Many people challenge themselves every day with puzzles and other mental exercises to sharpen their problem-solving skills. For example, sudoku puzzles appear daily in most newspapers. Typically, a sudoku puzzle is a 9×9 grid, but the simple sudoku to the right is a 4×4 grid. To solve the puzzle, fill in the empty boxes with a single digit: 1, 2, 3, or 4. Here are the rules: The numbers must total 10 in each bolded box, each row, and each column; however, each digit can only appear once in a bolded box, row, and column. Try the one to the left if you like! 
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:30%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:22%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/DotsAndLines.jpg" alt="A square shaped outline contains three rows and three columns of dots with equal space between them.">
 </figure>
 
@@ -102,7 +102,7 @@ Not all problems are successfully solved. What challenges stop us from successfu
 An example of trying to overcome functional fixedness in *Apollo 13*
 {: .small}
 
-Researchers have investigated whether functional fixedness is affected by culture. In one experiment, German and Barrett (2005) asked if exposure to highly specialized tools, as occurs with individuals in industrialized nations, affects their ability to transcend functional fixedness. They asked individuals from the Shuar group in Ecuador to solve problems that required using an object for a purpose other than that for which the object was originally intended. For example, the participants were told a story about a bear and a rabbit that were separated by a river and asked to select among various objects, including a spoon, a cup, erasers, and so on, to help the animals. The spoon was the only object long enough to span the imaginary river, but if the spoon was presented in a way that reflected its normal usage, it took participants longer to choose the spoon to solve the problem. Thus functional fixedness is experienced in both industrialized and nonindustrialized cultures.
+Researchers have investigated whether functional fixedness is affected by culture. In one experiment, German and Barrett (2005) asked if exposure to highly specialized tools, as occurs with individuals in industrialized nations, affects their ability to transcend functional fixedness. They asked individuals from the [Shuar group in Ecuador](https://en.wikipedia.org/wiki/Shuar) to solve problems that required using an object for a purpose other than that for which the object was originally intended. For example, the participants were told a story about a bear and a rabbit that were separated by a river and asked to select among various objects, including a spoon, a cup, erasers, and so on, to help the animals. The spoon was the only object long enough to span the imaginary river, but if the spoon was presented in a way that reflected its normal usage, it took participants longer to choose the spoon to solve the problem. Thus functional fixedness is experienced in both industrialized and nonindustrialized cultures.
 
 In order to make good decisions, we use our knowledge and our reasoning. Sometimes we come up with unconventional, creative solutions. And sometimes we are swayed by biases and systematic errors. We'll return to some of these issues in our next topics on creativity and on decision making. 
 

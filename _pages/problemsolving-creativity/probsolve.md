@@ -49,20 +49,24 @@ A heuristic is another type of problem solving strategy. While an algorithm must
 
 Another useful heuristic is the practice of accomplishing a large goal or task by breaking it into a series of smaller steps. Students often take this approach to complete a large research project or long paper. For example, students typically brainstorm, develop a thesis or main topic, research the chosen topic, organize their information into an outline, write a rough draft, revise and edit the rough draft, develop a final draft, organize the references list, and proofread their work before turning in the project. The large task becomes less overwhelming when it is broken down into a series of small steps. There are at least two ways to break problems into smaller parts. One is to take whatever next step moves you closer to your goal -- this is termed the *hill-climbing* heuristic. So, for example, if your goal is to make a lot of money, you might take a job right out of high school, thus making more money than your college-bound friends. The hill-climbing heuristic can work well, but as you can imagine from this example, it can sometimes backfire (e.g., when your friend's fancy Psychology degree lands them a lucrative position (at, uh... let's say NASA or something). A related approach is the *means-ends* heuristic, where you identify the "ends" (final result) for various subproblems (~steps along the way to your goal) and then figure out the "means" (or methods) you will use to reach those ends. A classic example of means-end analysis can be found in the *Tower of Hanoi* problem. This involves moving disks between different rods and isn't really feasible here, so try an analogous text-friendly version: the *Missionary-Cannibal Problem*. 
 
+
 | **Missionary-Cannibal Problem** |
 | :----------- | 
 | _Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, being in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time._ <br><br> **_Hint_:** At one point in your solution, you will have to send more people back to the original side than you just sent to the destination. |
 
+You can try a version of this problem here: 
+<iframe width="1010" height="800" src="https://www.transum.org/software/River_Crossing/Level3.asp" title="river crossing game" frameborder="0"></iframe>
+...from: [https://www.transum.org/software/River_Crossing/Level3.asp](https://www.transum.org/software/River_Crossing/Level3.asp)
+
+
 | **Tower of Hanoi Problem** |
 | :----------- | 
-| The actual Tower of Hanoi problem consists of three rods sitting vertically on a base with a number of disks of different sizes that can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top making a conical shape. The objective of the puzzle is to move the entire stack to another rod obeying the following rules: |
-| 1. Only one disk can be moved at a time. |
-| 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod. |
-| 3. No disc may be placed on top of a smaller disk. |
-| <figure>
+| The actual Tower of Hanoi problem consists of three rods sitting vertically on a base with a number of disks of different sizes that can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top making a conical shape. The objective of the puzzle is to move the entire stack to another rod obeying the following rules: <br><br> 1. Only one disk can be moved at a time. <br><br> 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod. <br><br> 3. No disc may be placed on top of a smaller disk. |
+
+<figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/hanoi.jpg" alt="Steps for solving the Tower of Hanoi in the minimum number of moves when there are 3 disks.">
     <figcaption> Steps for solving the Tower of Hanoi in the minimum number of moves when there are 3 disks </figcaption>
-</figure> |
+</figure>
 
 With 3 disks, the puzzle can be solved in 7 moves. The minimal moves required to solve a Tower of Hanoi puzzle is 2<sup>n</sup> – 1, where _n_ is the number of disks. For example, if there were 14 disks in the tower, the minimum amount of moves that could be made to solve the puzzle would be 2<sup>14</sup> – 1 = 16,383 moves (OMG what a pain). There are various ways of approaching the Tower of Hanoi and related problems, but this problem is interesting because it requires relatively complex problem solving approaches. Because of this, a variation of the Tower of Hanoi (the "Tower of London") is used in the neuropsychological diagnosis of executive function disorders and their treatment.
 
@@ -74,21 +78,21 @@ Problem-solving abilities can improve with practice. Many people challenge thems
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/sudoku.jpg" alt="A four column by four row Sudoku puzzle is shown. The top left cell contains the number 3. The top right cell contains the number 2. The bottom right cell contains the number 1. The bottom left cell contains the number 4. The cell at the intersection of the second row and the second column contains the number 4. The cell to the right of that contains the number 1. The cell below the cell containing the number 1 contains the number 2. The cell to the left of the cell containing the number 2 contains the number 3.">
-    <figcaption> How long did it take you to solve this sudoku puzzle? (You can see the answer at the end of this section.) </figcaption>
+    <figcaption> How long did it take you to solve this sudoku puzzle? </figcaption>
 </figure>
 
 Here is another popular type of puzzle (figure below) that challenges your spatial reasoning skills. Connect all nine dots with four connecting straight lines without lifting your pencil from the paper:
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/DotsAndLines.jpg" alt="A square shaped outline contains three rows and three columns of dots with equal space between them.">
-    <figcaption> Did you figure it out? (The answer is at the end of this section.) Once you understand how to crack this puzzle, you won’t forget. </figcaption>
+    <figcaption> Did you figure it out? Once you understand how to crack this puzzle, you won’t forget. </figcaption>
 </figure>
 
 Take a look at the “Puzzling Scales” logic puzzle below (figure below). Sam Loyd, a well-known puzzle master, created and refined countless puzzles throughout his lifetime (Lloyd, 1914).
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/SamLloyd.jpg" alt="A puzzle involving a scale is shown. At the top of the figure it reads: “Sam Loyds Puzzling Scales.” The first row of the puzzle shows a balanced scale with 3 blocks and a top on the left and 12 marbles on the right. Below this row it reads: “Since the scales now balance.” The next row of the puzzle shows a balanced scale with just the top on the left, and 1 block and 8 marbles on the right. Below this row it reads: “And balance when arranged this way.” The third row shows an unbalanced scale with the top on the left side, which is much lower than the right side. The right side is empty. Below this row it reads: “Then how many marbles will it require to balance with that top?">
-    <figcaption> What steps did you take to solve this puzzle? (again, you can read the solution at the end of this section.) </figcaption>
+    <figcaption> What steps did you take to solve this puzzle? </figcaption>
 </figure>
 
 ## Pitfalls to Problem Solving
@@ -105,7 +109,7 @@ Researchers have investigated whether functional fixedness is affected by cultur
 
 In order to make good decisions, we use our knowledge and our reasoning. Sometimes we come up with unconventional, creative solutions. And sometimes we are swayed by biases and systematic errors. We'll return to some of these issues in our next topics on creativity and on decision making. 
 
-(Did you want the solutions to the puzzles above? You can see them [here](https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/prob_solutions.html))
+(Did you want to see solutions to the puzzles above? You can find them [here](https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/prob_solutions.html).)
 
 ### SUMMARY
 

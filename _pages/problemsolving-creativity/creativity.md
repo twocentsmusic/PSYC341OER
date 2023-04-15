@@ -20,13 +20,13 @@ What do the following have in common: the drug penicillin, the Eiffel Tower, the
 
 ## Creativity: What Is It?
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat1.png">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/creat1.png">
     <figcaption> The original patent drawings for the "clasp locker" - what we today call a zipper. This ubiquitous device was the product of the creative mind of American inventor Whitcomb Judson, who also invented a machine to make zippers quickly and cheaply. [1]</figcaption>
 </figure>
 Creativity happens when someone comes up with a creative idea. An example would be a creative solution to a difficult problem. But what makes an idea or solution creative? Although psychologists have offered several definitions (Plucker, Beghetto, & Dow, 2004; Runco & Jaeger, 2012), probably the best definition is the one recently adapted from the three criteria that the U.S. Patent Office uses to decide whether an invention can receive patent protection (Simonton, 2012).
 
 <figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat2.jpg">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/creat2.jpg">
     <figcaption> Knowing that magnifying glasses were already widely know, how would you judge the creativity of the invention of eyeglasses using the criteria of originality, usefulness, and surprise? [1]</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Cognitive scientists have long been interested in the thinking processes that le
 The first is the Remote Associates Test, or RAT, that was introduced by Mednick (1962). Mednick believed that the creative process requires the ability to associate ideas that are considered very far apart conceptually. The RAT consists of items that require the respondent to identify a word that can be associated to three rather distinct stimulus words. For example, what word can be associated with the words “widow, bite, monkey”? The answer is spider (black widow spider, spider bite, spider monkey). This particular question is relatively easy, others are much more difficult, but it gives you the basic idea.
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:40%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat3.jpg">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/creat3.jpg">
     <figcaption> What do you see? An ordinary piece of building material? Those who score higher on the Unusual Uses Task are able to imagine many possibilities for the humble brick. [1]</figcaption>
 </figure>
 
@@ -60,14 +60,14 @@ Unfortunately, many different cognitive processes have been linked to creativity
 Can anybody be creative? Or is creativity subject to individual differences, such as intelligence? Might creativity even be normally distributed just like scores on IQ tests? The answer is complex. Unlike general intelligence, which represents a more or less cohesive cognitive ability, creativity is just as much a personal attribute as an intellectual capacity. This feature is evident in the fact that some “creativity tests” are actually measures of personality, interests, and values (Simonton, 2003b). An example is the Creative Personality Scale of the Gough Adjective Check List (Gough, 1979; see also Carson, Peterson, & Higgins, 2005). In this measure, a person is asked to check off whatever adjectives are viewed as especially self-descriptive. The relevant adjectives are shown in Table 1. How would you describe yourself? Would you use more adjectives in the left column or the right column?
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat4.jpg">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/creat4.jpg">
     <figcaption> Table 1. The Creative Personality Scale of the Gough (1979) Adjective Check List. Note. The Adjective Check List actually contains 300 adjectives arranged in alphabetical order from “absent-minded” to “zany,” but the above adjectives are the only ones scored.</figcaption>
 </figure>
 
 Another reason to speak of the “creative personality” is that creativity correlates with scores on standard personality measures (Feist, 1998). Most notably, the creative person is more likely to score on the openness-to-experience factor of the Big Five Factor Model (Carson, Peterson, & Higgins, 2005; Harris, 2004; McCrae, 1987). This factor concerns whether a person has a strong intellectual curiosity, preference for variety, and an active imagination and is aesthetically sensitive, attentive to inner feelings, as well as receptive to new ideas and values. It would seem obvious that persons high on this factor would behave differently than those scoring low. For instance, we would expect such persons to be less conventional, to have a wider range of leisure activities, and to be more versatile. Yet, it is equally important to note that people high in openness also think differently. Besides scoring higher in divergent thinking (Carson, Peterson, & Higgins, 2005), openness is also associated with the diminished capacity to filter out extraneous information, a tendency often called cognitive disinhibition or reduced latent inhibition (Peterson & Carson, 2000). This “defocused attention” enables the creative person to make observations that others would overlook—such as what happens in serendipitous discovery. A classic example was when Alexander Flemming noticed that a bacteria culture was being killed by a certain mold, a discovery that directly led to penicillin.
 
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat5.jpg">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/creat5.jpg">
     <figcaption> Leonardo da Vinci's design for a flying machine. Leonardo spent years as a young man working as an artist's apprentice and later studied subjects such as engineering, anatomy, and mathematics. [1]</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ To illustrate the former possibility, creativity is often enhanced when persons 
 The above effect is most likely transient. It is doubtful that those participants exposed to such incongruous experiences would exhibit any long-term change in their creativity. But what would happen if the exposure was much longer, years rather than minutes? Then the benefit might endure a lifetime. An example is the long-term benefits that accrue to persons who have acquired multicultural experiences, such as living in a foreign country for a significant amount of time (Leung, Maddux, Galinsky, & Chiu, 2008). Daily life abroad exposes a person to different ways of doing everyday activities. Moreover, because the visitor quickly learns that “when in Rome do as the Romans do,” the exposure becomes direct rather than vicarious (Maddux, Adam, & Galinsky, 2010). To be sure, not everybody’s creativity benefits from multicultural environments. The person also has to score high on openness to experience (Leung & Chiu, 2008). Otherwise, they will close themselves off from the potential stimulation, and then just gripe about the “peculiar customs of the natives” rather than actively practice those customs—such as making a totally different breakfast!
 
 <figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/creat6.jpg">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/creat6.jpg">
     <figcaption> Multicultural experiences are advantageous for creative thinking. [2]</figcaption>
 </figure>
 
@@ -167,6 +167,7 @@ Unusual uses
 * Torrance, E.P. (1974). Torrance tests of creative thinking: Norms-technical manual. Bensenville, IL: Scholastic Testing Service, Inc.
 {: .small}
 
-Adapted from Simonton, D. K. (2021). Creativity. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/nwzd6yuc
+### Adapted from 
+* Simonton, D. K. (2021). Creativity. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/nwzd6yuc
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

@@ -70,21 +70,21 @@ For many real-world problems, a useful approach can be the *analogy heuristic*. 
 
 ## Solving puzzles
 
-Problem-solving abilities can improve with practice. Many people challenge themselves every day with puzzles and other mental exercises to sharpen their problem-solving skills. For example, sudoku puzzles appear daily in most newspapers. Typically, a sudoku puzzle is a 9×9 grid, but the simple sudoku below (see figure) is a 4×4 grid. To solve the puzzle, fill in the empty boxes with a single digit: 1, 2, 3, or 4. Here are the rules: The numbers must total 10 in each bolded box, each row, and each column; however, each digit can only appear once in a bolded box, row, and column. Try it out if you like! 
-
-<figure>
+<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/sudoku.jpg" alt="A four column by four row Sudoku puzzle is shown. The top left cell contains the number 3. The top right cell contains the number 2. The bottom right cell contains the number 1. The bottom left cell contains the number 4. The cell at the intersection of the second row and the second column contains the number 4. The cell to the right of that contains the number 1. The cell below the cell containing the number 1 contains the number 2. The cell to the left of the cell containing the number 2 contains the number 3.">
     <figcaption> How long did it take you to solve this sudoku puzzle? </figcaption>
 </figure>
 
-Here is another popular type of puzzle (figure below) that challenges your spatial reasoning skills. Connect all nine dots with four connecting straight lines without lifting your pencil from the paper:
+Problem-solving abilities can improve with practice. Many people challenge themselves every day with puzzles and other mental exercises to sharpen their problem-solving skills. For example, sudoku puzzles appear daily in most newspapers. Typically, a sudoku puzzle is a 9×9 grid, but the simple sudoku below (see figure) is a 4×4 grid. To solve the puzzle, fill in the empty boxes with a single digit: 1, 2, 3, or 4. Here are the rules: The numbers must total 10 in each bolded box, each row, and each column; however, each digit can only appear once in a bolded box, row, and column. Try the one to the left if you like! 
 
-<figure>
+On the right is is another popular type of puzzle that challenges your spatial reasoning skills. Connect all nine dots with four connecting straight lines without lifting your pencil from the paper:
+
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/DotsAndLines.jpg" alt="A square shaped outline contains three rows and three columns of dots with equal space between them.">
     <figcaption> Did you figure it out? Once you understand how to crack this puzzle, you won’t forget. </figcaption>
 </figure>
 
-Take a look at the “Puzzling Scales” logic puzzle below (figure below). Sam Loyd, a well-known puzzle master, created and refined countless puzzles throughout his lifetime (Loyd, 1914).
+Now take a look at the “Puzzling Scales” logic puzzle below (figure below). Sam Loyd, a well-known puzzle master, created and refined countless puzzles throughout his lifetime (Loyd, 1914).
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/SamLoyd.jpg" alt="A puzzle involving a scale is shown. At the top of the figure it reads: “Sam Loyds Puzzling Scales.” The first row of the puzzle shows a balanced scale with 3 blocks and a top on the left and 12 marbles on the right. Below this row it reads: “Since the scales now balance.” The next row of the puzzle shows a balanced scale with just the top on the left, and 1 block and 8 marbles on the right. Below this row it reads: “And balance when arranged this way.” The third row shows an unbalanced scale with the top on the left side, which is much lower than the right side. The right side is empty. Below this row it reads: “Then how many marbles will it require to balance with that top?">

@@ -19,18 +19,18 @@ An idea or solution is considered creative if it is original, useful, and surpri
 What do the following have in common: the drug penicillin, the Eiffel Tower, the film Lord of the Rings, the General Theory of Relativity, the hymn Amazing Grace, the iPhone, the novel Don Quixote, the painting The Mona Lisa, a recipe for chocolate fudge, the soft drink Coca-Cola, the video game Wii Sports, the West Coast offense in football, and the zipper? You guessed right! All of the named items were products of the creative mind. Not one of them existed until somebody came up with the idea. Creativity is not something that you just pick like apples from a tree. Because creative ideas are so special, creators who come up with the best ideas are often highly rewarded with fame, fortune, or both. Nobel Prizes, Oscars, Pulitzers, and other honors bring fame, and big sales and box office bring fortune. Yet what is creativity in the first place?
 
 ## Creativity: What Is It?
-<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/creat1.png">
     <figcaption> The original patent drawings for the "clasp locker" - what we today call a zipper. This ubiquitous device was the product of the creative mind of American inventor Whitcomb Judson, who also invented a machine to make zippers quickly and cheaply. [1]</figcaption>
 </figure>
 Creativity happens when someone comes up with a creative idea. An example would be a creative solution to a difficult problem. But what makes an idea or solution creative? Although psychologists have offered several definitions (Plucker, Beghetto, & Dow, 2004; Runco & Jaeger, 2012), probably the best definition is the one recently adapted from the three criteria that the U.S. Patent Office uses to decide whether an invention can receive patent protection (Simonton, 2012).
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:40%">
-    <img src="https://bobsthinktank.github.io/PSYC341OER/images/creat2.jpg">
-    <figcaption> Knowing that magnifying glasses were already widely know, how would you judge the creativity of the invention of eyeglasses using the criteria of originality, usefulness, and surprise? [1]</figcaption>
-</figure>
-
 The first criterion is originality. The idea must have a low probability. Indeed, it often should be unique. Albert Einstein’s special theory of relativity certainly satisfied this criterion. No other scientist came up with the idea.
+
+<figure style="float:right;margin-left:10px;margin-top:7px;width:35%">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/creat2.jpg">
+    <figcaption> Knowing that magnifying glasses were already widely known, how would you judge the creativity of the invention of eyeglasses using the criteria of originality, usefulness, and surprise? [1]</figcaption>
+</figure>
 
 The second criterion is usefulness. The idea should be valuable or work. For example, a solution must, in fact, solve the problem. An original recipe that produces a dish that tastes too terrible to eat cannot be creative. In the case of Einstein’s theory, his relativity principle provided explanations for what otherwise would be inexplicable empirical results.
 
@@ -38,7 +38,7 @@ The third and last criterion is surprise. The idea should be surprising, or at l
 
 When applying these three criteria, it is critical to recognize that originality, usefulness, and surprise are all quantitative rather than qualitative attributes of an idea. Specifically, we really have to speak of degree to which an idea satisfies each of the three criteria. In addition, the three attributes should have a zero point, that is, it should be possible to speak of an idea lacking any originality, usefulness, or surprise whatsoever. Finally, we have to assume that if an idea scores zero on any one criterion then it must have zero creativity as well. For example, someone who reinvents the wheel is definitely producing a useful idea, but the idea has zero originality and hence no creativity whatsoever. Similarly, someone who invented a parachute made entirely out of steel reinforced concrete would get lots of credit for originality—and surprise!—but none for usefulness.
 
-Yet, certainly, we have to ask: Who makes these judgments? The person who generated the idea or other people who the person expects to appreciate the idea? If the former, we can speak of subjective or personal “little-c creativity,” and if the later, we have objective or consensual “Big-C Creativity” (Simonton, in press). This distinction is important because sometimes personal and consensual assessments do not have to agree. Such disagreements are especially conspicuous in “neglected geniuses,” such as the poet Emily Dickinson, the painter Vincent Van Gogh, and the scientist Gregor Mendel—all producing ideas that received only posthumous recognition for their creativity.
+Yet, certainly, we have to ask: Who makes these judgments? The person who generated the idea or other people who the person expects to appreciate the idea? If the former, we can speak of subjective or personal “little-c creativity,” and if the later, we have objective or consensual “Big-C Creativity” (Simonton, 2013). This distinction is important because sometimes personal and consensual assessments do not have to agree. Such disagreements are especially conspicuous in “neglected geniuses,” such as the poet Emily Dickinson, the painter Vincent Van Gogh, and the scientist Gregor Mendel—all producing ideas that received only posthumous recognition for their creativity.
 
 Creativity is a very complex phenomenon (Hennessey & Amabile, 2010; Runco, 2004). As a result, psychologists who study creativity can do so from many different perspectives. Nevertheless, the three most common perspectives are cognitive processes, personal characteristics, and social contexts.
 
@@ -156,7 +156,7 @@ Unusual uses
 * Ritter, S. M., Damian, R. I., Simonton, D. K., van Baaren, R. B., Strick, M., Derks, J., & Dijksterhuis, A. (2012). Diversifying experiences enhance cognitive flexibility. Journal of Experimental Social Psychology, 48, 961–964.
 * Runco, M. (2004). Creativity. Annual Review of Psychology, 55, 657–687.
 * Runco, M., & Jaeger, G. J. (2012). The standard definition of creativity. Creativity Research Journal, 21, 92–96.
-* Simonton, D. K (in press). What is a creative idea? Little-c versus Big-C creativity. In J. Chan & K. Thomas (Eds.), Handbook of research on creativity. Cheltenham Glos, UK: Edward Elgar.
+* Simonton, D. K (2013). What is a creative idea? Little-c versus Big-C creativity. In J. Chan & K. Thomas (Eds.), Handbook of research on creativity (pp. 69-83). Cheltenham Glos, UK: Edward Elgar.
 * Simonton, D. K. (2012). Taking the U.S. Patent Office creativity criteria seriously: A quantitative three-criterion definition and its implications. Creativity Research Journal, 24, 97–106.
 * Simonton, D. K. (2011). Creativity and discovery as blind variation: Campbell’s (1960) BVSR model after the half-century mark. Review of General Psychology, 15, 158–174.
 * Simonton, D. K. (2010). So you want to become a creative genius? You must be crazy! In D. Cropley, J. Kaufman, A. Cropley, & M. Runco (Eds.), The dark side of creativity (pp. 218–234). New York, NY: Cambridge University Press.

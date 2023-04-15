@@ -5,7 +5,7 @@ sidebar:
 ---
 
 # Problem Solving
-<cite>Adapted in part from from Dumper, K., Jenkins, W., Lacombe, A., Lovett, M., & Perimutter, M. 7.3 Problem-Solving. In Openstax Psychology. CC-BY-NA-SA 4.0  </cite>
+<cite>Adapted in part from from Dumper, Jenkins, Lacombe, Lovett, & Perimutter. Problem-Solving. In Openstax Psychology. CC-BY-NA-SA 4.0  </cite>
 {: .small}
 
 ## Learning objectives
@@ -45,7 +45,7 @@ A *heuristic* is yet another type of problem solving strategy. While an algorith
 *   When there is access to very little information to use in making the decision
 *   When an appropriate heuristic happens to come to mind in the same moment
 
-*Working backwards* is a useful heuristic in which you begin solving the problem by focusing on the end result. Consider this example: You live in Washington DC (or perhaps even in College Park MD!). and have been invited to a wedding at 4 PM on Saturday in Philadelphia. Knowing that I-95 traffic is a thing even on Saturdays, you need to plan your route and time your departure accordingly. If you want to be at the wedding service by 3:30 PM, and it takes about 2 hours to get to Philadelphia without traffic, what time should you leave your house? You use the working backwards heuristic to plan the events of your day on a regular basis, probably without even thinking about it. 
+*Working backwards* is a useful heuristic in which you begin solving the problem by focusing on the end result. For example, imagine you live in College Park MD and have been invited to a wedding at 4 PM on Saturday in Philadelphia. Knowing that I-95 traffic is a thing even on Saturdays, you need to plan your route and time your departure accordingly. If you want to be at the wedding service by 3:30 PM, and it takes about 2 hours to get to Philadelphia without traffic, what time should you leave your house? You use the working backwards heuristic to plan the events of your day on a regular basis, probably without even realizing it. 
 
 Another useful heuristic is the practice of accomplishing a large goal or task by breaking it into a series of smaller steps. Students often take this approach to complete a large research project or long paper. For example, students typically brainstorm, develop a thesis or main topic, research the chosen topic, organize their information into an outline, write a rough draft, revise and edit the rough draft, develop a final draft, organize the references list, and proofread their work before turning in the project. The large task becomes less overwhelming when it is broken down into a series of small steps. 
 
@@ -54,9 +54,8 @@ There are at least two ways to break problems into smaller parts. One is to take
 
 | **Missionary-Cannibal Problem** |
 | :----------- | 
-| Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, being in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time. |
+| Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, being in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time. <br><br> You can try an interactive version of this problem [here](https://www.transum.org/software/River_Crossing/Level3.asp). |
 
-You can try an interactive version of this problem [here](https://www.transum.org/software/River_Crossing/Level3.asp). 
 
 | **Tower of Hanoi Problem** |
 | :----------- | 
@@ -67,26 +66,26 @@ You can try an interactive version of this problem [here](https://www.transum.or
     <figcaption> Steps for solving the Tower of Hanoi in the minimum number of moves when there are 3 disks </figcaption>
 </figure>
 
-With 3 disks, the puzzle can be solved in 7 moves. The minimal moves required to solve a Tower of Hanoi puzzle is 2<sup>n</sup> – 1, where _n_ is the number of disks. For example, if there were 14 disks in the tower, the minimum amount of moves that could be made to solve the puzzle would be 2<sup>14</sup> – 1 = 16,383 moves (OMG what a pain). There are various ways of approaching the Tower of Hanoi and related problems, but this problem is interesting because it requires relatively complex problem solving approaches. Because of this, a variation of the Tower of Hanoi (the "Tower of London") is used in the neuropsychological diagnosis of executive function disorders and their treatment.
+With 3 disks, the puzzle can be solved in 7 moves. The minimal moves required to solve a Tower of Hanoi puzzle is 2<sup>n</sup> – 1, where _n_ is the number of disks. For example, if there were 14 disks in the tower, the minimum amount of moves that could be made to solve the puzzle would be 2<sup>14</sup> – 1 = 16,383 moves (OMG what a pain). There are various ways of approaching the Tower of Hanoi and related problems, so involves multiple aspects of problem solving (including understanding the problem and choosing appropriate strategies). Because of this, a variation of the Tower of Hanoi (the "Tower of London") is used in the neuropsychological diagnosis of executive function disorders and their treatment.
 
-For many real-world problems, a useful approach can be the *analogy heuristic*. This is when you try a solution that solves a similar problem. One challenge with this approach is to apply it to problems that are actually analogous even when quite different in their surface features (so-called *problem isomorphs*) and not applying this approach to problems that appear similar on the surface (e.g., are about similar issues) when the underlying problem structure is actually quite different. 
+If you figured out the Missionary-Cannibal problem by using the solution suggested here for the Tower of Hanoi problem, you were reasoning by analogy. This *analogy heuristic* is a useful approach to many real-world problems, and involves trying a solution that solves a similar problem. One challenge with the analogy approach is to apply solutions from problems that are actually analogous (even when quite different in their surface features)–so-called *problem isomorphs*–and not applying solutions from problems that appear similar on the surface (e.g., are about similar topics) when the underlying problem structure is actually quite different. 
 
 ## Solving puzzles
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:40%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:35%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/sudoku.jpg" alt="A four column by four row Sudoku puzzle is shown. The top left cell contains the number 3. The top right cell contains the number 2. The bottom right cell contains the number 1. The bottom left cell contains the number 4. The cell at the intersection of the second row and the second column contains the number 4. The cell to the right of that contains the number 1. The cell below the cell containing the number 1 contains the number 2. The cell to the left of the cell containing the number 2 contains the number 3.">
     <figcaption> How long did it take you to solve this sudoku puzzle? </figcaption>
 </figure>
 
-Problem-solving abilities can improve with practice. Many people challenge themselves every day with puzzles and other mental exercises to sharpen their problem-solving skills. For example, sudoku puzzles appear daily in most newspapers. Typically, a sudoku puzzle is a 9×9 grid, but the simple sudoku below (see figure) is a 4×4 grid. To solve the puzzle, fill in the empty boxes with a single digit: 1, 2, 3, or 4. Here are the rules: The numbers must total 10 in each bolded box, each row, and each column; however, each digit can only appear once in a bolded box, row, and column. Try the one to the left if you like! 
+Problem-solving abilities can improve with practice. Many people challenge themselves every day with puzzles and other mental exercises to sharpen their problem-solving skills. For example, sudoku puzzles appear daily in most newspapers. Typically, a sudoku puzzle is a 9×9 grid, but the simple sudoku to the right is a 4×4 grid. To solve the puzzle, fill in the empty boxes with a single digit: 1, 2, 3, or 4. Here are the rules: The numbers must total 10 in each bolded box, each row, and each column; however, each digit can only appear once in a bolded box, row, and column. Try the one to the left if you like! 
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:30%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:30%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/DotsAndLines.jpg" alt="A square shaped outline contains three rows and three columns of dots with equal space between them.">
 </figure>
 
-On the right is is another popular type of puzzle that challenges your spatial reasoning skills. Connect all nine dots with four connecting straight lines without lifting your pencil from the paper:
+On the left is is another type of puzzle that challenges your spatial reasoning skills. Can you connect all nine dots with four connecting straight lines without lifting your pencil from the paper? 
 
-Now take a look at the “Puzzling Scales” logic puzzle below (figure below). Sam Loyd, a well-known puzzle master, created and refined countless puzzles throughout his lifetime (Loyd, 1914).
+Now take a look at the “Puzzling Scales” logic puzzle below. (This one is by Sam Loyd, a well-known puzzle master, who created and refined countless puzzles throughout his lifetime; Loyd, 1914).
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/SamLoyd.jpg" alt="A puzzle involving a scale is shown. At the top of the figure it reads: “Sam Loyds Puzzling Scales.” The first row of the puzzle shows a balanced scale with 3 blocks and a top on the left and 12 marbles on the right. Below this row it reads: “Since the scales now balance.” The next row of the puzzle shows a balanced scale with just the top on the left, and 1 block and 8 marbles on the right. Below this row it reads: “And balance when arranged this way.” The third row shows an unbalanced scale with the top on the left side, which is much lower than the right side. The right side is empty. Below this row it reads: “Then how many marbles will it require to balance with that top?">
@@ -103,7 +102,7 @@ Not all problems are successfully solved. What challenges stop us from successfu
 An example of trying to overcome functional fixedness in *Apollo 13*
 {: .small}
 
-Researchers have investigated whether functional fixedness is affected by culture. In one experiment, individuals from the Shuar group in Ecuador were asked to use an object for a purpose other than that for which the object was originally intended. For example, the participants were told a story about a bear and a rabbit that were separated by a river and asked to select among various objects, including a spoon, a cup, erasers, and so on, to help the animals. The spoon was the only object long enough to span the imaginary river, but if the spoon was presented in a way that reflected its normal usage, it took participants longer to choose the spoon to solve the problem. (German & Barrett, 2005). The researchers wanted to know if exposure to highly specialized tools, as occurs with individuals in industrialized nations, affects their ability to transcend functional fixedness. It was determined that functional fixedness is experienced in both industrialized and nonindustrialized cultures (German & Barrett, 2005).
+Researchers have investigated whether functional fixedness is affected by culture. In one experiment, German and Barrett (2005) asked if exposure to highly specialized tools, as occurs with individuals in industrialized nations, affects their ability to transcend functional fixedness. They asked individuals from the Shuar group in Ecuador to solve problems that required using an object for a purpose other than that for which the object was originally intended. For example, the participants were told a story about a bear and a rabbit that were separated by a river and asked to select among various objects, including a spoon, a cup, erasers, and so on, to help the animals. The spoon was the only object long enough to span the imaginary river, but if the spoon was presented in a way that reflected its normal usage, it took participants longer to choose the spoon to solve the problem. Thus functional fixedness is experienced in both industrialized and nonindustrialized cultures.
 
 In order to make good decisions, we use our knowledge and our reasoning. Sometimes we come up with unconventional, creative solutions. And sometimes we are swayed by biases and systematic errors. We'll return to some of these issues in our next topics on creativity and on decision making. 
 
@@ -145,3 +144,4 @@ working backwards
 
 ### Adapted from 
 * 7.3 Problem-Solving by [Kathryn Dumper, William Jenkins, Arlene Lacombe, Marilyn Lovett, and Marion Perimutter](https://opentext.wsu.edu/psych105/chapter/7-4-problem-solving/), licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+{: .small}

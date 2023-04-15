@@ -4,11 +4,11 @@ sidebar:
   nav: "probnav"
 ---
 
-# Problem-Solving
+# Problem Solving
 <cite>Adapted in part from from Dumper, K., Jenkins, W., Lacombe, A., Lovett, M., & Perimutter, M. 7.3 Problem-Solving. In Openstax Psychology. CC-BY-NA-SA 4.0  </cite>
 {: .small}
 
-## Learning Objectives
+## Learning objectives
 *   Describe problem solving strategies
 *   Define algorithm and heuristic
 *   Explain some common roadblocks to effective problem solving
@@ -25,7 +25,7 @@ When people are presented with a problem—whether it is a complex mathematical 
 
 Problems themselves can be classified into two different categories known as *well-defined* and *ill-defined* problems (Pretz et al., 2003). Well-defined problems have specific goals, clearly defined solutions, and clear expected solutions; Ill-defined problems represent issues that do *not* have clear goals, solution paths, or expected solutions. Problem solving often incorporates logical reasoning and requires abstract thinking and creativity in order to find novel solutions. Processes relating to problem solving include problem finding (also known as problem analysis), problem shaping (where the organization of the problem occurs), generating alternative strategies, implementation of attempted solutions, and verification of the selected solution. 
 
-A problem-solving strategy is a plan of action used to find a solution. Different strategies have different action plans associated with them (see, e.g., the table below). For example, a well-known strategy is trial and error. The old adage, “If at first you don’t succeed, try, try again” describes trial and error. In terms of your broken printer, you could try checking the ink levels, and if that doesn’t work, you could check to make sure the paper tray isn’t jammed. Or maybe the printer isn’t actually connected to your laptop. When using trial and error, you would continue to try different solutions until you solved your problem. Although trial and error is not typically one of the most time-efficient strategies, it is a commonly used one.
+A problem-solving strategy is a plan of action used to find a solution. Different strategies have different action plans associated with them (see, e.g., the table below). For example, a well-known strategy is *trial and error*. The old adage, “If at first you don’t succeed, try, try again” describes trial and error. In terms of your broken printer, you could try checking the ink levels, and if that doesn’t work, you could check to make sure the paper tray isn’t jammed. Or maybe the printer isn’t actually connected to your laptop. When using trial and error, you would continue to try different solutions until you solved your problem. Although trial and error is not typically one of the most time-efficient strategies, it is a commonly used one.
 
 **Problem-Solving Strategies**
 
@@ -35,9 +35,9 @@ A problem-solving strategy is a plan of action used to find a solution. Differen
 | Algorithm   | Step-by-step problem-solving formula | Instruction manual for assembling some Ikea furniture |
 | Heuristic   | General problem-solving framework | Working backwards; breaking a task into steps  |
 
-Another type of strategy is an algorithm. An algorithm is a problem-solving formula that provides you with step-by-step instructions used to achieve a desired outcome (Sternberg & Ben-Zeev, 2001). You can think of an algorithm as a recipe with highly detailed instructions that produce the same result every time they are performed. Algorithms are used frequently in our everyday lives, especially in computer science. When you run a search on the Internet, search engines like Google use algorithms to decide which entries will appear first in your list of results. Facebook also uses algorithms to decide which posts to display on your newsfeed. Can you identify other situations in which algorithms are used?
+Another type of strategy is an *algorithm*. An algorithm is a problem-solving formula that provides you with step-by-step instructions used to achieve a desired outcome (Sternberg & Ben-Zeev, 2001). You can think of an algorithm as a recipe with highly detailed instructions that produce the same result every time they are performed. Algorithms are used frequently in our everyday lives, especially in computer science. When you run a search on the Internet, search engines like Google use algorithms to decide which entries will appear first in your list of results. Facebook also uses algorithms to decide which posts to display on your newsfeed. Can you identify other situations in which algorithms are used?
 
-A heuristic is another type of problem solving strategy. While an algorithm must be followed exactly to produce a correct result, a heuristic is a general problem-solving framework (Tversky & Kahneman, 1974). You can think of these as mental shortcuts (or "rules of thumb") that are used to solve problems. Such rules cam save time and energy when making a decision, but are not always the best method for making a rational decision. Different types of heuristics are used in different types of situations, but the impulse to use a heuristic occurs when one of five conditions is met (Pratkanis, 1989):
+A *heuristic* is yet another type of problem solving strategy. While an algorithm must be followed exactly to produce a correct result, a heuristic is a general problem-solving framework (Tversky & Kahneman, 1974). You can think of these as mental shortcuts (or "rules of thumb") that are used to solve problems. Such rules cam save time and energy when making a decision, but are not always the best method for making a rational decision. Different types of heuristics are used in different types of situations, but the impulse to use a heuristic occurs when one of five conditions is met (Pratkanis, 1989):
 
 *   When one is faced with too much information
 *   When the time to make a decision is limited
@@ -47,16 +47,12 @@ A heuristic is another type of problem solving strategy. While an algorithm must
 
 *Working backwards* is a useful heuristic in which you begin solving the problem by focusing on the end result. Consider this example: You live in Washington DC (or perhaps even in College Park MD!). and have been invited to a wedding at 4 PM on Saturday in Philadelphia. Knowing that I-95 traffic is a thing even on Saturdays, you need to plan your route and time your departure accordingly. If you want to be at the wedding service by 3:30 PM, and it takes about 2 hours to get to Philadelphia without traffic, what time should you leave your house? You use the working backwards heuristic to plan the events of your day on a regular basis, probably without even thinking about it. 
 
-Another useful heuristic is the practice of accomplishing a large goal or task by breaking it into a series of smaller steps. Students often take this approach to complete a large research project or long paper. For example, students typically brainstorm, develop a thesis or main topic, research the chosen topic, organize their information into an outline, write a rough draft, revise and edit the rough draft, develop a final draft, organize the references list, and proofread their work before turning in the project. The large task becomes less overwhelming when it is broken down into a series of small steps. There are at least two ways to break problems into smaller parts. One is to take whatever next step moves you closer to your goal -- this is termed the *hill-climbing* heuristic. So, for example, if your goal is to make a lot of money, you might take a job right out of high school, thus making more money than your college-bound friends. The hill-climbing heuristic can work well, but as you can imagine from this example, it can sometimes backfire (e.g., when your friend's fancy Psychology degree lands them a lucrative position (at, uh... let's say NASA or something). A related approach is the *means-ends* heuristic, where you identify the "ends" (final result) for various subproblems (~steps along the way to your goal) and then figure out the "means" (or methods) you will use to reach those ends. A classic example of means-end analysis can be found in the *Tower of Hanoi* problem. This involves moving disks between different rods and isn't really feasible here, so try an analogous text-friendly version: the *Missionary-Cannibal Problem*. 
+Another useful heuristic is the practice of accomplishing a large goal or task by breaking it into a series of smaller steps. Students often take this approach to complete a large research project or long paper. For example, students typically brainstorm, develop a thesis or main topic, research the chosen topic, organize their information into an outline, write a rough draft, revise and edit the rough draft, develop a final draft, organize the references list, and proofread their work before turning in the project. The large task becomes less overwhelming when it is broken down into a series of small steps. There are at least two ways to break problems into smaller parts. One is to take whatever next step moves you closer to your goal -- this is termed the *hill-climbing* heuristic. So, for example, if your goal is to make a lot of money, you might take a job right out of high school, thus making more money than your college-bound friends. The hill-climbing heuristic can work well, but as you can imagine from this example, it can sometimes backfire (e.g., when your friend's fancy Psychology degree lands them a lucrative position (at, uh... let's say Google or something). A related approach is the *means-ends* heuristic, where you identify the "ends" (final result) for various subproblems (~steps along the way to your goal) and then figure out the "means" (or methods) you will use to reach those ends. A classic example of means-end analysis can be found in the *Tower of Hanoi* problem. This involves moving disks between different rods and isn't really feasible here, so try an analogous text-friendly version: the *Missionary-Cannibal Problem*. 
 
 
 | **Missionary-Cannibal Problem** |
 | :----------- | 
-| _Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, being in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time._ <br><br> **_Hint_:** At one point in your solution, you will have to send more people back to the original side than you just sent to the destination. |
-
-You can try a version of this problem here: 
-<iframe width="1010" height="800" src="https://www.transum.org/software/River_Crossing/Level3.asp" title="river crossing game" frameborder="0"></iframe>
-...from: [https://www.transum.org/software/River_Crossing/Level3.asp](https://www.transum.org/software/River_Crossing/Level3.asp)
+| Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, being in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time. <br><br> You can try an interactive version of this problem [here]((https://www.transum.org/software/River_Crossing/Level3.asp). |
 
 
 | **Tower of Hanoi Problem** |
@@ -72,7 +68,7 @@ With 3 disks, the puzzle can be solved in 7 moves. The minimal moves required to
 
 For many real-world problems, a useful approach can be the *analogy heuristic*. This is when you try a solution that solves a similar problem. One challenge with this approach is to apply it to problems that are actually analogous even when quite different in their surface features (so-called *problem isomorphs*) and not applying this approach to problems that appear similar on the surface (e.g., are about similar issues) when the underlying problem structure is actually quite different. 
 
-## Solving Puzzles
+## Solving puzzles
 
 Problem-solving abilities can improve with practice. Many people challenge themselves every day with puzzles and other mental exercises to sharpen their problem-solving skills. For example, sudoku puzzles appear daily in most newspapers. Typically, a sudoku puzzle is a 9×9 grid, but the simple sudoku below (see figure) is a 4×4 grid. To solve the puzzle, fill in the empty boxes with a single digit: 1, 2, 3, or 4. Here are the rules: The numbers must total 10 in each bolded box, each row, and each column; however, each digit can only appear once in a bolded box, row, and column. Try it out if you like! 
 
@@ -88,14 +84,14 @@ Here is another popular type of puzzle (figure below) that challenges your spati
     <figcaption> Did you figure it out? Once you understand how to crack this puzzle, you won’t forget. </figcaption>
 </figure>
 
-Take a look at the “Puzzling Scales” logic puzzle below (figure below). Sam Loyd, a well-known puzzle master, created and refined countless puzzles throughout his lifetime (Lloyd, 1914).
+Take a look at the “Puzzling Scales” logic puzzle below (figure below). Sam Loyd, a well-known puzzle master, created and refined countless puzzles throughout his lifetime (Loyd, 1914).
 
 <figure>
-    <img src="https://bobsthinktank.github.io/PSYC341OER/images/SamLloyd.jpg" alt="A puzzle involving a scale is shown. At the top of the figure it reads: “Sam Loyds Puzzling Scales.” The first row of the puzzle shows a balanced scale with 3 blocks and a top on the left and 12 marbles on the right. Below this row it reads: “Since the scales now balance.” The next row of the puzzle shows a balanced scale with just the top on the left, and 1 block and 8 marbles on the right. Below this row it reads: “And balance when arranged this way.” The third row shows an unbalanced scale with the top on the left side, which is much lower than the right side. The right side is empty. Below this row it reads: “Then how many marbles will it require to balance with that top?">
+    <img src="https://bobsthinktank.github.io/PSYC341OER/images/SamLoyd.jpg" alt="A puzzle involving a scale is shown. At the top of the figure it reads: “Sam Loyds Puzzling Scales.” The first row of the puzzle shows a balanced scale with 3 blocks and a top on the left and 12 marbles on the right. Below this row it reads: “Since the scales now balance.” The next row of the puzzle shows a balanced scale with just the top on the left, and 1 block and 8 marbles on the right. Below this row it reads: “And balance when arranged this way.” The third row shows an unbalanced scale with the top on the left side, which is much lower than the right side. The right side is empty. Below this row it reads: “Then how many marbles will it require to balance with that top?">
     <figcaption> What steps did you take to solve this puzzle? </figcaption>
 </figure>
 
-## Pitfalls to Problem Solving
+## Pitfalls in problem solving
 
 Not all problems are successfully solved. What challenges stop us from successfully solving a problem? Albert Einstein once said, “Insanity is doing the same thing over and over again and expecting a different result.” Imagine a person in a room that has four doorways. One doorway that has always been open in the past is now locked. The person, accustomed to exiting the room by that particular doorway, keeps trying to get out through the same doorway even though the other three doorways are open. The person is stuck, but she just needs to go to another doorway instead of trying to get out through the locked door. A mental set is where you persist in approaching a problem in a way that has worked in the past but is clearly not working now.
 
@@ -111,7 +107,7 @@ In order to make good decisions, we use our knowledge and our reasoning. Sometim
 
 (Did you want to see solutions to the puzzles above? You can find them [here](https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/prob_solutions.html).)
 
-### SUMMARY
+### Summary
 
 Many different strategies exist for solving problems. Typical strategies include trial and error, applying algorithms, and using heuristics. To solve a large, complicated problem, it often helps to break the problem into smaller steps that can be accomplished individually, leading to an overall solution. Roadblocks to problem solving include mental sets (including functional fixedness), and various biases that can cloud decision making skills.
 

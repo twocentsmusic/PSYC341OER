@@ -47,13 +47,16 @@ A *heuristic* is yet another type of problem solving strategy. While an algorith
 
 *Working backwards* is a useful heuristic in which you begin solving the problem by focusing on the end result. Consider this example: You live in Washington DC (or perhaps even in College Park MD!). and have been invited to a wedding at 4 PM on Saturday in Philadelphia. Knowing that I-95 traffic is a thing even on Saturdays, you need to plan your route and time your departure accordingly. If you want to be at the wedding service by 3:30 PM, and it takes about 2 hours to get to Philadelphia without traffic, what time should you leave your house? You use the working backwards heuristic to plan the events of your day on a regular basis, probably without even thinking about it. 
 
-Another useful heuristic is the practice of accomplishing a large goal or task by breaking it into a series of smaller steps. Students often take this approach to complete a large research project or long paper. For example, students typically brainstorm, develop a thesis or main topic, research the chosen topic, organize their information into an outline, write a rough draft, revise and edit the rough draft, develop a final draft, organize the references list, and proofread their work before turning in the project. The large task becomes less overwhelming when it is broken down into a series of small steps. There are at least two ways to break problems into smaller parts. One is to take whatever next step moves you closer to your goal -- this is termed the *hill-climbing* heuristic. So, for example, if your goal is to make a lot of money, you might take a job right out of high school, thus making more money than your college-bound friends. The hill-climbing heuristic can work well, but as you can imagine from this example, it can sometimes backfire (e.g., when your friend's fancy Psychology degree lands them a lucrative position (at, uh... let's say Google or something). A related approach is the *means-ends* heuristic, where you identify the "ends" (final result) for various subproblems (~steps along the way to your goal) and then figure out the "means" (or methods) you will use to reach those ends. A classic example of means-end analysis can be found in the *Tower of Hanoi* problem. This involves moving disks between different rods and isn't really feasible here, so try an analogous text-friendly version: the *Missionary-Cannibal Problem*. 
+Another useful heuristic is the practice of accomplishing a large goal or task by breaking it into a series of smaller steps. Students often take this approach to complete a large research project or long paper. For example, students typically brainstorm, develop a thesis or main topic, research the chosen topic, organize their information into an outline, write a rough draft, revise and edit the rough draft, develop a final draft, organize the references list, and proofread their work before turning in the project. The large task becomes less overwhelming when it is broken down into a series of small steps. 
+
+There are at least two ways to break problems into smaller parts. One is to take whatever next step moves you closer to your goal -- this is termed the *hill-climbing* heuristic. So, for example, if your goal is to make a lot of money, you might take a job right out of high school, thus making more money than your college-bound friends. The hill-climbing heuristic can work well, but as you can imagine from this example, it can sometimes backfire (e.g., when your friend's fancy Psychology degree lands them a lucrative position at, uh... let's say Google or something). A related approach is the *means-ends* heuristic, where you identify the "ends" (final result) for various subproblems (~steps along the way to your goal) and then figure out the "means" (or methods) you will use to reach those ends. A classic example of means-end analysis can be found in the *Tower of Hanoi* problem. This involves moving disks between different rods and isn't really feasible here, so try an analogous text-friendly version: the *Missionary-Cannibal Problem*. 
 
 
 | **Missionary-Cannibal Problem** |
 | :----------- | 
-| Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, being in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time. <br><br> You can try an interactive version of this problem [here]((https://www.transum.org/software/River_Crossing/Level3.asp). |
+| Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, being in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time. |
 
+You can try an interactive version of this problem [here]((https://www.transum.org/software/River_Crossing/Level3.asp). 
 
 | **Tower of Hanoi Problem** |
 | :----------- | 
@@ -70,7 +73,7 @@ For many real-world problems, a useful approach can be the *analogy heuristic*. 
 
 ## Solving puzzles
 
-<figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
+<figure style="float:left;margin-right:10px;margin-top:7px;width:40%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/sudoku.jpg" alt="A four column by four row Sudoku puzzle is shown. The top left cell contains the number 3. The top right cell contains the number 2. The bottom right cell contains the number 1. The bottom left cell contains the number 4. The cell at the intersection of the second row and the second column contains the number 4. The cell to the right of that contains the number 1. The cell below the cell containing the number 1 contains the number 2. The cell to the left of the cell containing the number 2 contains the number 3.">
     <figcaption> How long did it take you to solve this sudoku puzzle? </figcaption>
 </figure>
@@ -79,7 +82,7 @@ Problem-solving abilities can improve with practice. Many people challenge thems
 
 On the right is is another popular type of puzzle that challenges your spatial reasoning skills. Connect all nine dots with four connecting straight lines without lifting your pencil from the paper:
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:50%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:30%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/DotsAndLines.jpg" alt="A square shaped outline contains three rows and three columns of dots with equal space between them.">
     <figcaption> Did you figure it out? Once you understand how to crack this puzzle, you won’t forget. </figcaption>
 </figure>

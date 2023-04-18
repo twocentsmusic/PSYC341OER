@@ -59,29 +59,31 @@ There are at least two ways to break problems into smaller parts. One is to take
 | :----------- | 
 | The Tower of Hanoi problem consists of three rods sitting vertically on a base with a number of disks of different sizes that can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top making a conical shape. The objective of the puzzle is to move the entire stack to another rod obeying the following rules: <br><br> 1. Only one disk can be moved at a time. <br><br> 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod. <br><br> 3. No disc may be placed on top of a smaller disk. |
 
+With 3 disks, the puzzle can be solved in 7 moves: 
+
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/hanoi.jpg" alt="Steps for solving the Tower of Hanoi in the minimum number of moves when there are 3 disks.">
     <figcaption> Steps for solving the Tower of Hanoi in the minimum number of moves when there are 3 disks </figcaption>
 </figure>
 
-With 3 disks, the puzzle can be solved in 7 moves. The minimal moves required to solve a Tower of Hanoi puzzle is 2<sup>n</sup> – 1, where _n_ is the number of disks. For example, if there were 14 disks in the tower, the minimum amount of moves that could be made to solve the puzzle would be 2<sup>14</sup> – 1 = 16,383 moves (OMG what a pain). There are various ways of approaching the Tower of Hanoi and related problems, so involves multiple aspects of problem solving (including understanding the problem and choosing appropriate strategies). Because of this, a variation of the Tower of Hanoi (the "Tower of London") is used in the neuropsychological diagnosis of executive function disorders and their treatment.
+The minimal moves required to solve a Tower of Hanoi puzzle is 2<sup>n</sup> – 1, where _n_ is the number of disks. For example, if there were 14 disks in the tower, the minimum amount of moves that could be made to solve the puzzle would be 2<sup>14</sup> – 1 = 16,383 moves (OMG what a pain). There are various ways of approaching the Tower of Hanoi and related problems, so involves multiple aspects of problem solving (including understanding the problem and choosing appropriate strategies). Because of this, a variation of the Tower of Hanoi (the "Tower of London") is used in the neuropsychological diagnosis of executive function disorders and their treatment.
 
 If you figured out one of these problems via insights from the other problem's solution, you were reasoning by analogy. This *analogy heuristic* is a useful approach to many real-world problems, and involves trying a solution that solves a similar problem. One challenge with the analogy approach is to apply solutions from problems that are actually analogous (even when quite different in their surface features)–so-called *problem isomorphs*–and not applying solutions from problems that appear similar on the surface (e.g., are about similar topics) when the underlying problem structure is actually quite different. 
 
 ## Solving puzzles
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:30%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:28%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/sudoku.jpg" alt="A four column by four row Sudoku puzzle is shown. The top left cell contains the number 3. The top right cell contains the number 2. The bottom right cell contains the number 1. The bottom left cell contains the number 4. The cell at the intersection of the second row and the second column contains the number 4. The cell to the right of that contains the number 1. The cell below the cell containing the number 1 contains the number 2. The cell to the left of the cell containing the number 2 contains the number 3.">
-    <figcaption> How long did it take you to solve this sudoku puzzle? </figcaption>
+    <figcaption> How quickly can you solve this sudoku puzzle? </figcaption>
 </figure>
 
 Problem-solving abilities can improve with practice. Many people challenge themselves every day with puzzles and other mental exercises to sharpen their problem-solving skills. For example, sudoku puzzles appear daily in most newspapers. Typically, a sudoku puzzle is a 9×9 grid, but the simple sudoku to the right is a 4×4 grid. To solve the puzzle, fill in the empty boxes with a single digit: 1, 2, 3, or 4. Here are the rules: The numbers must total 10 in each bolded box, each row, and each column; however, each digit can only appear once in a bolded box, row, and column. Try the one to the left if you like! 
 
-<figure style="float:right;margin-left:10px;margin-top:7px;width:30%">
+<figure style="float:right;margin-left:10px;margin-top:7px;width:28%">
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/DotsAndLines.jpg" alt="A square shaped outline contains three rows and three columns of dots with equal space between them.">
 </figure>
 
-On the right is is another type of puzzle that challenges your spatial reasoning skills. Can you connect all nine dots with four connecting straight lines without lifting your pencil from the paper? 
+On the right is is another type of puzzle that challenges your spatial reasoning skills. Can you connect all nine dots with four connecting straight lines without lifting your pencil from the paper (or, uh... your stylus from the tablet)? 
 
 Now take a look at the “Puzzling Scales” logic puzzle below. (This one is by Sam Loyd, a well-known puzzle master, who created and refined countless puzzles throughout his lifetime; Loyd, 1914).
 

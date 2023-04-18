@@ -5,7 +5,7 @@ sidebar:
 ---
 
 # Problem Solving
-<cite>Adapted in part from from Dumper, Jenkins, Lacombe, Lovett, & Perimutter. Problem-Solving. In Openstax Psychology. CC-BY-NA-SA 4.0  </cite>
+<cite>Adapted in part from from Dumper, Jenkins, Lacombe, Lovett, & Perimutter. Problem-Solving. In Openstax Psychology. CC-BY-NC-SA 4.0  </cite>
 {: .small}
 
 ## Learning objectives
@@ -49,17 +49,15 @@ A *heuristic* is yet another type of problem solving strategy. While an algorith
 
 Another useful heuristic is the practice of accomplishing a large goal or task by breaking it into a series of smaller steps. Students often take this approach to complete a large research project or long paper. For example, students typically brainstorm, develop a thesis or main topic, research the chosen topic, organize their information into an outline, write a rough draft, revise and edit the rough draft, develop a final draft, organize the references list, and proofread their work before turning in the project. The large task becomes less overwhelming when it is broken down into a series of small steps. 
 
-There are at least two ways to break problems into smaller parts. One is to take whatever next step moves you closer to your goal -- this is termed the *hill-climbing* heuristic. So, for example, if your goal is to make a lot of money, you might take a job right out of high school, thus making more money than your college-bound friends. The hill-climbing heuristic can work well, but as you can imagine from this example, it can sometimes backfire (e.g., when your friend's fancy Psychology degree lands them a lucrative position at, uh... let's say Google or something). A related approach is the *means-ends* heuristic, where you identify the "ends" (final result) for various subproblems (~steps along the way to your goal) and then figure out the "means" (or methods) you will use to reach those ends. A classic example of means-end analysis can be found in the *Tower of Hanoi* problem. This involves moving disks between different rods and isn't really feasible here, so try an analogous text-friendly version: the *Missionary-Cannibal Problem*. 
+There are at least two ways to break problems into smaller parts. One is to take whatever next step moves you closer to your goal -- this is termed the *hill-climbing* heuristic. So, for example, if your goal is to make a lot of money, you might take a job right out of high school, thus making more money than your college-bound friends. The hill-climbing heuristic can work well, but as you can imagine from this example, it can sometimes backfire (e.g., when your friend's fancy Psychology degree lands them a lucrative position at, uh... let's say Google or something). A related approach is the *means-ends* heuristic, where you identify the "ends" (final result) for various subproblems (~steps along the way to your goal) and then figure out the "means" (or methods) you will use to reach those ends. Two classic examples of means-end analysis can be found in the *River Crossing Problem* and the *Tower of Hanoi Problem*
 
-
-| **Missionary-Cannibal Problem** |
+| **River Crossing Problem** |
 | :----------- | 
 | Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, being in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time. <br><br> You can try an interactive version of this problem [here](https://www.transum.org/software/River_Crossing/Level3.asp). |
 
-
 | **Tower of Hanoi Problem** |
 | :----------- | 
-| The actual Tower of Hanoi problem consists of three rods sitting vertically on a base with a number of disks of different sizes that can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top making a conical shape. The objective of the puzzle is to move the entire stack to another rod obeying the following rules: <br><br> 1. Only one disk can be moved at a time. <br><br> 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod. <br><br> 3. No disc may be placed on top of a smaller disk. |
+| The Tower of Hanoi problem consists of three rods sitting vertically on a base with a number of disks of different sizes that can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top making a conical shape. The objective of the puzzle is to move the entire stack to another rod obeying the following rules: <br><br> 1. Only one disk can be moved at a time. <br><br> 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod. <br><br> 3. No disc may be placed on top of a smaller disk. |
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/hanoi.jpg" alt="Steps for solving the Tower of Hanoi in the minimum number of moves when there are 3 disks.">
@@ -68,7 +66,7 @@ There are at least two ways to break problems into smaller parts. One is to take
 
 With 3 disks, the puzzle can be solved in 7 moves. The minimal moves required to solve a Tower of Hanoi puzzle is 2<sup>n</sup> – 1, where _n_ is the number of disks. For example, if there were 14 disks in the tower, the minimum amount of moves that could be made to solve the puzzle would be 2<sup>14</sup> – 1 = 16,383 moves (OMG what a pain). There are various ways of approaching the Tower of Hanoi and related problems, so involves multiple aspects of problem solving (including understanding the problem and choosing appropriate strategies). Because of this, a variation of the Tower of Hanoi (the "Tower of London") is used in the neuropsychological diagnosis of executive function disorders and their treatment.
 
-If you figured out the Missionary-Cannibal problem by using the solution suggested here for the Tower of Hanoi problem, you were reasoning by analogy. This *analogy heuristic* is a useful approach to many real-world problems, and involves trying a solution that solves a similar problem. One challenge with the analogy approach is to apply solutions from problems that are actually analogous (even when quite different in their surface features)–so-called *problem isomorphs*–and not applying solutions from problems that appear similar on the surface (e.g., are about similar topics) when the underlying problem structure is actually quite different. 
+If you figured out one of these problems via insights from the other problem's solution, you were reasoning by analogy. This *analogy heuristic* is a useful approach to many real-world problems, and involves trying a solution that solves a similar problem. One challenge with the analogy approach is to apply solutions from problems that are actually analogous (even when quite different in their surface features)–so-called *problem isomorphs*–and not applying solutions from problems that appear similar on the surface (e.g., are about similar topics) when the underlying problem structure is actually quite different. 
 
 ## Solving puzzles
 

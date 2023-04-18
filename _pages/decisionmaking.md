@@ -40,7 +40,7 @@ Simon’s concept of bounded rationality taught us that judgment deviates from r
 To highlight some of these biases please answer the following three quiz items:
 
 #### Problem 1 (adapted from Alpert & Raiffa, 1969):
-Listed below are 10 uncertain quantities. Do not look up any information on these items. For each, write down your best estimate of the quantity. Next, put a lower and upper bound around your estimate, such that you are 98 percent confident that your range surrounds the actual quantity. Respond to each of these items even if you admit to knowing very little about these quantities.
+Listed below are 10 uncertain quantities. Do not look up any information on these items. For each, write down your best estimate of the quantity. Next, put a lower and upper bound around your estimate, such that you are 98 percent confident that your range surrounds the actual quantity. Respond to each of these items even if you admit to knowing very little about these quantities. 
 
 1. The first year the Nobel Peace Prize was awarded
 2. The date the French celebrate "Bastille Day"
@@ -51,7 +51,11 @@ Listed below are 10 uncertain quantities. Do not look up any information on thes
 7. 2012-2013 annual budget for the University of Pennsylvania
 8. Average life expectancy in Bangladesh (as of 2012)
 9. World record for pull-ups in a 24-hour period
-10. Number of colleges and universities in the Boston metropolitan area
+10. Number of colleges and universities in the Boston metropolitan area 
+
+| **Problem 1** (adapted from Alpert & Raiffa, 1969) |
+| :----------- | 
+| Listed below are 10 uncertain quantities. Do not look up any information on these items. For each, write down your best estimate of the quantity. Next, put a lower and upper bound around your estimate, such that you are 98 percent confident that your range surrounds the actual quantity. Respond to each of these items even if you admit to knowing very little about these quantities. <br><br> 1. The first year the Nobel Peace Prize was awarded <br> 2. The date the French celebrate "Bastille Day" <br> 3. The distance from the Earth to the Moon <br> 4. The height of the Leaning Tower of Pisa <br> 5. Number of students attending Oxford University (as of 2014) <br> 6. Number of people who have traveled to space (as of 2013) <br> 7. 2012-2013 annual budget for the University of Pennsylvania <br> 8. Average life expectancy in Bangladesh (as of 2012) <br> 9. World record for pull-ups in a 24-hour period <br> 10. Number of colleges and universities in the Boston metropolitan area |
 
 #### Problem 2 (adapted from Joyce & Biddle, 1981):
 We know that executive fraud occurs and that it has been associated with many recent financial scandals. And, we know that many cases of management fraud go undetected even when annual audits are performed. Do you think that the incidence of significant executive-level management fraud is more than 10 in 1,000 firms (that is, 1 percent) audited by Big Four accounting firms?

@@ -108,7 +108,7 @@ In order to make good decisions, we use our knowledge and our reasoning. Sometim
 
 (Did you want to see solutions to the puzzles above? You can find them [here](https://bobsthinktank.github.io/PSYC341OER/_pages/problemsolving-creativity/prob_solutions.html).)
 
-### Summary
+## Summary
 
 Many different strategies exist for solving problems. Typical strategies include trial and error, applying algorithms, and using heuristics. To solve a large, complicated problem, it often helps to break the problem into smaller steps that can be accomplished individually, leading to an overall solution. Roadblocks to problem solving include mental sets (including functional fixedness), and various biases that can cloud decision making skills.
 

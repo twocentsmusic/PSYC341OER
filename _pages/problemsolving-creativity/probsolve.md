@@ -135,7 +135,7 @@ working backwards
 ### References
 --------------
 * German, T. P., & Barrett, H. C. (2005). Functional fixedness in a technologically sparse culture. Psychological Science, 16(1), 1-5.
-* Lloyd, S. (1914). Sam Lloyd's Cyclopedia of Puzzles. 
+* Lloyd, S. (1914). [Sam Lloyd's Cyclopedia of Puzzles](https://www.mathpuzzle.com/loyd/). 
 * Pratkanis, A. R. (1989). The cognitive representation of attitudes. Attitude structure and function, 3, 71-98.
 * Pretz, J.E., Naples, A.J., Sternberg, R.J., Davidson, J.E., Sternberg, R.J. (2003). Recognizing, defining, and representing problems. The psychology of problem solving (pp. 3–30). New York: Cambridge University Press.
 * Sternberg, R. J. & Ben-Zeev, T. (2001). Complex cognition: The psychology of human thought. New York: Oxford University Press.

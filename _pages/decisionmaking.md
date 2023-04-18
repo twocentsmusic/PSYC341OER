@@ -37,43 +37,20 @@ Fortunately, psychologists have learned a great deal about the biases that affec
 ## Biases in Our Decision Process
 Simon’s concept of bounded rationality taught us that judgment deviates from rationality, but it did not tell us how judgment is biased. Tversky and Kahneman’s (1974) research helped to diagnose the specific systematic, directional biases that affect human judgment. These biases are created by the tendency to short-circuit a rational decision process by relying on a number of simplifying strategies, or rules of thumb, known as **heuristics**. Heuristics allow us to cope with the complex environment surrounding our decisions. Unfortunately, they also lead to systematic and predictable biases.
 
-To highlight some of these biases please answer the following three quiz items:
-
-#### Problem 1 (adapted from Alpert & Raiffa, 1969):
-Listed below are 10 uncertain quantities. Do not look up any information on these items. For each, write down your best estimate of the quantity. Next, put a lower and upper bound around your estimate, such that you are 98 percent confident that your range surrounds the actual quantity. Respond to each of these items even if you admit to knowing very little about these quantities. 
-
-1. The first year the Nobel Peace Prize was awarded
-2. The date the French celebrate "Bastille Day"
-3. The distance from the Earth to the Moon
-4. The height of the Leaning Tower of Pisa
-5. Number of students attending Oxford University (as of 2014)
-6. Number of people who have traveled to space (as of 2013)
-7. 2012-2013 annual budget for the University of Pennsylvania
-8. Average life expectancy in Bangladesh (as of 2012)
-9. World record for pull-ups in a 24-hour period
-10. Number of colleges and universities in the Boston metropolitan area 
+To highlight some of these biases please answer the questions posed in the following three problems:
 
 | **Problem 1** (adapted from Alpert & Raiffa, 1969) |
 | :----------- | 
 | Listed below are 10 uncertain quantities. Do not look up any information on these items. For each, write down your best estimate of the quantity. Next, put a lower and upper bound around your estimate, such that you are 98 percent confident that your range surrounds the actual quantity. Respond to each of these items even if you admit to knowing very little about these quantities. <br><br> 1. The first year the Nobel Peace Prize was awarded <br> 2. The date the French celebrate "Bastille Day" <br> 3. The distance from the Earth to the Moon <br> 4. The height of the Leaning Tower of Pisa <br> 5. Number of students attending Oxford University (as of 2014) <br> 6. Number of people who have traveled to space (as of 2013) <br> 7. 2012-2013 annual budget for the University of Pennsylvania <br> 8. Average life expectancy in Bangladesh (as of 2012) <br> 9. World record for pull-ups in a 24-hour period <br> 10. Number of colleges and universities in the Boston metropolitan area |
 
-#### Problem 2 (adapted from Joyce & Biddle, 1981):
-We know that executive fraud occurs and that it has been associated with many recent financial scandals. And, we know that many cases of management fraud go undetected even when annual audits are performed. Do you think that the incidence of significant executive-level management fraud is more than 10 in 1,000 firms (that is, 1 percent) audited by Big Four accounting firms?
+| **Problem 2** (adapted from Joyce & Biddle, 1981) |
+| :----------- | 
+| We know that executive fraud occurs and that it has been associated with many recent financial scandals. And, we know that many cases of management fraud go undetected even when annual audits are performed. Do you think that the incidence of significant executive-level management fraud is more than 10 in 1,000 firms (that is, 1 percent) audited by Big Four accounting firms?  <br><br> - Yes, more than 10 in 1,000 Big Four clients have significant executive-level management fraud. <br>
+- No, fewer than 10 in 1,000 Big Four clients have significant executive-level management fraud.  <br><br> What is your estimate of the number of Big Four clients per 1,000 that have significant executive-level management fraud? (Fill in the blank below with the appropriate number.)  <br><br> ________ in 1,000 Big Four clients have significant executive-level management fraud. |
 
-- Yes, more than 10 in 1,000 Big Four clients have significant executive-level management fraud.
-- No, fewer than 10 in 1,000 Big Four clients have significant executive-level management fraud.
-
-What is your estimate of the number of Big Four clients per 1,000 that have significant executive-level management fraud? (Fill in the blank below with the appropriate number.)
-
-______ in 1,000 Big Four clients have significant executive-level management fraud.
-
-#### Problem 3 (adapted from Tversky & Kahneman, 1981):
-Imagine that the United States is preparing for the outbreak of an unusual avian disease that is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows.
-
-1. Program A: If Program A is adopted, 200 people will be saved.
-2. Program B: If Program B is adopted, there is a one-third probability that 600 people will be saved and a two-thirds probability that no people will be saved.
-
-Which of the two programs would you favor?
+| **Problem 3** (adapted from Tversky & Kahneman, 1981) |
+| Imagine that the United States is preparing for the outbreak of an unusual avian disease that is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows.  <br><br> 1. Program A: If Program A is adopted, 200 people will be saved.  <br> 
+2. Program B: If Program B is adopted, there is a one-third probability that 600 people will be saved and a two-thirds probability that no people will be saved.  <br><br> Which of the two programs would you favor? |
 
 ## Overconfidence
 On the first problem, if you set your ranges so that you were justifiably 98 percent confident, you should expect that approximately 9.8, or nine to 10, of your ranges would include the actual value. So, let’s look at the correct answers:
@@ -93,6 +70,7 @@ On the first problem, if you set your ranges so that you were justifiably 98 per
 8. 70.3 years (as of 2012)
 9. 4,321
 10. 52
+{:small}
 
 Count the number of your 98% ranges that actually surrounded the true quantities. If you surrounded nine to 10, you were appropriately confident in your judgments. But most readers surround only between three (30%) and seven (70%) of the correct answers, despite claiming 98% confidence that each range would surround the true value. As this problem shows, humans tend to be **overconfident** in their judgments.
 

@@ -45,8 +45,7 @@ To highlight some of these biases please answer the questions posed in the follo
 
 | **Problem 2** (adapted from Joyce & Biddle, 1981) |
 | :----------- | 
-| We know that executive fraud occurs and that it has been associated with many recent financial scandals. And, we know that many cases of management fraud go undetected even when annual audits are performed. Do you think that the incidence of significant executive-level management fraud is more than 10 in 1,000 firms (that is, 1 percent) audited by Big Four accounting firms?  <br><br> - Yes, more than 10 in 1,000 Big Four clients have significant executive-level management fraud. <br>
-- No, fewer than 10 in 1,000 Big Four clients have significant executive-level management fraud.  <br><br> What is your estimate of the number of Big Four clients per 1,000 that have significant executive-level management fraud? (Fill in the blank below with the appropriate number.)  <br><br> ________ in 1,000 Big Four clients have significant executive-level management fraud. |
+| We know that executive fraud occurs and that it has been associated with many recent financial scandals. And, we know that many cases of management fraud go undetected even when annual audits are performed. Do you think that the incidence of significant executive-level management fraud is more than 10 in 1,000 firms (that is, 1 percent) audited by Big Four accounting firms?  <br><br> - Yes, more than 10 in 1,000 Big Four clients have significant executive-level management fraud. <br> - No, fewer than 10 in 1,000 Big Four clients have significant executive-level management fraud.  <br><br> Now give a your estimate: ________ in 1,000 Big Four clients have significant executive-level management fraud. |
 
 | **Problem 3** (adapted from Tversky & Kahneman, 1981) |
 | :----------- | 

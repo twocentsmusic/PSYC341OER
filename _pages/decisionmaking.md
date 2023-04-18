@@ -49,8 +49,8 @@ To highlight some of these biases please answer the questions posed in the follo
 - No, fewer than 10 in 1,000 Big Four clients have significant executive-level management fraud.  <br><br> What is your estimate of the number of Big Four clients per 1,000 that have significant executive-level management fraud? (Fill in the blank below with the appropriate number.)  <br><br> ________ in 1,000 Big Four clients have significant executive-level management fraud. |
 
 | **Problem 3** (adapted from Tversky & Kahneman, 1981) |
-| Imagine that the United States is preparing for the outbreak of an unusual avian disease that is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows.  <br><br> 1. Program A: If Program A is adopted, 200 people will be saved.  <br> 
-2. Program B: If Program B is adopted, there is a one-third probability that 600 people will be saved and a two-thirds probability that no people will be saved.  <br><br> Which of the two programs would you favor? |
+| :----------- | 
+| Imagine that the United States is preparing for the outbreak of an unusual avian disease that is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimates of the consequences of the programs are as follows: <br><br> 1. *Program A:* If Program A is adopted, 200 people will be saved. <br> 2. *Program B:* If Program B is adopted, there is a one-third probability that 600 people will be saved and a two-thirds probability that no people will be saved.  <br><br> Which of the two programs would you favor? |
 
 ## Overconfidence
 On the first problem, if you set your ranges so that you were justifiably 98 percent confident, you should expect that approximately 9.8, or nine to 10, of your ranges would include the actual value. So, let’s look at the correct answers:
@@ -70,7 +70,7 @@ On the first problem, if you set your ranges so that you were justifiably 98 per
 8. 70.3 years (as of 2012)
 9. 4,321
 10. 52
-{:small}
+{: .small}
 
 Count the number of your 98% ranges that actually surrounded the true quantities. If you surrounded nine to 10, you were appropriately confident in your judgments. But most readers surround only between three (30%) and seven (70%) of the correct answers, despite claiming 98% confidence that each range would surround the true value. As this problem shows, humans tend to be **overconfident** in their judgments.
 
@@ -80,9 +80,9 @@ Regarding the second problem, people vary a great deal in their final assessment
 ## Framing
 Turning to Problem 3, most people choose Program A, which saves 200 lives for sure, over Program B. But, again, if I was in front of a classroom, only half of my students would receive this problem. The other half would have received the same set-up, but with the following two options:
 
-1. Program C: If Program C is adopted, 400 people will die.
-2. Program D: If Program D is adopted, there is a one-third probability that no one will die and a two-thirds probability that 600 people will die.
-Which of the two programs would you favor?
+| **Problem 3** (for the other half of the participants): |
+| :----------- | 
+| 1. *Program C:* If Program C is adopted, 400 people will die. <br> 2. *Program D:* If Program D is adopted, there is a one-third probability that no one will die and a two-thirds probability that 600 people will die. <br><br> Which of the two programs would you favor? |
 
 Careful review of the two versions of this problem clarifies that they are objectively the same. Saving 200 people (Program A) means losing 400 people (Program C), and Programs B and D are also objectively identical. Yet, in one of the most famous problems in judgment and decision making, most individuals choose Program A in the first set and Program D in the second set (Tversky & Kahneman, 1981). People respond very differently to saving versus losing lives—even when the difference is based just on the **framing** of the choices.
 
@@ -118,23 +118,31 @@ Our days are filled with decisions ranging from the small (what should I wear to
 2. How would you use this module to be a better decision maker?
 3. Can you see any biases in today’s newspaper?
 
-## Vocabulary
-### Anchoring
-The bias to be affected by an initial anchor, even if the anchor is arbitrary, and to insufficiently adjust our judgments away from that anchor.
-### Biases
-The systematic and predictable mistakes that influence the judgment of even very talented human beings.
-### Bounded rationality
-Model of human behavior that suggests that humans try to make rational decisions but are bounded due to cognitive limitations.
-### Framing
-The bias to be systematically affected by the way in which information is presented, while holding the objective information constant.
-### Heuristics
-cognitive (or thinking) strategies that simplify decision making by using mental short-cuts
-### Overconfident
-The bias to have greater confidence in your judgment than is warranted based on a rational assessment.
-### System 1
-Our intuitive decision-making system, which is typically fast, automatic, effortless, implicit, and emotional.
-### System 2
-Our more deliberative decision-making system, which is slower, conscious, effortful, explicit, and logical.
+### Glossary:
+--------------
+Anchoring
+: The bias to be affected by an initial anchor, even if the anchor is arbitrary, and to insufficiently adjust our judgments away from that anchor.
+
+Biases
+: The systematic and predictable mistakes that influence the judgment of even very talented human beings.
+
+Bounded rationality
+: Model of human behavior that suggests that humans try to make rational decisions but are bounded due to cognitive limitations.
+
+Framing
+: The bias to be systematically affected by the way in which information is presented, while holding the objective information constant.
+
+Heuristics
+: cognitive (or thinking) strategies that simplify decision making by using mental short-cuts
+
+Overconfident
+: The bias to have greater confidence in your judgment than is warranted based on a rational assessment.
+
+System 1
+: Our intuitive decision-making system, which is typically fast, automatic, effortless, implicit, and emotional.
+
+System 2
+: Our more deliberative decision-making system, which is slower, conscious, effortful, explicit, and logical.
 
 ## References
 * Alpert, M., & Raiffa, H. (1969). A progress report on the training of probability assessors. Unpublished Report.
@@ -142,7 +150,7 @@ Our more deliberative decision-making system, which is slower, conscious, effort
 * Bazerman, M. H., & Moore, D. (2013). Judgment in managerial decision making (8th ed.). John Wiley & Sons Inc.
 * Beshears, J., Choi, J. J., Laibson, D., & Madrian, B. C. (2008). The importance of default options for retirement saving outcomes: Evidence from the United States. In S. J. Kay & T. Sinha (Eds.), Lessons from pension reform in the Americas (pp. 59–87). Oxford: Oxford University Press.
 * Chugh, D. (2004). Societal and managerial implications of implicit social cognition: Why milliseconds matter. Social Justice Research, 17(2), 203–222.
-Loewenstein, & M. H. Bazerman (Eds.), Conflicts of Interest (pp. 74–95). New York, NY: Cambridge University Press.
+* Loewenstein, & M. H. Bazerman (Eds.), Conflicts of Interest (pp. 74–95). New York, NY: Cambridge University Press.
 * Fischhoff, B. (1982). Debiasing. In D. Kahneman, P. Slovic, & A. Tversky (Eds.), Judgment under uncertainty: Heuristics and biases (pp. 422–444). New York, NY: Cambridge University Press.
 * Johnson, E. J., & Goldstein, D. (2003). Do defaults save lives? Science 302(5649), 1338–1339.
 * Joyce, E. J., & Biddle, G. C. (1981). Are auditors’ judgments sufficiently regressive? Journal of Accounting Research, 19(2), 323–349.
@@ -163,6 +171,8 @@ Loewenstein, & M. H. Bazerman (Eds.), Conflicts of Interest (pp. 74–95). New Y
 3. Tax Credits, https://goo.gl/YLuyth, [CC BY 2.0](https://goo.gl/BRvSA7)
 {: .small}
 
-Adapted from Bazerman, M. H. (2021). Judgment and decision making. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/9xjyvc3a
+### Adapted from 
+* Bazerman, M. H. (2021). Judgment and decision making. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/9xjyvc3a
+{: .small}
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

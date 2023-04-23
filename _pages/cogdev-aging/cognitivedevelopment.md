@@ -4,10 +4,12 @@ sidebar:
   nav: "cogdevnav"
 ---
 # Cognitive Development
-<cite>Adapted from Queen, T. & Smith, J. (2021). Aging (http://noba.to/gtp7r548) and Siegler, R. (2020). Cognitive development in childhood (http://noba.to/8uv4fn9h). Both in R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. </cite>
+<cite>Adapted from multiple sources (see below)</cite>
 {: .small}
 
-This module examines what cognitive development is, major theories about how it occurs, the roles of nature and nurture, whether it is continuous or discontinuous, how research in the area is being used to improve education, and how cognitive development extends across the lifespan (i.e., cognitive aging). 
+Somehow, we all changed from small confused crying babies with nothing useful to say into the cognitively astute people who are reading this right now. How did that happen? Cognitive development is a big topic, and this module just touches on a few relevant aspects. "Development" is typically assumed to refer to children, who do offer a fascinating window onto cognition. However, development is a lifelong process, so here we'll focus both on cognitive development in children and over the lifespan. 
+
+Major questions in cognitive development include debates on the roles of nature and nurture, whether development is continuous or discontinuous, how research in cognitive development is being (and should be being) used to improve education, We will touch on these below. 
 
 ## Learning Objectives
 * Be able to identify and describe the main areas of cognitive development.
@@ -221,7 +223,7 @@ Sociocultural theories
 5. Ben Husmann, https://goo.gl/awOXSw, [CC BY 2.0](https://goo.gl/9uSnqN)
 {: .small}
 
-Adapted from:
+## Adapted from:
 * Queen, T. & Smith, J. (2021). Aging. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/gtp7r548
 * Siegler, R. (2020).Cognitive development in childhood. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/8uv4fn9h
 

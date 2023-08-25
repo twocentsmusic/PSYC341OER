@@ -12,7 +12,7 @@ The world that we perceive is complex. For example, a visual scene typically has
 
 <figure>
     <img src="https://bobsthinktank.github.io/PSYC341OER/images/Terrapins_Lagos_Zoo_The_Algarve_Portugal.jpg" >
-    <figcaption> How do you know these terrapins on the log are three separate objects? [1] </figcaption>
+    <figcaption> How do you know these three terrapins and the log are four separate objects? [1] </figcaption>
 </figure>
 
 Psychologists often distinguish between **top-down** and **bottom-up** approaches to information-processing. In top-down approaches, knowledge or expectations are used to guide processing. That is, these accounts suggest perception results from hypotheses about sensory information based on prior knowledge (e.g., Gregory, 1970). Bottom-up (or *data driven*) approaches, however, are more like the structuralist approach, piecing together data to reach the bigger picture. For example, Gibson's (1966) theory of *direct perception* claims that the real world provides sufficient contextual information for our visual systems to directly perceive what is there, unmediated by the influence of higher cognitive processes. Gibson developed the notion of *affordances*, referring to those aspects of objects or environments that allow an individual to perform an action. Gibson's emphasis on the match between individual and environment led him to refer to his approach as ecological. Most psychologists now would argue that both bottom-up and top-down processes are involved in perception.

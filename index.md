@@ -13,7 +13,7 @@ How are we so good at recognizing faces and objects? How do we selectively atten
 
 These are all questions asked in the field of *cognitive psychology*, which focuses on the internal mental processes involved in representing concepts, remembering, reasoning, language processing, decision making, and problem solving. More specific questions include: Is it safe to talk on a hands-free cell phone while driving? Is eyewitness testimony reliable? How can you better remember information? What are the pitfalls that lead to bad decisions, and how can they be avoided?
 
-This site is a set of [open educational resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources) related to the field of Cognitive Psychology. These were adapted from various other sources (with support from the [Maryland Open Source Textbook Initiative](https://www.oer-maryland.org/) - thanks!) in order to serve as the textbook for *Introduction to Memory and Cognition* [PSYC 341](https://academiccatalog.umd.edu/search/?P=PSYC341) at the [University of Maryland, College Park](https://umd.edu/). 
+This site is a set of always-in-development [open educational resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources) related to the field of Cognitive Psychology. The content has mostly been adapted from various other sources (with support from the [Maryland Open Source Textbook Initiative](https://www.oer-maryland.org/) - thanks!) in order to serve as the textbook for *Introduction to Memory and Cognition* [PSYC 341](https://academiccatalog.umd.edu/search/?P=PSYC341) at the [University of Maryland, College Park](https://umd.edu/). 
 
 As OER they are completely free for students (and anyone else) to use and/or revise/redistribute.
 

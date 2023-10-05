@@ -109,7 +109,7 @@ False memories
 : Memory for an event that never actually occurred, implanted by experimental manipulation or other means.
 
 Foils
-" Any member of a lineup (whether live or photograph) other than the suspect.
+: Any member of a lineup (whether live or photograph) other than the suspect.
 
 Misinformation effect
 : A memory error caused by exposure to incorrect information between the original event (e.g., a crime) and later memory test (e.g., an interview, lineup, or day in court).
@@ -170,7 +170,9 @@ Schema (plural: schemata)
 ## Image credits
 1. Robert Couse-Baker, https://goo.gl/OiPUmz, [CC BY 2.0](https://goo.gl/BRvSA7)
 2. Dan Kleinman, https://goo.gl/07xyDD, [CC BY 2.0](https://goo.gl/BRvSA7)
+{: .small}
 
 Adapted from Laney, C. & Loftus, E. F. (2020). Eyewitness testimony and memory biases. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. http://noba.to/uy49tm37
+{: .small}
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

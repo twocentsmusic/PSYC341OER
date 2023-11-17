@@ -16,11 +16,11 @@ Humans are not perfect decision makers. Not only are we not perfect, but we depa
 * Experience some of the biases through sample decisions.
 
 ## Introduction
-Every day you have the opportunity to make countless decisions: should you eat dessert, cheat on a test, or attend a sports event with your friends. If you reflect on your own history of choices you will realize that they vary in quality; some are rational and some are not. This module provides an overview of decision making and includes discussion of many of the common biases involved in this process. 
+Every day you have the opportunity to make countless decisions: should you eat dessert? cheat on a test? attend a sports event with your friends? If you reflect on your own history of choices you will probably realize that they vary in quality; some are rational and some are less so. 
 
-In his Nobel Prize–winning work, psychologist Herbert Simon (1957; March & Simon, 1958) argued that our decisions are bounded in their rationality. According to the **bounded rationality** framework, human beings try to make rational decisions (such as weighing the costs and benefits of a choice) but our cognitive limitations prevent us from being fully rational. Time and cost constraints limit the quantity and quality of the information that is available to us. Moreover, we only retain a relatively small amount of information in our usable memory. And limitations on intelligence and perceptions constrain the ability of even very bright decision makers to accurately make the best choice based on the information that is available.
+In his Nobel Prize–winning work, psychologist Herbert Simon (1957; March & Simon, 1958) argued that our decisions are bounded in their rationality. According to this **bounded rationality** framework, we try to make rational decisions (such as weighing the costs and benefits of a choice) but our cognitive limitations prevent us from being fully rational. Time and cost constraints limit the quantity and quality of the information that is available to us. Moreover, we retain only a relatively small amount of information in our working memory, and limitations on intelligence and perception constrain the ability of even very bright decision makers to accurately make the best choice based on the information that is available.
 
-About 15 years after the publication of Simon’s seminal work, Tversky and Kahneman (1973, 1974; Kahneman & Tversky, 1979) produced their own Nobel Prize–winning research, which provided critical information about specific systematic and predictable biases, or mistakes, that influence judgment (Kahneman received the prize after Tversky’s death). The work of Simon, Tversky, and Kahneman paved the way to our modern understanding of judgment and decision making. And their two Nobel prizes signaled the broad acceptance of the field of behavioral decision research as a mature area of intellectual study.
+About 15 years after the publication of Simon’s seminal work, Tversky and Kahneman (1973, 1974; Kahneman & Tversky, 1979) produced their own Nobel Prize–winning research, which provided critical information about specific systematic and predictable *biases* that influence judgment (Kahneman received the prize after Tversky’s death). The work of Simon, Tversky, and Kahneman paved the way to our modern understanding of judgment and decision making. And their two Nobel prizes signaled the broad acceptance of the field of behavioral decision research as a mature area of intellectual study.
 
 ## What Would a Rational Decision Look Like?
 <figure style="float:left;margin-right:10px;margin-top:7px;width:50%">
@@ -35,13 +35,13 @@ I strongly advise people to think through important decisions such as this in a 
 Fortunately, psychologists have learned a great deal about the biases that affect our thinking. This knowledge about the systematic and predictable mistakes that even the best and the brightest make can help you identify flaws in your thought processes and reach better decisions.
 
 ## Biases in Our Decision Process
-Simon’s concept of bounded rationality taught us that judgment deviates from rationality, but it did not tell us how judgment is biased. Tversky and Kahneman’s (1974) research helped to diagnose the specific systematic, directional biases that affect human judgment. These biases are created by the tendency to short-circuit a rational decision process by relying on a number of simplifying strategies, or rules of thumb, known as **heuristics**. Heuristics allow us to cope with the complex environment surrounding our decisions. Unfortunately, they also lead to systematic and predictable biases.
+Simon’s concept of bounded rationality taught us that judgment deviates from rationality, but it did not tell us how judgment is biased. Tversky and Kahneman’s (1974) research helped to diagnose the specific systematic, directional biases that affect human judgment. These biases are created by the tendency to short-circuit a rational decision process by relying on a number of simplifying strategies, or "rules of thumb", known as **heuristics**. Heuristics allow us to cope with the complex environment surrounding our decisions. Unfortunately, they also lead to systematic and predictable biases.
 
 To highlight some of these biases please answer the questions posed in the following three problems:
 
 | **Problem 1** (adapted from Alpert & Raiffa, 1969) |
 | :----------- | 
-| Listed below are 10 uncertain quantities. Do not look up any information on these items. For each, write down your best estimate of the quantity. Next, put a lower and upper bound around your estimate, such that you are 98 percent confident that your range surrounds the actual quantity. Respond to each of these items even if you admit to knowing very little about these quantities. <br><br> 1. The first year the Nobel Peace Prize was awarded <br> 2. The date the French celebrate "Bastille Day" <br> 3. The distance from the Earth to the Moon <br> 4. The height of the Leaning Tower of Pisa <br> 5. Number of students attending Oxford University (as of 2014) <br> 6. Number of people who have traveled to space (as of 2013) <br> 7. 2012-2013 annual budget for the University of Pennsylvania <br> 8. Average life expectancy in Bangladesh (as of 2012) <br> 9. World record for pull-ups in a 24-hour period <br> 10. Number of colleges and universities in the Boston metropolitan area |
+| Listed below are 10 uncertain quantities. Do not look up any information on these items. For each, write down your best estimate of the quantity. Next, put a lower and upper bound around your estimate, such that you are 98 percent confident that your range surrounds the actual quantity. Respond to each of these items even if you admit to knowing very little about these quantities. <br><br> 1. The first year the Nobel Peace Prize was awarded <br> 2. The date the French celebrate "Bastille Day" <br> 3. The distance from the Earth to the Moon <br> 4. The height of the Leaning Tower of Pisa <br> 5. Number of students attending Oxford University (as of 2022) <br> 6. Number of people who have traveled to space (as of 2023) <br> 7. 2022-2023 annual budget for the University of Maryland <br> 8. Average life expectancy in Bangladesh (as of 2019) <br> 9. World record for pull-ups in a 24-hour period (as of 2023) <br> 10. Number of colleges and universities in the Boston metropolitan area |
 
 | **Problem 2** (adapted from Joyce & Biddle, 1981) |
 | :----------- | 
@@ -63,11 +63,11 @@ On the first problem, if you set your ranges so that you were justifiably 98 per
 2. 14th of July
 3. 384,403 km (238,857 mi)
 4. 56.67 m (183 ft)
-5. 22,384 (as of 2014)
-6. 536 people (as of 2013)
-7. $6.007 billion
-8. 70.3 years (as of 2012)
-9. 4,321
+5. 26,497 (as of 2022)
+6. 676 people (as of 2023)
+7. $2.49 billion
+8. 74.3 years (as of 2019)
+9. 8,600
 10. 52
 {: .small}
 
